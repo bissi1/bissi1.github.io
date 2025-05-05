@@ -49,7 +49,7 @@ $max-width: 1200px;   // 1200, 1400, or any px you like
 
 .post-content ol li + li,
 .page-content  ol li + li {
-  margin-top: 0.25em;     /* default is 0.5em → half the gap */
+  margin-top: 0.2em;     /* default is 0.5em → half the gap */
 }
 
 /* give any page with `classes: full` a 1200 px column */
