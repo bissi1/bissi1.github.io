@@ -8,6 +8,13 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+
+/* 1) Set the root <html> size */
+html { font-size: 87.5%; }
+
+/* 2) Override the theme’s body‑text variable */
+$type-size-5: 0.875em !default;
+
 @import
     "vendor/breakpoint/breakpoint",
 
