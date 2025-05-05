@@ -9,11 +9,12 @@
  */
 
 
-/* 1) Set the root <html> size */
-html { font-size: 87.5%; }
+* ── 1.  override the variable *before* the theme loads ───────── */
+$type-size-5: 0.875em;      /* ≈14 px body copy */
+
 
 /* 2) Override the theme’s body‑text variable */
-$type-size-5: 0.55em !default;
+$type-size-5: 0.875em !default;
 
 @import
     "vendor/breakpoint/breakpoint",
@@ -48,3 +49,5 @@ $type-size-5: 0.55em !default;
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+html { font-size: 87.5%; }    /* 14 px = 87.5 % of 16 px */
