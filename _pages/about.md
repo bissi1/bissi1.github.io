@@ -35,8 +35,8 @@ My research has been funded by, among others, the German Research Foundation (DF
   - *Open Invitation*: I always welcome talented and mathematically strong students or postdocs from around the world to join my research team or collaborate on exciting projects. Explore →
   
 ### 🎉 **Recent Publications:**: 
-  - New work out in [INFORMS Journal on Applied Analytics](https://pubsonline.informs.org/doi/10.1287/inte.2024.0160). Congratulations to my student Ms. Nikila Suresh, who was also awarded Southampton's Dean's List Award for Outstanding Achievement, for this impact-based work.
-  - Work out in [INFORMS Journal on Computing](https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0693). Congratulations to my student Ms. Malena Schmidt for an outstanding thesis work encompassing both theoretical and computational grounds of undesirable facility location problems.
+  - New work out in [INFORMS Journal on Applied Analytics](https://pubsonline.informs.org/doi/10.1287/inte.2024.0160). Congratulations to my student Nikila Suresh, who was also awarded Southampton's Dean's List Award for Outstanding Achievement, for this impact-based work.
+  - Work out in [INFORMS Journal on Computing](https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0693). Congratulations to my student Malena Schmidt for an outstanding thesis work encompassing both theoretical and computational grounds of undesirable facility location problems.
   - Work out in [INFORMS Transactions on Education](https://pubsonline.informs.org/doi/10.1287/ited.2024.0112). This pedagogical exercise is designed for introductory courses in operations research.
  
 ### 🎉 **Special Issue**:
