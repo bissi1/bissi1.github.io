@@ -19,6 +19,14 @@ My research centers on *data-driven decision-making under uncertainty*, with a p
 
 My research has been funded by, among others, the German Research Foundation (DFG), the Horizon 2020 program, and the US Department of Energy's LDRD program (see left). Explore My Research →
 
+{% include figure
+   image_path = '/assets/images/funding.png'
+   alt        = 'In the lab, 2024'
+   caption    = '(some) agencies funding my work:'
+   popup      = true        
+%}
+
+
 ## Latest News
 
 
