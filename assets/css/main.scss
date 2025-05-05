@@ -11,11 +11,6 @@
 
 $type-size-5: 1em;    // 14px, change font here and in line at end
 
-.author__bio p {
-  font-weight: 600;     /* 700 = very bold, 600 = semibold */
-  margin-bottom: 0.25rem; /* optional: tighten vertical rhythm */
-}
-
 @import
     "vendor/breakpoint/breakpoint",
 
