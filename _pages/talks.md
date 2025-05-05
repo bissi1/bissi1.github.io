@@ -2,7 +2,10 @@
 title: "Talks"
 permalink: /talks/
 layout: single          # gives you a normal full‑width page
+classes: full
 ---
+
+The lists below do not include regular talks in workshops or conferences.
 
 ## Distinguished Lectures
 
