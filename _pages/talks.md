@@ -23,7 +23,7 @@ The lists below do not include regular talks in workshops or conferences.
   <li>Industrial Economics and Technology Management, NTNU, Trondheim, Norway 2024</li>
   <li>Department of Mathematics, IIT Delhi, India 2024</li>
   <li>Institut für Mathematik, Universität Augsburg, Germany 2023</li>
-  <li>Department of Management, Information and Production Engineering, University of Bergamo, Italy 2023</li>
+  <li>Department of Management, Information &amp; Production Engineering, University of Bergamo, Italy 2023</li>
   <li>School of Engineering, Universidad Católica del Norte, Coquimbo, Chile 2023</li>
   <li>Department of Mathematics, Atatürk University, Erzurum, Turkey 2023</li>
   <li>Department of Mathematics, Indian Institute of Technology (IIT) Delhi, India 2023</li>

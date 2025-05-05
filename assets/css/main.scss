@@ -45,4 +45,11 @@ $type-size-5: 1em;    // 14px, change font here and in line at end
     "vendor/magnific-popup/magnific-popup"
 ;
 
+/* give any page with `classes: full` a 1200 px column */
+.full .page__content,
+.full .page__inner-wrap {
+  max-width: 1200px;   /* or 90% for a fluid width */
+}
+
+
 html { font-size: 100%; }   // 100% of 16px, change font here and line at top
