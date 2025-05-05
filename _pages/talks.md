@@ -18,7 +18,7 @@ classes: full
 ## Invited Seminars
 
   <ol reversed>
-  <li>Faculty of Physics, Mathematics and Optometry, University of Latvia, Riga 2024</li>
+  <li>Faculty of Physics, Mathematics &amp; Optometry, University of Latvia, Riga 2024</li>
   <li>Center for Systems Biology Dresden, Max‑Planck Society, Germany 2024</li>
   <li>Department of Mathematics, Atatürk University, Erzurum, Turkey 2024</li>
   <li>Department of Wirtschaftsmathematik, University of Bayreuth, Germany 2024</li>
@@ -46,7 +46,7 @@ classes: full
   <li>Business and Management Science, Norwegian School of Economics, Bergen, Norway 2016</li>
   <li>Industrial Economics and Technology Management, NTNU, Trondheim, Norway 2016</li>
   <li>Faculty of Economics and Business, University of Groningen, Netherlands 2016</li>
-  <li>College of Management of Technology, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland 2016</li>
+  <li>College of Management of Technology, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland 2016</li>
   <li>Institute of Applied Mathematics, Leibniz Universität Hannover, Germany 2016</li>
   <li>Department of Mathematics, University of Duisburg‑Essen, Germany 2016</li>
   <li>Faculty of Mathematics and Physics, Charles University, Prague 2016</li>
