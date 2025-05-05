@@ -1,19 +1,47 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am Bismark Singh, an Associate Professor in the Operational Research group at the School of Mathematical Sciences, University of Southampton, UK. 
 
-A data-driven personal website
+My academic foundation is rooted in an interdisciplinary quantitative data-science background. I have a habilitation in mathematics from the Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany.  I earned my PhD and Master's degrees in operations research from The University of Texas at Austin, US, where I worked under the guidance of David Morton (optimization) and Lauren Meyers (biology). During my time there, I also completed a portfolio in scientific computation. My undergraduate journey began at the Indian Institute of Technology (IIT) Delhi, India, where I graduated in chemical engineering.  Short CV →
+
+In 2024-25, I am a visiting professor at TU Dresden, Germany via their [Distinguished Research Fellowship](https://tu-dresden.de/bu/wirtschaft/die-fakultaet/news/auszeichnung-von-associate-professor-bismark-singh-als-distinguished-research-fellow).
+
+I am the winner of the Mathematics 2023 [Young Investigator Award](https://www.mdpi.com/journal/mathematics/awards/2137). 
+
+My research centers on **data-driven decision-making under uncertainty**, with a particular focus on discrete stochastic optimization models. From formulating these models to developing novel algorithms and real-world applications, I advance mathematical decision-making in complex and uncertain environments. Stay turned for my upcoming book, to be published by Springer, on this subject!
+
+My research has been funded by, among others, the German Research Foundation (DFG), the Horizon 2020 program, and the US Department of Energy's LDRD program (see left). Explore My Research →
+
+Latest News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+  🎉 Media coverage: 
+-   TU Dresden published an interview from my visiting professorship.
+-   Congratulations to my student Malena Schmidt for winning the 2025 Hemelrijk Award by the Dutch OR Society for the best MSc thesis. Malena's exceptional thesis produced two articles in the INFORMS Journal on Computing and Networks. 
+  🎉 Exciting Opportunities:
+    - A new PhD position with me in discrete optimization is now open at the University of Southampton! If you are a talented and eligible student, please apply through the university website here.
+    - Welcome to Dr. Hoai Le for joining my group as a new postdoc. She will be working on discrete optimization with healthcare applications.
+  🎉 Publication Announcement: 
+  - Our article is now published in the INFORMS Journal on Applied Analytics. Congratulations to my student Nikila Suresh, who was also awarded Southampton's Dean's List Award for Outstanding Achievement, for this impact-based work.
+  - Our article is now published in the INFORMS Journal on Computing. Congratulations to my student Malena Schmidt for an outstanding thesis work encompassing both theoretical and computational grounds of undesirable facility location problems.
+  - My article is now published in the INFORMS Transactions on Education. This pedagogical exercise is designed for introductory courses in operations research.
+  🎉 Editorial Role:
+  - I am the Guest Editor of a Special Issue on Stochastic Optimization for Reliability and Maintenance for Optimization Letters. I invite you to consider submitting your work!
+  🎉 Distinguished Lecture:
+  - In December 2024, I delivered a Distinguished Lecture at the Centre for Advanced Systems Understanding (CASUS), Helmholtz, Görlitz, Germany.
+  🎉 Invited Visits and Lectures:
+    - September 2024: Invited to Schloss Dagstuhl for a week-long academic workshop on reliable decision-making under uncertainty.
+    - September 2024: Research visit to the Faculty of Mathematics, University of Latvia, Riga.
+    - 2024: Multiple long visits, including an honorary lecture, to TU Dresden as part of my guest professorship.
+    - June 2024: Invited to the University of Bayreuth, hosted by their Humboldt Centre , for a three-week research collaboration.
+🎉 Open Invitation: I always welcome talented and mathematically strong students or postdocs from around the world to join my research team or collaborate on exciting projects. Explore →
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
