@@ -27,7 +27,7 @@ My research has been funded by, among others, the German Research Foundation (DF
 
 ###  🎉 **Media coverage**: 
 -   TU Dresden published an [interview](https://tu-dresden.de/bu/wirtschaft/forschung/interview-bismark-singh) from my visiting professorship.
--   Congratulations to my student Malena Schmidt for winning the 2025 Hemelrijk Award by the Dutch OR Society for the best MSc thesis. Malena's exceptional thesis produced two articles in the INFORMS Journal on Computing and Networks. 
+-   Congratulations to my student Malena Schmidt for winning the [2025 Hemelrijk Award](https://www.vvsor.nl/articles/hemelrijk-award-winner-2025/) by the Dutch OR Society for the best MSc thesis. Malena's exceptional thesis produced two articles in the INFORMS Journal on Computing and Networks. 
 
 ### 🎉 **Exciting Opportunities**:
   - A [new PhD position](https://www.findaphd.com/phds/project/mathematically-modeling-systems-resilient-against-unforeseen-attacks/?p177266) with me in discrete optimization is now open at the University of Southampton! If you are a talented and eligible student, please apply through the university website here.
@@ -39,13 +39,13 @@ My research has been funded by, among others, the German Research Foundation (DF
   - Work out in [INFORMS Journal on Computing](https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0693). Congratulations to my student Ms. Malena Schmidt for an outstanding thesis work encompassing both theoretical and computational grounds of undesirable facility location problems.
   - Work out in [INFORMS Transactions on Education](https://pubsonline.informs.org/doi/10.1287/ited.2024.0112). This pedagogical exercise is designed for introductory courses in operations research.
  
-###### 🎉 **Special Issue**:
+### 🎉 **Special Issue**:
   - I am the Guest Editor of a [Special Issue on Stochastic Optimization for Reliability and Maintenance](https://link.springer.com/journal/11590/updates/27713526) for Optimization Letters. I invite you to consider submitting your work!
  
-###### 🎉 **Distinguished Lecture**:
+### 🎉 **Distinguished Lecture**:
   - In December 2024, I delivered a Distinguished Lecture at the [Centre for Advanced Systems Understanding (CASUS)](https://link.springer.com/journal/11590/updates/27713526), Helmholtz, Görlitz, Germany.
   
-###### 🎉 **Invited Visits and Lectures**: 
+### 🎉 **Invited Visits and Lectures**: 
   - September 2024: Invited to Schloss Dagstuhl for a week-long academic workshop on reliable decision-making under uncertainty.
   - September 2024: Research visit to the Faculty of Mathematics, University of Latvia, Riga.
   - 2024: Multiple long visits, including an honorary lecture, to TU Dresden as part of my guest professorship.
