@@ -16,3 +16,4 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+gem "wdm", "~> 0.2.0", platforms: [:mingw, :mswin, :x64_mingw]
