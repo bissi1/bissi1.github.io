@@ -2,7 +2,7 @@
 title: "Talks"
 permalink: /talks/
 layout: single          # gives you a normal full‑width page
-classes: wide           # optional: use full content width
+classes: full           # optional: use full content width
 ---
 
 ## Distinguished Lectures
