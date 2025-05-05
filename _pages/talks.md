@@ -5,12 +5,14 @@ layout: single          # gives you a normal full‑width page
 classes: full
 ---
 
-The lists below do not include regular talks in workshops or conferences.
+*The lists below do not include regular talks in workshops or conferences.*
 
 ## Distinguished Lectures
 
-  - Honorary lecture, Distinguished Research Fellowship, TU Dresden, Germany 2024. See [here](https://tu-dresden.de/bu/wirtschaft/die-fakultaet/news/auszeichnung-von-associate-professor-bismark-singh-als-distinguished-research-fellow). 
-  - Plenary lecture, International Symposium on Current Developments in Fundamental and Applied Mathematics Sciences [Online] 2022. See [here](https://iscdfams.com/iscdfams-2022/).
+  <ol reversed>
+  <li>Honorary lecture, Distinguished Research Fellowship, TU Dresden, Germany 2024. See [here](https://tu-dresden.de/bu/wirtschaft/die-fakultaet/news/auszeichnung-von-associate-professor-bismark-singh-als-distinguished-research-fellow).</li>
+  <li>Plenary lecture, International Symposium on Current Developments in Fundamental and Applied Mathematics Sciences [Online] 2022. See [here](https://iscdfams.com/iscdfams-2022/).</li>
+</ol>
 
 
 ## Invited Seminars
@@ -48,14 +50,14 @@ The lists below do not include regular talks in workshops or conferences.
   <li>Institute of Applied Mathematics, Leibniz Universität Hannover, Germany 2016</li>
   <li>Department of Mathematics, University of Duisburg‑Essen, Germany 2016</li>
   <li>Faculty of Mathematics and Physics, Charles University, Prague 2016</li>
-  <li>Department of Statistics and Optimization, Brno University of Technology, Czech Republic 2016</li>
-  <li>Center for Operations Research and Econometrics (CORE), Université catholique de Louvain, Belgium 2016</li>
+  <li>Department of Statistics and Optimization, Brno University of Technology, Czech Republic 2016</li>
+  <li>Center for Operations Research and Econometrics (CORE), Université catholique de Louvain, Belgium 2016</li>
   <li>Operations Research with Engineering Program, Colorado School of Mines, USA 2016</li>
   <li>Department of Discrete Mathematics, Moscow Institute of Physics and Technology (MIPT), Russia 2016</li>
   <li>Systems Analysis Laboratory, Aalto University, Helsinki, Finland 2016</li>
   <li>Laboratory of Ecohydrology, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland 2016</li>
   <li>Department of Healthcare Operations, Universität Augsburg, Germany 2016</li>
-  <li>Institut für Mathematische Optimierung, Otto von Guericke Universität Magdeburg, Germany 2016</li>
+  <li>Institut für Mathematische Optimierung, Otto von Guericke Universität Magdeburg, Germany 2016</li>
   <li>Perm Gorky Library, Perm, Russia 2015</li>
   <li>Center for Energy Systems, Skoltech, Moscow, Russia 2015</li>
   <li>Trapeznikov Institute for Control Sciences, Russian Academy of Sciences, Moscow, Russia 2015</li>
