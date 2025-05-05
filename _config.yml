@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bismark_photo.jpeg"
   name             : "Bismark Singh"
   pronouns         : # example: "she/her"  
   bio              : "Associate Prof. Dr. Dr. habil. Bismark Singh"
-  location         : "Earth"
-  employer         : "University of Southammpton"
+  location         : "B54, School of Mathematical Sciences, University of Southampton, Southampton SO17 1BJ"
+  employer         : "University of Southampton"
   uri              : "https://www.southampton.ac.uk/people/628nx8"
   email            : "b.singh@southampton.ac.uk" 
 
@@ -38,9 +38,9 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6943-657X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/bismark.singh.1/bibliography/public/"
+  researchgate     : "https://www.researchgate.net/profile/Bismark-Singh"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56493626200"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
