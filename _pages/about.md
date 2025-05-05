@@ -15,7 +15,7 @@ In 2024-25, I am a visiting professor at TU Dresden, Germany via their [Distingu
 
 I am the winner of the Mathematics 2023 [Young Investigator Award](https://www.mdpi.com/journal/mathematics/awards/2137). 
 
-My research centers on **data-driven decision-making under uncertainty**, with a particular focus on discrete stochastic optimization models. From formulating these models to developing novel algorithms and real-world applications, I advance mathematical decision-making in complex and uncertain environments. Stay turned for my upcoming book, to be published by Springer, on this subject!
+My research centers on *data-driven decision-making under uncertainty*, with a particular focus on discrete stochastic optimization models. From formulating these models to developing novel algorithms and real-world applications, I advance mathematical decision-making in complex and uncertain environments. Stay turned for my upcoming book, to be published by Springer, on this subject!
 
 My research has been funded by, among others, the German Research Foundation (DFG), the Horizon 2020 program, and the US Department of Energy's LDRD program (see left). Explore My Research →
 

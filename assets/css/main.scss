@@ -9,7 +9,7 @@
  */
 
 
-$type-size-5: 0.875em;    // 14 px
+$type-size-5: 0.875em;    // 14px, change font here and in line at end
 
 @import
     "vendor/breakpoint/breakpoint",
@@ -45,4 +45,4 @@ $type-size-5: 0.875em;    // 14 px
     "vendor/magnific-popup/magnific-popup"
 ;
 
-html { font-size: 87.5%; }   // 14 px = 87.5 % of 16 px
+html { font-size: 87.5%; }   // 14px =87.5% of 16px, change font here and line at top
