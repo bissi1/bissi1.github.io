@@ -21,6 +21,7 @@ My research has been funded by, among others, the German Research Foundation (DF
 
 ## Latest News
 
+
 ##  🎉 **Media coverage**: 
 -   TU Dresden published an interview from my visiting professorship.
 -   Congratulations to my student Malena Schmidt for winning the 2025 Hemelrijk Award by the Dutch OR Society for the best MSc thesis. Malena's exceptional thesis produced two articles in the INFORMS Journal on Computing and Networks. 
