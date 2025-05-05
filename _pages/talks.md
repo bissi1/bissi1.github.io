@@ -2,7 +2,7 @@
 title: "Talks"
 permalink: /talks/
 layout: single          # gives you a normal full‑width page
-classes: full
+classes: wide
 ---
 
 The lists below do not include regular talks in workshops or conferences.
