@@ -51,7 +51,7 @@ classes: full
   <li>Department of Mathematics, University of Duisburg‑Essen, Germany 2016</li>
   <li>Faculty of Mathematics and Physics, Charles University, Prague 2016</li>
   <li>Department of Statistics and Optimization, Brno University of Technology, Czech Republic 2016</li>
-  <li>Center for Operations Research and Econometrics (CORE), Université catholique de Louvain, Belgium 2016</li>
+  <li>Center for Operations Research &amp; Econometrics (CORE), Université catholique de Louvain, Belgium 2016</li>
   <li>Operations Research with Engineering Program, Colorado School of Mines, USA 2016</li>
   <li>Department of Discrete Mathematics, Moscow Institute of Physics and Technology (MIPT), Russia 2016</li>
   <li>Systems Analysis Laboratory, Aalto University, Helsinki, Finland 2016</li>

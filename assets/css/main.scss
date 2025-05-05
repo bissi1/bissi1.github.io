@@ -11,6 +11,8 @@
 
 $type-size-5: 1em;    // 14px, change font here and in line at end
 
+$max-width: 1200px;   // 1200, 1400, or any px you like
+
 @import
     "vendor/breakpoint/breakpoint",
 
