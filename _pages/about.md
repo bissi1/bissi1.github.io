@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-### I am Bismark Singh, an Associate Professor in the Operational Research group at the School of Mathematical Sciences, University of Southampton, UK. 
+I am Bismark Singh, an Associate Professor in the Operational Research group at the School of Mathematical Sciences, University of Southampton, UK. 
 
-### My academic foundation is rooted in an interdisciplinary quantitative data-science background. I have a habilitation in mathematics from the Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany.  I earned my PhD and Master's degrees in operations research from The University of Texas at Austin, US, where I worked under the guidance of David Morton (optimization) and Lauren Meyers (biology). During my time there, I also completed a portfolio in scientific computation. My undergraduate journey began at the Indian Institute of Technology (IIT) Delhi, India, where I graduated in chemical engineering.  Short CV →
+My academic foundation is rooted in an interdisciplinary quantitative data-science background. I have a habilitation in mathematics from the Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany.  I earned my PhD and Master's degrees in operations research from The University of Texas at Austin, US, where I worked under the guidance of David Morton (optimization) and Lauren Meyers (biology). During my time there, I also completed a portfolio in scientific computation. My undergraduate journey began at the Indian Institute of Technology (IIT) Delhi, India, where I graduated in chemical engineering.  Short CV →
 
-### In 2024-25, I am a visiting professor at TU Dresden, Germany via their [Distinguished Research Fellowship](https://tu-dresden.de/bu/wirtschaft/die-fakultaet/news/auszeichnung-von-associate-professor-bismark-singh-als-distinguished-research-fellow).
+In 2024-25, I am a visiting professor at TU Dresden, Germany via their [Distinguished Research Fellowship](https://tu-dresden.de/bu/wirtschaft/die-fakultaet/news/auszeichnung-von-associate-professor-bismark-singh-als-distinguished-research-fellow).
 
 I am the winner of the Mathematics 2023 [Young Investigator Award](https://www.mdpi.com/journal/mathematics/awards/2137). 
 
@@ -19,9 +19,9 @@ My research centers on **data-driven decision-making under uncertainty**, with a
 
 My research has been funded by, among others, the German Research Foundation (DFG), the Horizon 2020 program, and the US Department of Energy's LDRD program (see left). Explore My Research →
 
-#### Latest News
+## Latest News
 
-######  🎉 **Media coverage**: 
+##  🎉 **Media coverage**: 
 -   TU Dresden published an interview from my visiting professorship.
 -   Congratulations to my student Malena Schmidt for winning the 2025 Hemelrijk Award by the Dutch OR Society for the best MSc thesis. Malena's exceptional thesis produced two articles in the INFORMS Journal on Computing and Networks. 
 
