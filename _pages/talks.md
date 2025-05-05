@@ -13,7 +13,7 @@ classes: wide           # optional: use full content width
 
 ## Invited Seminars
 
-  <ol reversed start="45">
+  <ol reversed>
   <li>Faculty of Physics, Mathematics and Optometry, University of Latvia, Riga 2024</li>
   <li>Center for Systems Biology Dresden, Max‑Planck Society, Germany 2024</li>
   <li>Department of Mathematics, Atatürk University, Erzurum, Turkey 2024</li>
