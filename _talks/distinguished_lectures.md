@@ -2,6 +2,8 @@
 title: "Distinguished Lectures"
 collection: talks
 type: "Talk"
+permalink: /talks/distinguished_lectures
+
 ---
 
   - Honorary lecture, Distinguished Research Fellowship, TU Dresden, Germany 2024. See [here](https://tu-dresden.de/bu/wirtschaft/die-fakultaet/news/auszeichnung-von-associate-professor-bismark-singh-als-distinguished-research-fellow). 
