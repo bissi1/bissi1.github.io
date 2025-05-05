@@ -101,5 +101,6 @@ classes: wide           # optional: use full content width
 2. Mathematics Department, Texas State University, San Marcos, US 2014
 
 1. Economics Department, Perm State University, Perm, Russia, 2011
+{: reversed="reversed"}
 
 
