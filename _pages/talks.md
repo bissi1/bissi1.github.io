@@ -23,7 +23,6 @@ classes: full
 ## Invited Seminars
 
   <ol reversed>
-  <tr><td><strong>Faculty of Physics, Mathematics & Optometry</strong></td><td>University of Latvia, Riga, Latvia (2024)</td></tr>
   <li>Faculty of Physics, Mathematics &amp; Optometry, University of Latvia, Riga 2024</li>
   <li>Center for Systems Biology Dresden, Max‑Planck Society, Germany 2024</li>
   <li>Department of Mathematics, Atatürk University, Erzurum, Turkey 2024</li>
