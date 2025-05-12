@@ -8,7 +8,9 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
-$max-width: 30000px;   // 1200, 1400, or any px you like
+/* 
+*$max-width: 30000px;   // 1200, 1400, or any px you like
+*/
 
 $type-size-5: 1em;    // 14px, change font here and in line at end
 
@@ -55,22 +57,27 @@ $type-size-5: 1em;    // 14px, change font here
 /* Force full width for the Research page */
 .page.full .page__content,
 .page.full .page__inner-wrap {
-  max-width: 3000px !important;   /* Set your desired max width */
-  width: 100% !important;
+  max-width: 2600px !important;   /* Set your desired max width */
+  width: 95% !important;
   margin-left: auto !important;
   margin-right: auto !important;
   padding-left: 2rem;
   padding-right: 2rem;
 }
 
-/* Ensure the parent container does not limit width */
-.page.full .container {
-  max-width: 3000px !important;
-  width: 100% !important;
+/* Ensure no unnecessary margins */
+.page.full {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
   margin-left: auto !important;
   margin-right: auto !important;
 }
 
+/* Make images responsive */
+.page.full img {
+  max-width: 100%;
+  height: auto;
+}
 
 /* Responsive side-by-side layout for the Probabilistic Bounds section */
 .probability-section {
