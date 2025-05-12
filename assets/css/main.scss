@@ -11,7 +11,7 @@
 
 $type-size-5: 1em;    // 14px, change font here and in line at end
 
-$max-width: 1200px;   // 1200, 1400, or any px you like
+$max-width: 2000px;   // 1200, 1400, or any px you like
 
 @import
     "vendor/breakpoint/breakpoint",
@@ -85,6 +85,7 @@ $max-width: 1200px;   // 1200, 1400, or any px you like
   border-radius: 0.5rem;
   box-shadow: 0 4px 20px rgba(0,0,0,0.1);
 }
+
 
 
 html { font-size: 100%; }   // 100% of 16px, change font here and line at top
