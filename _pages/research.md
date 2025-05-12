@@ -40,6 +40,9 @@ This research represents a *theoretical* interest where I explore joint-chance c
 
 
   <div class="probability-image">
+    <div style="text-align: center; margin-bottom: 0.5em; font-weight: bold;">
+      Satisfying a joint chance constraint is an intersection of "successes". <a href="https://link.springer.com/article/10.1007/s11590-019-01387-z" style="color: #0066cc; text-decoration: underline;">Explore →</a>
+    </div>
     <img src="/assets/images/venn_diagram.png" alt="Probabilistic Bounds" />
   </div>
 </div>
