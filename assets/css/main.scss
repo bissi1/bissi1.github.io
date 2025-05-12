@@ -59,4 +59,30 @@ $max-width: 1200px;   // 1200, 1400, or any px you like
 }
 
 
+/* Responsive side-by-side layout for the Probabilistic Bounds section */
+.probability-section {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.probability-text {
+  flex: 1;
+  min-width: 300px;
+}
+
+.probability-image {
+  flex: 0 0 300px;
+  text-align: center;
+}
+
+.probability-image img {
+  max-width: 100%;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+
 html { font-size: 100%; }   // 100% of 16px, change font here and line at top
