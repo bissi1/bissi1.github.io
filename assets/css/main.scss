@@ -52,11 +52,6 @@ $max-width: 1200px;   // 1200, 1400, or any px you like
   margin-bottom: 0.25em;   /* default is 0.5em → half the gap */
 }
 
-/* give any page with `classes: full` a 1200 px column */
-.full .page__content,
-.full .page__inner-wrap {
-  max-width: 1200px;   /* or 90% for a fluid width */
-}
 
 /* Make the research page wider */
 .page.full .page__content {
