@@ -55,6 +55,7 @@ As European countries advance towards **Net-Zero** goals (e.g., Germany's *Energ
 
 <details>
   <summary style="color: #0066cc; cursor: pointer;">[Click for more →]</summary>
+  <br>
 
 At Sandia National Labs, US (2016–19), I focused on solving large-scale energy system models, addressing critical risks faced by the US electrical grid. Many of these works are available on the US Department of Energy's Office of Scientific and Technical Information's website. Access <a href="https://www.osti.gov/search/semantic:bismark%20singh">here →</a>.<br><br>
 
@@ -78,9 +79,11 @@ Supported by the **Bavarian State Ministry for Science & Arts** and the **Univer
  <ul>
       <li> Supervising two student theses on this topic, resulting in published articles.</li> 
       <li> Leading a postdoctoral researcher in quantifying subjective opinions on recycling campaigns, incorporating human perceptions into decision models.</li> 
+ </ul>
 
 <details>
   <summary style="color: #0066cc; cursor: pointer;">[Click for more →]</summary>
+<br>
 
 <ul>
   <li><em>Theoretical</em>: Defined new axioms of fairness, shifting the perspective to the facilities themselves. Formulated novel classes of FLPs with interesting mathematical properties, particularly in their Karush-Kuhn-Tucker (KKT) optimality conditions. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0308" style="color: #0066cc; text-decoration: underline;">Explore →</a></li>
@@ -88,3 +91,5 @@ Supported by the **Bavarian State Ministry for Science & Arts** and the **Univer
   <li><em>Computational</em>: Addressed the intractability of solving these models naively by designing specialized algorithms, enabling efficient solutions for large-scale instances of the size of Bavaria and all of Germany. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0693" style="color: #0066cc; text-decoration: underline;">Explore →</a></li>
 
   <li><em>Societal</em>: Ensured sustainability goals are achieved without disproportionately affecting certain communities by offering governments ethically fair decision-making tools for closing recycling centers while maintaining public accessibility. <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.22221" style="color: #0066cc; text-decoration: underline;">Explore →</a></li>
+</ul>
+</details>
