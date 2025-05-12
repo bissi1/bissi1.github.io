@@ -30,7 +30,7 @@ This research represents a *theoretical* interest where I explore joint-chance c
 <details>
   <summary style="color: #0066cc; cursor: pointer;">[Click for more →]</summary>
   
-  This interest originated during my PhD studies and matured further following my first major grant as a Principal Investigator during my position at Sandia National Labs, US (2018). The grant from the US Department of Energy supported significant advancements in this domain, culminating in two publications: [here](https://link.springer.com/article/10.1007/s11590-019-01387-z) and a follow-up [here](https://link.springer.com/article/10.1007/s11590-020-01592-1). Currently, this work is being extended collaboratively with my PhD student, focusing on deeper theoretical insights and broader applications. 
+  This interest originated during my PhD studies and matured further following my first major grant as a Principal Investigator during my position at Sandia National Labs, US (2018). The grant from the US Department of Energy supported significant advancements in this domain, culminating in two publications: <a href="https://link.springer.com/article/10.1007/s11590-019-01387-z">this paper</a> and a follow-up <a href="https://link.springer.com/article/10.1007/s11590-019-01387-z">follow-up paper</a>. Currently, this work is being extended collaboratively with my PhD student, focusing on deeper theoretical insights and broader applications. 
 </details>
 
 ## Sustainability & Climate Change
