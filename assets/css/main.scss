@@ -53,15 +53,24 @@ html { font-size: 100%; }   // 100% of 16px
 $type-size-5: 1em;    // 14px, change font here
 
 /* Force full width for the Research page */
-.page__content,
-.page__inner-wrap {
-  max-width: 30000px !important;
-  width: 95% !important;
+.page.full .page__content,
+.page.full .page__inner-wrap {
+  max-width: 3000px !important;   /* Set your desired max width */
+  width: 100% !important;
   margin-left: auto !important;
   margin-right: auto !important;
-  padding-left: 2rem !important;
-  padding-right: 2rem !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
+
+/* Ensure the parent container does not limit width */
+.page.full .container {
+  max-width: 3000px !important;
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
 
 /* Responsive side-by-side layout for the Probabilistic Bounds section */
 .probability-section {
