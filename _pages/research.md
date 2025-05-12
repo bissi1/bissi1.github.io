@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Interdisciplinary Research"
 permalink: /research/
 layout: single
 classes: wide
