@@ -58,6 +58,12 @@ $max-width: 1200px;   // 1200, 1400, or any px you like
   max-width: 1200px;   /* or 90% for a fluid width */
 }
 
+/* Make the research page wider */
+.page.full .page__content {
+  max-width: 1700px;  /* adjust as needed */
+  margin-left: auto;
+  margin-right: auto;
+}
 
 /* Responsive side-by-side layout for the Probabilistic Bounds section */
 .probability-section {
