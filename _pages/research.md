@@ -35,19 +35,19 @@ This research represents a *theoretical* interest where I explore joint-chance c
 
 ## Sustainability & Climate Change
 
-As countries advance towards Net-Zero goals (e.g., Germany's *Energiewende*), joint chance constraints have proven especially effective for ensuring the highly reliable operation of critical energy systems under uncertain renewable energy availability. Key examples include photovoltaic (PV) systems and coupled wind-diesel systems. Mathematical optimization models for such systems often present significant challenges due to their structure and scale, necessitating the development of novel algorithmic approaches. In my research, we have designed modern *machine-learning inspired* iterative algorithms and employed Lagrangian-based heuristics to tackle these challenges. See examples [here]() and [here]. 
+As European countries advance towards **Net-Zero** goals (e.g., Germany's *Energiewende*), joint chance constraints have proven especially effective for ensuring the highly reliable operation of critical energy systems under uncertain renewable energy availability. Key examples include photovoltaic (PV) systems and coupled wind-diesel systems. Mathematical optimization models for such systems often present significant challenges due to their structure and scale, necessitating the development of novel algorithmic approaches. In my research, we have designed modern *machine-learning inspired* iterative algorithms and employed Lagrangian-based heuristics to tackle these challenges. See [this older paper](https://link.springer.com/article/10.1007/s10287-018-0309-x) and [this newer paper](https://link.springer.com/article/10.1007/s10898-021-01041-y). 
 
 
 <details>
   <summary style="color: #0066cc; cursor: pointer;">[Click for more →]</summary>
 
-At Sandia National Labs, US (2016–19), I focused on solving large-scale energy system models, addressing critical risks faced by the US electrical grid. Many of these works are available on the US Department of Energy's Office of Scientific and Technical Information's website. Access [here →](https://www.osti.gov/search/semantic:bismark%20singh)
+At Sandia National Labs, US (2016–19), I focused on solving large-scale energy system models, addressing critical risks faced by the US electrical grid. Many of these works are available on the US Department of Energy's Office of Scientific and Technical Information's website. Access <a href="https://www.osti.gov/search/semantic:bismark%20singh">here →</a>.
 
-At FAU Erlangen-Nürnberg, Germany (2019–22), I led the chair’s contributions to the multi-institute “METIS” research collaboration with the Jülich Research Center. This project develops open-source tools for optimizing large-scale energy system models under the framework of Germany’s Energiewende (transition to clean, yet reliable energy systems).
+At FAU Erlangen-Nürnberg, Germany (2019–22), I led the chair’s research contributions to the multi-institute “METIS” research collaboration with the Jülich Research Center. This project develops open-source tools for optimizing large-scale energy system models under the framework of Germany’s *Energiewende* (transition to clean, yet reliable energy systems).
 
-Learn more about the project here →
+- Learn more about the METIS project <a href="https://www.fz-juelich.de/en/ice/ice-2/projects/metis?expand=translations,fzjsettings,nearest-institut">here →</a>.
 
-Explore the technical details here →
+- Explore the technical details of the ETHOS.FINE package <a href="https://github.com/FZJ-IEK3-VSA/FINE">here →</a>.
 
 This research not only advances mathematical optimization but also contributes to global sustainability goals, ensuring renewable energy systems remain both efficient and reliable under uncertainty.
 </details>
