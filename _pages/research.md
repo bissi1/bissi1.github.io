@@ -7,8 +7,9 @@ classes: wide
 
 ## Interdisciplinary Research Overview
 
-My primary academic interest lies in advancing data-driven decision-making under uncertainty, particularly through two-stage stochastic optimization. This involves both theoretical innovation and practical application, addressing pressing societal and environmental challenges by formulating them as data-driven mathematical optimization models. These models are inherently large-scale, requiring the development of modern algorithms to enable computationally efficient solutions. 
-A central focus of my research is on chance-constrained optimization, where the goal is to design systems that remain resilient even under extreme risk conditions. I work on developing specialized algorithms to solve such stochastic programs, ensuring tractability and practicality. 
+My primary research interest is advancing data-driven decision-making under uncertainty, with a particular focus on two-stage stochastic optimization. My approach balances theoretical novelty with impact-based application, addressing complex societal and environmental challenges via large-scale mathematical models. These models often require the development of specialized algorithms to enable computationally efficient solutions. 
+
+Chance-constrained optimization, where the goal is to design systems systems resilient to extreme risk conditions, is one of my key focus areas. I develop algorithms and heuristics that are computationally tractable ensuring the critical systems remainds safeguarded against rare but catastrophic disruptions.
 ---
 
 ## Research Areas
