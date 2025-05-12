@@ -41,7 +41,7 @@ This research represents a *theoretical* interest where I explore joint-chance c
 
   <div class="probability-image">
     <div style="text-align: center; margin-bottom: 0.5em; font-weight: bold;">
-      Satisfying a joint chance constraint is an intersection of "successes". <a href="https://link.springer.com/article/10.1007/s11590-019-01387-z" style="color: #0066cc; text-decoration: underline;">Explore →</a>
+      Satisfying a joint chance constraint is an intersection of "successes". <br> <a href="https://link.springer.com/article/10.1007/s11590-019-01387-z" style="color: #0066cc; text-decoration: underline;">Explore →</a>
     </div>
     <img src="/assets/images/venn_diagram.png" alt="Probabilistic Bounds" />
   </div>
@@ -82,8 +82,8 @@ Supported by the **Bavarian State Ministry for Science & Arts** and the **Univer
 <details>
   <summary style="color: #0066cc; cursor: pointer;">[Click for more →]</summary>
 
-Theoretical: Defined new axioms of fairness, shifting the perspective to the facilities themselves. Formulated novel classes of FLPs with interesting mathematical properties, particularly in their Karush-Kuhn-Tucker (KKT) optimality conditions. Explore→
+<em>Theoretical</em>: Defined new axioms of fairness, shifting the perspective to the facilities themselves. Formulated novel classes of FLPs with interesting mathematical properties, particularly in their Karush-Kuhn-Tucker (KKT) optimality conditions. Explore→
 
-Computational: Addressed the intractability of solving these models naively by designing specialized algorithms, enabling efficient solutions for large-scale instances of the size of Bavaria and all of Germany. Explore→ 
+<em>Computational</em>: Addressed the intractability of solving these models naively by designing specialized algorithms, enabling efficient solutions for large-scale instances of the size of Bavaria and all of Germany. Explore→ 
 
-Societal: Ensured sustainability goals are achieved without disproportionately affecting certain communities by offering governments ethically fair decision-making tools for closing recycling centers while maintaining public accessibility. Explore→  
+<em>Societal</em>: Ensured sustainability goals are achieved without disproportionately affecting certain communities by offering governments ethically fair decision-making tools for closing recycling centers while maintaining public accessibility. Explore→  
