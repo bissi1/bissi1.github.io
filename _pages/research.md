@@ -27,7 +27,7 @@ A unique aspect of my approach is modeling **subjective human behavior** within 
 
 <div class="probability-section">
   <div class="probability-text">
-    
+
 This research represents a *theoretical* interest where I explore joint-chance constraints through the lens of classical probability theory. Specifically, I approach a joint-chance constraint as a union of sets and utilize classical probability bounds to constrain it effectively. Bounding the probability of the union of $n$ events using joint probabilities of $k < n$ events has a rich history, dating back to the foundational work of Boole and Bonferroni. What makes this line of probabilistic research particularly interesting is its application in optimization models. When these probabilistic bounds are incorporated into chance-constrained optimization models, they provide upper and lower bounds on the optimal objective function value, providing both computational and theoretical insights. 
 
 <details>
@@ -40,7 +40,7 @@ This research represents a *theoretical* interest where I explore joint-chance c
 
 
   <div class="probability-image">
-    <img src="/assets/images/probability-graphic.png" alt="Probabilistic Bounds" />
+    <img src="/assets/images/venn_diagram.png" alt="Probabilistic Bounds" />
   </div>
 </div>
 
