@@ -8,7 +8,7 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
-$max-width: 3000px;   // 1200, 1400, or any px you like
+$max-width: 30000px;   // 1200, 1400, or any px you like
 
 $type-size-5: 1em;    // 14px, change font here and in line at end
 
@@ -55,7 +55,7 @@ $type-size-5: 1em;    // 14px, change font here
 /* Force full width for the Research page */
 .page__content,
 .page__inner-wrap {
-  max-width: 3000px !important;
+  max-width: 30000px !important;
   width: 90% !important;
   margin-left: auto !important;
   margin-right: auto !important;
