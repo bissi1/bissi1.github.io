@@ -41,7 +41,7 @@ As European countries advance towards **Net-Zero** goals (e.g., Germany's *Energ
 <details>
   <summary style="color: #0066cc; cursor: pointer;">[Click for more →]</summary>
 
-At Sandia National Labs, US (2016–19), I focused on solving large-scale energy system models, addressing critical risks faced by the US electrical grid. Many of these works are available on the US Department of Energy's Office of Scientific and Technical Information's website. Access <a href="https://www.osti.gov/search/semantic:bismark%20singh">here →</a>.<br>
+At Sandia National Labs, US (2016–19), I focused on solving large-scale energy system models, addressing critical risks faced by the US electrical grid. Many of these works are available on the US Department of Energy's Office of Scientific and Technical Information's website. Access <a href="https://www.osti.gov/search/semantic:bismark%20singh">here →</a>.<br><br>
 
 At FAU Erlangen-Nürnberg, Germany (2019–22), I led the chair’s research contributions to the multi-institute “METIS” research collaboration with the Jülich Research Center. This project develops open-source tools for optimizing large-scale energy system models under the framework of Germany’s <em>Energiewende</em> (transition to clean, yet reliable energy systems).<br>
   
