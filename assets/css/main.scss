@@ -8,10 +8,10 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+$max-width: 3000px;   // 1200, 1400, or any px you like
 
 $type-size-5: 1em;    // 14px, change font here and in line at end
 
-$max-width: 3000px;   // 1200, 1400, or any px you like
 
 @import
     "vendor/breakpoint/breakpoint",
@@ -47,22 +47,21 @@ $max-width: 3000px;   // 1200, 1400, or any px you like
     "vendor/magnific-popup/magnific-popup"
 ;
 
-.page__content ol li,
-.post-content  ol li {
-  margin-bottom: 0.25em;   /* default is 0.5em → half the gap */
-}
+/* Custom site styles below */
+html { font-size: 100%; }   // 100% of 16px
+
+$type-size-5: 1em;    // 14px, change font here
 
 /* Force full width for the Research page */
-.page.full .page__content,
-.page.full .page__inner-wrap {
+.page__content,
+.page__inner-wrap {
   max-width: 3000px !important;
-  width: 90% !important;  /* ensures it uses most of the viewport */
+  width: 90% !important;
   margin-left: auto !important;
   margin-right: auto !important;
   padding-left: 2rem !important;
   padding-right: 2rem !important;
 }
-
 
 /* Responsive side-by-side layout for the Probabilistic Bounds section */
 .probability-section {
@@ -89,6 +88,9 @@ $max-width: 3000px;   // 1200, 1400, or any px you like
   box-shadow: 0 4px 20px rgba(0,0,0,0.1);
 }
 
+/* Tighter ordered list spacing */
+.page__content ol li,
+.post-content  ol li {
+  margin-bottom: 0.25em;
+}
 
-
-html { font-size: 100%; }   // 100% of 16px, change font here and line at top
