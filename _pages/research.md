@@ -52,3 +52,23 @@ At FAU Erlangen-Nürnberg, Germany (2019–22), I led the chair’s research con
 
 This research not only advances mathematical optimization but also contributes to global sustainability goals, ensuring renewable energy systems remain both efficient and reliable under uncertainty.
 </details>
+
+
+## Fairness & Waste Management
+
+In 2020, I began exploring undesirable facility location problems (FLPs) with a unique perspective: ensuring fairness from the point of view of the facilities, rather than the users, which is the typical approach in existing literature. These models have significant applications in waste management, particularly in the context of **recycling centers** (e.g., UK *tips* or German *Wertstoffhöfe*). Recycling centers, which allow populations to dispose of certain recyclable waste, are critical for achieving sustainability goals. However, they also contribute to pollution and public nuisance, leading many governments to consider their closure. How can such decisions be made ethically and fairly? 
+
+Supported by the **Bavarian State Ministry for Science & Arts** and the **University of Southampton**, my team developed discrete optimization models that achieve fairness in facility closures. Key milestones include:
+
+ <ul>
+      <li> Supervising two student theses on this topic, resulting in published articles.</li> 
+      <li> Leading a postdoctoral researcher in quantifying subjective opinions on recycling campaigns, incorporating human perceptions into decision models.</li> 
+
+<details>
+  <summary style="color: #0066cc; cursor: pointer;">[Click for more →]</summary>
+
+Theoretical: Defined new axioms of fairness, shifting the perspective to the facilities themselves. Formulated novel classes of FLPs with interesting mathematical properties, particularly in their Karush-Kuhn-Tucker (KKT) optimality conditions. Explore→
+
+Computational: Addressed the intractability of solving these models naively by designing specialized algorithms, enabling efficient solutions for large-scale instances of the size of Bavaria and all of Germany. Explore→ 
+
+Societal: Ensured sustainability goals are achieved without disproportionately affecting certain communities by offering governments ethically fair decision-making tools for closing recycling centers while maintaining public accessibility. Explore→  
