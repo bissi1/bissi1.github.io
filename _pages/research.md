@@ -83,7 +83,6 @@ Supported by the **Bavarian State Ministry for Science & Arts** and the **Univer
 
 <details>
   <summary style="color: #0066cc; cursor: pointer;">[Click for more →]</summary>
-<br>
 
 <ul>
   <li><em>Theoretical</em>: Defined new axioms of fairness, shifting the perspective to the facilities themselves. Formulated novel classes of FLPs with interesting mathematical properties, particularly in their Karush-Kuhn-Tucker (KKT) optimality conditions. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0308" style="color: #0066cc; text-decoration: underline;">Explore →</a></li>

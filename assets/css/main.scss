@@ -52,14 +52,17 @@ $max-width: 3000px;   // 1200, 1400, or any px you like
   margin-bottom: 0.25em;   /* default is 0.5em → half the gap */
 }
 
-
-/* Force wider layout for the Research page */
+/* Force full width for the Research page */
 .page.full .page__content,
 .page.full .page__inner-wrap {
-  max-width: 2600px !important;  /* adjust as needed */
-  margin-left: auto;
-  margin-right: auto;
+  max-width: 3000px !important;
+  width: 90% !important;  /* ensures it uses most of the viewport */
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
 }
+
 
 /* Responsive side-by-side layout for the Probabilistic Bounds section */
 .probability-section {
