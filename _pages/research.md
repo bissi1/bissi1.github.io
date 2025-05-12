@@ -25,14 +25,13 @@ A unique aspect of my approach is modeling **subjective human behavior** within 
 
 ## Probabilistic Bounds
 
-This research represents a *theoretical* interest where I explore joint-chance constraints through the lens of classical probability theory. Specifically, I approach a joint-chance constraint as a union of sets and utilize classical probability bounds to constrain it effectively. Bounding the probability of the union of $n$ events using joint probabilities of $k < n$ events has a rich history, dating back to the foundational work of Boole and Bonferroni. What makes this line of probabilistic research particularly interesting is its application in optimization models. When these probabilistic bounds are incorporated into chance-constrained optimization models, they provide upper and lower bounds on the optimal objective function value, providing both computational and theoretical insights. <details>
+This research represents a *theoretical* interest where I explore joint-chance constraints through the lens of classical probability theory. Specifically, I approach a joint-chance constraint as a union of sets and utilize classical probability bounds to constrain it effectively. Bounding the probability of the union of $n$ events using joint probabilities of $k < n$ events has a rich history, dating back to the foundational work of Boole and Bonferroni. What makes this line of probabilistic research particularly interesting is its application in optimization models. When these probabilistic bounds are incorporated into chance-constrained optimization models, they provide upper and lower bounds on the optimal objective function value, providing both computational and theoretical insights. 
+
+<details>
   <summary style="color: #0066cc; cursor: pointer;">[Click for more →]</summary>
   
   This interest originated during my PhD studies and matured further following my first major grant as a Principal Investigator during my position at Sandia National Labs, US (2018). The grant from the US Department of Energy supported significant advancements in this domain, culminating in two publications: [here](https://link.springer.com/article/10.1007/s11590-019-01387-z) and a follow-up [here](https://link.springer.com/article/10.1007/s11590-020-01592-1). Currently, this work is being extended collaboratively with my PhD student, focusing on deeper theoretical insights and broader applications. 
 </details>
-
-<div style="display:none; margin-top: 0.5em;"> 
-</div>
 
 ## Sustainability & Climate Change
 
