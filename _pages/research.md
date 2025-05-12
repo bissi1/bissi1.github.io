@@ -41,14 +41,14 @@ As European countries advance towards **Net-Zero** goals (e.g., Germany's *Energ
 <details>
   <summary style="color: #0066cc; cursor: pointer;">[Click for more →]</summary>
 
-At Sandia National Labs, US (2016–19), I focused on solving large-scale energy system models, addressing critical risks faced by the US electrical grid. Many of these works are available on the US Department of Energy's Office of Scientific and Technical Information's website. Access <a href="https://www.osti.gov/search/semantic:bismark%20singh">here →</a>.
+At Sandia National Labs, US (2016–19), I focused on solving large-scale energy system models, addressing critical risks faced by the US electrical grid. Many of these works are available on the US Department of Energy's Office of Scientific and Technical Information's website. Access <a href="https://www.osti.gov/search/semantic:bismark%20singh">here →</a>.<br>
 
-
-At FAU Erlangen-Nürnberg, Germany (2019–22), I led the chair’s research contributions to the multi-institute “METIS” research collaboration with the Jülich Research Center. This project develops open-source tools for optimizing large-scale energy system models under the framework of Germany’s *Energiewende* (transition to clean, yet reliable energy systems).<br>
+At FAU Erlangen-Nürnberg, Germany (2019–22), I led the chair’s research contributions to the multi-institute “METIS” research collaboration with the Jülich Research Center. This project develops open-source tools for optimizing large-scale energy system models under the framework of Germany’s <em>Energiewende<em> (transition to clean, yet reliable energy systems).<br>
   
-  - Learn more about the METIS project <a href="https://www.fz-juelich.de/en/ice/ice-2/projects/metis?expand=translations,fzjsettings,nearest-institut">here →</a>.<br><br>
-
-  - Explore the technical details of the ETHOS.FINE package <a href="https://github.com/FZJ-IEK3-VSA/FINE">here →</a>.<br>
-
+  <ul>
+      <li> Learn more about the METIS project <a href="https://www.fz-juelich.de/en/ice/ice-2/projects/metis?expand=translations,fzjsettings,nearest-institut">here →</a>.</li>
+      <li> Explore the technical details of the ETHOS.FINE package <a href="https://github.com/FZJ-IEK3-VSA/FINE">here →</a>.</li>
+  </ul>
+  
 This research not only advances mathematical optimization but also contributes to global sustainability goals, ensuring renewable energy systems remain both efficient and reliable under uncertainty.
 </details>
