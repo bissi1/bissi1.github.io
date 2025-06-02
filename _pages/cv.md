@@ -39,14 +39,17 @@ redirect_from:
 
 ≈ €330,000 of total funding as a PI or co-PI
 
-- 2023–2025: Heilbronn Institute for Mathematical Research – PI (£13,155)  
-- 2022: University of Southampton (several competitive grants on interdisciplinary data science) – PI (£17,763)  
-- 2022–2025: Deutsche Forschungsgemeinschaft (DFG) – PI (€115,310) _(No-cost extension approved through end of 2026)_  
-- 2021: Bavarian State Ministry for Science & Art – PI (€10,000)  
-- 2020–2021: Bavarian-Czech Republic Academic Projects – PI (€14,893)  
-- 2020: European Open Science Cloud (EOSC), Horizon 2020 – co-PI (€44,160)  
-- 2018: US Department of Energy (LDRD) – PI ($80,000)  
-- Additional grants from: American Public Power Association (US), Bavarian Academic Center for Central, Eastern and Southeastern Europe (BAYHOST, Germany), London Mathematical Society (LMS, UK), Scientific and Technological Research Council of Türkiye (TÜBİTAK, Turkey), The Alan Turing Institute (UK)
+| Period       | Project / Funder                                                                                      | Role   | Amount     |
+|--------------|--------------------------------------------------------------------------------------------------------|--------|------------|
+| 2023–2025    | Heilbronn Institute for Mathematical Research                                                         | PI     | £13,155    |
+| 2022         | University of Southampton (interdisciplinary data science grants)                                     | PI     | £17,763    |
+| 2022–2025    | Deutsche Forschungsgemeinschaft (DFG) _(No-cost extension through end of 2026)_                      | PI     | €115,310   |
+| 2021         | Bavarian State Ministry for Science & Art                                                             | PI     | €10,000    |
+| 2020–2021    | Bavarian-Czech Republic Academic Projects                                                              | PI     | €14,893    |
+| 2020         | European Open Science Cloud (EOSC), Horizon 2020                                                       | co-PI  | €44,160    |
+| 2018         | US Department of Energy (LDRD)                                                                         | PI     | $80,000    |
+
+**Additional grants from**: American Public Power Association (US), Bavarian Academic Center for Central, Eastern and Southeastern Europe (BAYHOST, Germany), London Mathematical Society (LMS, UK), Scientific and Technological Research Council of Türkiye (TÜBİTAK, Turkey), The Alan Turing Institute (UK)
 
 ## Memberships
 
