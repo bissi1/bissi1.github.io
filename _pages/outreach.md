@@ -5,13 +5,12 @@ layout: single
 classes: full
 ---
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+Beyond my primary research interests, I am passionate about introducing *mathematical optimization* and, more broadly, *STEM* disciplines to the public. I believe that employing a conversational tone, while maintaining scientific rigor, makes complex concepts more accessible and engaging. This approach allows mathematics to be appreciated not only as a field of technical inquiry but as a lens to view the world around us. 
+
+I have published several *educational*, *recreational*, and *pedagogical* works, following peer review, on topics such as history of mathematicians, mathematical monuments, mathematics education, and just mathematics in daily life. These works, published in academic yet approachable journals, demonstrate the explainability of mathematics without relying heavily on jargon.
+
+Selected Educational Publications:
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -37,7 +36,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Selected Educational Publications:
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
