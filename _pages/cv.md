@@ -6,10 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+</div>
 ## Appointments
 
-- **2024–Present**: Associate Professor, School of Mathematical Sciences, University of Southampton, UK  
+-<div style="margin-bottom: 0.15em;"> **2024–Present**: Associate Professor, School of Mathematical Sciences, University of Southampton, UK  
 - **2022–2024**: Assistant Professor, School of Mathematical Sciences, University of Southampton, UK  
 - **2019–2022**: E14 Researcher, Discrete Mathematics, University of Erlangen-Nuremberg, Germany  
 - **2016–2019**: Postdoctoral Researcher, Discrete Optimization, Sandia National Laboratories, US  
@@ -36,6 +36,8 @@ redirect_from:
 - 2015: Higher School of Economics, Perm, Russia (3 months)
 
 ## Third Party Funding (selection)
+
+≈ €330,000 of total funding as a PI or co-PI
 
 - 2023–2025: Heilbronn Institute for Mathematical Research – PI (£13,155)  
 - 2022: University of Southampton (several competitive grants on interdisciplinary data science) – PI (£17,763)  
@@ -68,11 +70,11 @@ redirect_from:
 ## Selected Publications
 
 
-- Schmitt, C. & Singh, B. (2024). "Quadratic optimization models for balancing preferential access and fairness: Formulations and optimality conditions". *INFORMS Journal on Computing*. [Link](https://doi.org/10.1287/ijoc.2024.1267)  
-- Singh, B., Oberfichtner, L., & Ivliev, S. (2022). "Heuristics for a cash-collection routing problem with a cluster-first route-second approach". *Annals of Operations Research*. [Link](https://doi.org/10.1007/s10479-022-04567-2)  
-- Singh, B., & Knueven, B. (2021). "Lagrangian relaxation-based heuristics for a chance-constrained optimization model of a hybrid solar-battery storage system". *Journal of Global Optimization*. [Link](https://doi.org/10.1007/s10898-021-01021-y)  
-- Duque, D., Morton, D. P., Singh, B., Du, Z., Pasco, R., & Meyers, L. A. (2020). "Timing social distancing to avert unmanageable COVID-19 hospital surges". *Proceedings of the National Academy of Sciences (PNAS)*. [Link](https://doi.org/10.1073/pnas.2009036117)  
-- Rebennack, S., Prokopyev, O. A., & Singh, B. (2020). "Two-stage stochastic minimum s–t cut problems: Formulations, complexity and decomposition algorithms". *Networks*. [Link](https://doi.org/10.1002/net.21966)
+- Schmitt, C. & Singh, B. (2024). "Quadratic optimization models for balancing preferential access and fairness: Formulations and optimality conditions". *INFORMS Journal on Computing*. [Link](https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0308)  
+- Singh, B., Oberfichtner, L., & Ivliev, S. (2022). "Heuristics for a cash-collection routing problem with a cluster-first route-second approach". *Annals of Operations Research*. [Link](https://link.springer.com/article/10.1007/s10479-022-04883-1)  
+- Singh, B., & Knueven, B. (2021). "Lagrangian relaxation-based heuristics for a chance-constrained optimization model of a hybrid solar-battery storage system". *Journal of Global Optimization*. [Link](https://link.springer.com/article/10.1007/s10898-021-01041-y)  
+- Duque, D., Morton, D. P., Singh, B., Du, Z., Pasco, R., & Meyers, L. A. (2020). "Timing social distancing to avert unmanageable COVID-19 hospital surges". *Proceedings of the National Academy of Sciences (PNAS)*. [Link](https://www.pnas.org/doi/10.1073/pnas.2009033117)  
+- Rebennack, S., Prokopyev, O. A., & Singh, B. (2020). "Two-stage stochastic minimum s–t cut problems: Formulations, complexity and decomposition algorithms". *Networks*. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/net.21922)
 
 
 
