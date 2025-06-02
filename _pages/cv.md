@@ -6,10 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-</div>
+
 ## Appointments
 
--<div style="margin-bottom: 0.15em;"> **2024–Present**: Associate Professor, School of Mathematical Sciences, University of Southampton, UK  
+- {.tight-list} **2024–Present**: Associate Professor, School of Mathematical Sciences, University of Southampton, UK  
 - **2022–2024**: Assistant Professor, School of Mathematical Sciences, University of Southampton, UK  
 - **2019–2022**: E14 Researcher, Discrete Mathematics, University of Erlangen-Nuremberg, Germany  
 - **2016–2019**: Postdoctoral Researcher, Discrete Optimization, Sandia National Laboratories, US  
