@@ -23,7 +23,7 @@ I have published several *educational*, *recreational*, and *pedagogical* works,
 
 ## Editorial Contributions
 
-- Faculty Advisor: [*OR/MS Tomorrow*]() student magazine, INFORMS. 
+- Faculty Advisor: [*OR/MS Tomorrow*](https://www.informs.org/Publications/OR-MS-Tomorrow/Editorial-Staff) student magazine, INFORMS. 
   - I particularly encourage students to contribute engaging articles.
 - Editorial Board Member: INFORMS History and Traditions Committee.
   - As part of this committee, we published several essays documenting the history of mathematical optimization. These essays, featuring interviews and insights from eminent personalities, are maintained by INFORMS:
@@ -38,5 +38,5 @@ I have published several *educational*, *recreational*, and *pedagogical* works,
 
 Occasionally, I write poetry in English, blending my creative interests with mathematical themes. Like my academic work, these poems are also published following peer review:
 
-- Singh, B. (2023). “Bicycle.” *Sikh Formations: Religion, Culture, and Theory*. (Q1 ranked)
-- Singh, B. (2009). “I never asked them.” *Indian Literature*. (India's oldest English-language poetry journal)
+- Singh, B. (2023). “Bicycle.” *Sikh Formations: Religion, Culture, and Theory*. [Link](https://www.tandfonline.com/doi/full/10.1080/17448727.2023.2263997) (Q1 ranked)
+- Singh, B. (2009). “I never asked them.” *Indian Literature*. [Link](https://www.jstor.org/stable/23348036) (India's oldest English-language poetry journal)
