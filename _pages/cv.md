@@ -41,7 +41,7 @@ redirect_from:
 
 - 2023–2025: Heilbronn Institute for Mathematical Research – PI   
   **£13,155**
-- 2022: University of Southampton (interdisciplinary data science grants) – PI 
+- 2022: University of Southampton (interdisciplinary data science grants) – PI  
   **£17,763**
 - 2022–2025: Deutsche Forschungsgemeinschaft (DFG) – PI 
   **€115,310** _(No-cost extension through end of 2026)_
