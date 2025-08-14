@@ -289,3 +289,13 @@ html { font-size: 100%; } /* 100% of 16px */
   }
 }
 
+/* Mobile fix for multiple images in the same research_subsection_image */
+@media (max-width: 768px) {
+  .research_subsection_image img {
+    display: block;        /* force each image to a new line */
+    max-width: 100%;       /* scale to container width */
+    height: auto;
+    margin: 0 auto 1rem;   /* center and space between images */
+  }
+}
+

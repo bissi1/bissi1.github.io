@@ -29,7 +29,7 @@ redirect_from:
 <ul>
   <li><span class="year">2024 – 2025</span> Distinguished Research Fellow, TU Dresden, Germany</li>
   <li><span class="year">2024 – Present</span> Member, Research Center for Modeling & Simulation, University of Bayreuth, Germany</li>
-  <li><span class="year">2022 – Present</span> External Collaborator, The University of Texas at AUstin COVID-19 Modeling Consortium, US</li>
+  <li><span class="year">2022 – Present</span> External Collaborator, The University of Texas at Austin COVID-19 Modeling Consortium, US</li>
 </ul>
 </div>
 
