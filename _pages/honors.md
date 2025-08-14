@@ -6,53 +6,6 @@ classes: honors
 ---
 
 <style>
-/* Mobile-only fixes for the Honors page */
-@media (max-width: 768px) {
-  .honorsmobile {
-    overflow-wrap: anywhere;
-    word-break: break-word;
-  }
-
-  /* Stack any figures/images/galleries vertically and make images full-width */
-  .honorsmobile figure,
-  .honorsmobile .gallery,
-  .honorsmobile [class*="grid"],
-  .honorsmobile .feature__wrapper {
-    display: block !important;
-    width: 100% !important;
-    margin: 0 0 1rem 0 !important;
-  }
-
-  .honorsmobile img,
-  .honorsmobile figure img {
-    display: block;
-    width: 100% !important;
-    max-width: 100% !important;
-    height: auto !important;
-    margin: 0 auto 0.75rem;
-  }
-
-  /* Tidy captions */
-  .honorsmobile figcaption {
-    font-size: 0.9em;
-    line-height: 1.3;
-    text-align: center;
-    margin-top: 0.25rem;
-  }
-
-  /* Neutralize floats on mobile if any were used */
-  .honorsmobile img,
-  .honorsmobile figure,
-  .honorsmobile .align-left,
-  .honorsmobile .align-right {
-    float: none !important;
-    clear: both !important;
-  }
-}
-</style>
-
-
-<style>
   /* Hide sidebar only on this page */
   .sidebar { display: none; }
   .page { padding-left: 0 !important; }
@@ -183,7 +136,6 @@ classes: honors
 
 </style>
 
-<div class="honorsmobile">
 <!-- First Row: 2 Images with Shared Caption + 1 Separate -->
 <div class="full-width-container content-block">
   <div class="image-row layout-pair-group">
@@ -341,4 +293,79 @@ classes: honors
   </div>
 </div>
 
-</div>
+<style>
+
+
+/* ===== Honors page: MOBILE-ONLY overrides (desktop untouched) ===== */
+@media (max-width: 768px) {
+  /* Make the container truly full-width and remove side offsets */
+  .full-width-container {
+    width: 100vw !important;
+    left: auto !important;
+    right: auto !important;
+    margin: 0 !important;
+    padding: 0 1rem !important;
+    box-sizing: border-box;
+  }
+
+  /* Stack rows/columns; remove fixed heights */
+  .image-row {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 1rem;
+    height: auto !important;
+  }
+
+  .paired-images-container,
+  .separate-image,
+  .image-col,
+  .pair-images,
+  .image-wrapper {
+    width: 100% !important;
+    height: auto !important;
+    display: block;
+  }
+
+  /* If a pair/group was side-by-side, stack it too */
+  .pair-images {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    height: auto !important;
+  }
+
+  /* Images: full-width; override any inline height/width */
+  .image-row img {
+    display: block;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;        /* beats style="height: 430px" */
+    object-fit: contain !important;  /* prevent cropping on mobile */
+    object-position: center !important;
+    margin: 0 auto 0.75rem;
+  }
+
+  /* Captions: slightly smaller and centered */
+  .image-caption,
+  .shared-caption {
+    font-size: 0.9em;
+    line-height: 1.35;
+    text-align: center;
+    margin-top: 0.4rem !important;
+  }
+
+  /* Safety: neutralize floats if any */
+  .align-left,
+  .align-right {
+    float: none !important;
+    clear: both !important;
+  }
+
+  /* Prevent horizontal scroll from long text */
+  .content-block {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+}
+</style>
