@@ -268,7 +268,12 @@ html { font-size: 100%; } /* 100% of 16px */
   }
 }
 
+/* ===========================
 /* === Mobile-only fixes (≤768px). Desktop unaffected. === */
+/* ===========================
+@media (max-width: 768px) {
+
+  /* === Mobile-only fixes (≤768px). Desktop unaffected. === */
 @media (max-width: 768px) {
 
   /* ---------- Research subsections: stack on mobile ---------- */
@@ -277,109 +282,23 @@ html { font-size: 100%; } /* 100% of 16px */
     flex-wrap: wrap;
     align-items: center;
   }
+
   .research_subsection_text {
     max-width: 100%;
     min-width: auto;
     text-align: left;
   }
+
   .research_subsection_image {
     max-width: 100%;
     flex: none;
   }
+
+  /* Also stacks multiple images within the same block */
   .research_subsection_image img {
-    display: block;          /* also stacks multiple images */
+    display: block;
     max-width: 100%;
     height: auto;
     margin: 0 auto 1rem;
-  }
-
-  /* ---------- Honors page (works for both single/archive layouts) ---------- */
-  .page.honors .page__content figure,
-  .archive.honors .page__content figure,
-  .page.honors .page__content .gallery,
-  .archive.honors .page__content .gallery,
-  .page.honors .page__content [class*="grid"],
-  .archive.honors .page__content [class*="grid"],
-  .page.honors .page__content .feature__wrapper,
-  .archive.honors .page__content .feature__wrapper {
-    display: block !important;
-    width: 100% !important;
-    margin: 0 0 1rem 0 !important;
-  }
-
-  .page.honors .page__content img,
-  .archive.honors .page__content img,
-  .page.honors .page__content figure img,
-  .archive.honors .page__content figure img {
-    display: block;
-    width: 100% !important;
-    max-width: 100% !important;
-    height: auto !important;
-    margin: 0 auto 0.75rem;
-  }
-
-  .page.honors .page__content figcaption,
-  .archive.honors .page__content figcaption {
-    font-size: 0.9em;
-    line-height: 1.3;
-    text-align: center;
-    margin-top: 0.25rem;
-  }
-
-  .page.honors .page__content img,
-  .archive.honors .page__content img,
-  .page.honors .page__content figure,
-  .archive.honors .page__content figure,
-  .page.honors .page__content .align-left,
-  .archive.honors .page__content .align-left,
-  .page.honors .page__content .align-right,
-  .archive.honors .page__content .align-right {
-    float: none !important;
-    clear: both !important;
-  }
-
-  .page.honors .page__content,
-  .archive.honors .page__content {
-    overflow-wrap: anywhere;
-    word-break: break-word;
-  }
-
-  /* ---------- CV page (archive layout): keep years aligned; wrap under text ---------- */
-  /* Hanging indent for each CV list item */
-  .archive.cvpage .compact-list ul li {
-    position: relative;
-    padding-left: 7.5em;       /* gutter for the year */
-    margin-bottom: 0.5em;
-  }
-  /* Fix the year in the gutter so all years align vertically */
-  .archive.cvpage .compact-list ul li .year {
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 7em;                /* adjust if any year range is wider */
-    display: inline-block;
-    white-space: nowrap;
-  }
-
-  /* CV mobile typography/wrapping */
-  .archive.cvpage .page__content {
-    line-height: 1.45;
-    overflow-wrap: anywhere;
-    word-break: break-word;
-    hyphens: auto;
-  }
-  .archive.cvpage .page__content p {
-    text-indent: 0 !important; /* avoid first-line indent on CV mobile */
-    margin: 0.5em 0;
-  }
-
-  /* Grants: stack amount below the description on mobile */
-  .archive.cvpage .grant-item { display: block; }
-  .archive.cvpage .grant-left { padding-right: 0; }
-  .archive.cvpage .grant-right {
-    display: block;
-    text-align: left;
-    white-space: normal;
-    margin-top: 0.25em;
   }
 }
