@@ -341,4 +341,47 @@ html { font-size: 100%; } /* 100% of 16px */
   }
 }
 
+/* === Mobile-only formatting for CV page (no desktop changes) === */
+@media (max-width: 768px) {
+  /* Better wrapping and spacing */
+  .page.cvpage .page__content {
+    line-height: 1.45;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    hyphens: auto;
+  }
+
+  /* Remove first-line paragraph indent just on the CV page (mobile only) */
+  .page.cvpage .page__content p {
+    text-indent: 0 !important;
+    margin: 0.5em 0;
+  }
+
+  /* Put the year above the text for each item */
+  .page.cvpage .year {
+    display: block;
+    width: auto;
+    margin: 0 0 0.25em 0;
+  }
+
+  /* Make list items breathe a bit */
+  .page.cvpage .compact-list ul li {
+    margin-bottom: 0.5em;
+  }
+
+  /* Grants: stack right column (amount) below the description */
+  .page.cvpage .grant-item {
+    display: block;                 /* break the two columns */
+  }
+  .page.cvpage .grant-left {
+    padding-right: 0;
+  }
+  .page.cvpage .grant-right {
+    text-align: left;
+    white-space: normal;
+    margin-top: 0.25em;
+    display: block;
+  }
+}
+
 
