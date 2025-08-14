@@ -8,11 +8,38 @@ redirect_from:
 classes: cvpage
 ---
 
+<style>
+/* Mobile-only fix for CV year column (desktop unaffected) */
+@media (max-width: 768px) {
+  #cvmobile ul li {
+    position: relative;
+    padding-left: 7.5em;   /* left gutter for the year */
+    margin-bottom: 0.5em;
+  }
+  #cvmobile .year {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 7em;            /* keep years aligned; adjust if needed */
+    display: inline-block;
+    white-space: nowrap;   /* prevents splitting the year range */
+  }
+  /* Optional: nicer wrapping on narrow screens */
+  #cvmobile {
+    line-height: 1.45;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    hyphens: auto;
+  }
+}
+</style>
+
+
 
 ### Appointments
 
 
-<div class="compact-list">
+<div id="cvmobile" class="compact-list">
 <ul>
   <li><span class="year">2024 – Present</span> Associate Professor, School of Mathematical Sciences, University of Southampton, UK</li>
   <li><span class="year">2022 – 2024</span> Assistant Professor, School of Mathematical Sciences, University of Southampton, UK</li>
