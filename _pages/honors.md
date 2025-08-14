@@ -2,7 +2,7 @@
 title: ""
 layout: single
 permalink: /honors/
-classes: honors
+classes: honors page-honors
 ---
 
 <style>
@@ -372,4 +372,14 @@ classes: honors
   .layout-two .image-col,
   .layout-single .image-col { max-width: 100% !important; }
 }
+/* Hide the topbar page link on mobile for Honors page */
+@media (max-width: 768px) {
+  body.page-honors .masthead .page-link,
+  body.page-honors .masthead .site-title + a {
+    display: none !important;
+  }
+}
+
 </style>
+
+
