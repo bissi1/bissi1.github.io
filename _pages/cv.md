@@ -53,7 +53,7 @@ classes: cvpage
 
 ### External Affiliations
 
-<div class="compact-list">
+<div id="cvmobile" class="compact-list">
 <ul>
   <li><span class="year">2024 – 2025</span> Distinguished Research Fellow, TU Dresden, Germany</li>
   <li><span class="year">2024 – Present</span> Member, Research Center for Modeling & Simulation, University of Bayreuth, Germany</li>
@@ -62,7 +62,7 @@ classes: cvpage
 </div>
 
 ### Education
-<div class="compact-list">
+<div id="cvmobile" class="compact-list">
 <ul>
   <li><span class="year">2023</span> Habilitation, Mathematics, University of Erlangen-Nuremberg, Germany</li>
   <li><span class="year">2016</span> Ph.D., Operations Research & Industrial Engineering, The University of Texas at Austin, US</li>
@@ -89,7 +89,7 @@ classes: cvpage
 
 ### Third Party Funding (selection)
 ≈ €340,000 of total funding as a PI or co-PI
-<div class="compact-list">
+<div id="cvmobile" class="compact-list">
 <ul>
   <li class="grant-item">
     <div class="grant-left"><span class="year">2023–2025</span> Grants from the Heilbronn Institute for Mathematical Research</div>
@@ -147,7 +147,7 @@ classes: cvpage
 Several other small, but competitive, grants from agencies including the American Public Power Association (US); Bavarian Academic Center for Central, Eastern and Southeastern Europe (BAYHOST, Germany); London Mathematical Society (LMS, UK); The Scientific and Technological Research Council of Turkey (TÜBİTAK, Turkey); and The Alan Turing Institute (UK).
 
 ### Memberships
-<div class="compact-list">
+<div id="cvmobile" class="compact-list">
 <ul>
   <li>Fellow, Institute of Mathematics and its Applications (FIMA)</li>
   <li>Senior Member, IEEE (SMIEEE)</li>
@@ -175,7 +175,7 @@ Several other small, but competitive, grants from agencies including the America
 
 ### Selected Publications
 
-<div class="compact-list square-bullets">
+<div id="cvmobile" class="compact-list square-bullets">
 <ul>
   <li>Schmitt, C. & Singh, B. (2024). "Quadratic optimization models for balancing preferential access and fairness: Formulations and optimality conditions". <i>INFORMS Journal on Computing</i>. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0308" style="color: #0066cc; text-decoration: none;">Link</a></li>
   <li>Singh, B., Oberfichtner, L., & Ivliev, S. (2022). "Heuristics for a cash-collection routing problem with a cluster-first route-second approach". <i>Annals of Operations Research</i>. <a href="https://link.springer.com/article/10.1007/s10479-022-04883-1" style="color: #0066cc; text-decoration: none;">Link</a></li>
