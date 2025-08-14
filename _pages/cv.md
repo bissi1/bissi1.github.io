@@ -74,7 +74,7 @@ classes: cvpage
 
 
 ### Invited Academic Stays (selection)
-<div class="compact-list">
+<div id="cvmobile" class="compact-list">
 <ul>
   <li><span class="year">2024</span> TU Dresden, Germany (5 weeks)</li>
   <li><span class="year">2024</span> University of Bayreuth, Germany (3 weeks)</li>
@@ -147,7 +147,7 @@ classes: cvpage
 Several other small, but competitive, grants from agencies including the American Public Power Association (US); Bavarian Academic Center for Central, Eastern and Southeastern Europe (BAYHOST, Germany); London Mathematical Society (LMS, UK); The Scientific and Technological Research Council of Turkey (TÜBİTAK, Turkey); and The Alan Turing Institute (UK).
 
 ### Memberships
-<div id="cvmobile" class="compact-list">
+<div class="compact-list">
 <ul>
   <li>Fellow, Institute of Mathematics and its Applications (FIMA)</li>
   <li>Senior Member, IEEE (SMIEEE)</li>
@@ -161,7 +161,7 @@ Several other small, but competitive, grants from agencies including the America
 </div>
 
 ### Honors & Awards (Selection)
-<div class="compact-list">
+<div id="cvmobile" class="compact-list">
 <ul>
   <li><span class="year">2024</span> Distinguished Research Fellowship, TU Dresden, Germany</li>
   <li><span class="year">2023</span> Mathematics Young Investigator Award (1st place)</li>
@@ -175,7 +175,7 @@ Several other small, but competitive, grants from agencies including the America
 
 ### Selected Publications
 
-<div id="cvmobile" class="compact-list square-bullets">
+<div class="compact-list square-bullets">
 <ul>
   <li>Schmitt, C. & Singh, B. (2024). "Quadratic optimization models for balancing preferential access and fairness: Formulations and optimality conditions". <i>INFORMS Journal on Computing</i>. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0308" style="color: #0066cc; text-decoration: none;">Link</a></li>
   <li>Singh, B., Oberfichtner, L., & Ivliev, S. (2022). "Heuristics for a cash-collection routing problem with a cluster-first route-second approach". <i>Annals of Operations Research</i>. <a href="https://link.springer.com/article/10.1007/s10479-022-04883-1" style="color: #0066cc; text-decoration: none;">Link</a></li>
