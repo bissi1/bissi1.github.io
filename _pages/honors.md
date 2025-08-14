@@ -154,7 +154,7 @@ classes: honors page-honors
         </div>
       </div>
       <div class="shared-caption">
-        Award ceremony at TU Dresden for my <a href="https://example.com" target="_blank">Distinguished Research Fellowship</a> (2024).
+        Award ceremony at TU Dresden for my <a href="https://tu-dresden.de/bu/wirtschaft/die-fakultaet/news/auszeichnung-von-associate-professor-bismark-singh-als-distinguished-research-fellow" target="_blank">Distinguished Research Fellowship</a> (2024).
       </div>
     </div>
     
@@ -164,7 +164,7 @@ classes: honors page-honors
         <img src="/assets/images/dresden_1.png" alt="Teaching session" style="height: 100%;">
       </div>
       <div class="image-caption">
-        Teaching chance constrained optimization to PhD students in the <a href="https://example.com" target="_blank">Saxon Doctoral Program</a> (2024).
+        Teaching chance constrained optimization to PhD students in the <a href="https://saxondoctoralprogram.de/2024/05/08/chance-constrained-programming/" target="_blank">Saxon Doctoral Program</a> (2024).
       </div>
     </div>
   </div>
@@ -243,7 +243,7 @@ classes: honors page-honors
         <img src="/assets/images/erzurum.jpg" alt="Erzurum event" style ="height: 430px; width: 800px;">
       </div>
       <div class="image-caption">
-        Honored by the <a href="https://example.com" target="_blank">Ataturk University</a> (2023).
+        Honored by the <a href="https://vimeo.com/815301849" target="_blank">Ataturk University</a> (2023).
       </div>
     </div>
     <div class="image-col">
@@ -251,7 +251,7 @@ classes: honors page-honors
         <img src="/assets/images/humboldt.jpg" alt="Humboldt event" style ="height: 430px; width: auto;">
       </div>
       <div class="image-caption">
-        <a href="https://example.com" target="_blank">Short Term Grantee</a> by Humboldt Centre (2024).
+        <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/recently-selected-short-term-grantees/index.html" target="_blank">Short Term Grantee</a> by Humboldt Centre (2024).
       </div>
     </div>
   </div>
@@ -265,7 +265,7 @@ classes: honors page-honors
         <img src="/assets/images/fefu.png" alt="FEFU TV appearance">
       </div>
       <div class="image-caption">
-        In the live-TV show <a href="https://example.com" target="_blank">Live with an Academic</a> explaining integer programming to public in the Far Eastern Federal University Vladivostok with Evgenii A. Nurminskii (2021).
+        In the live-TV show <a href="https://www.youtube.com/live/FT_M9LsqCgI?t=442s" target="_blank">Live with an Academic</a> explaining integer programming to public in the Far Eastern Federal University Vladivostok with Evgenii A. Nurminskii (2021).
       </div>
     </div>
     <div class="image-col">
