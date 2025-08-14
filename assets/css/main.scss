@@ -1,112 +1,270 @@
 ---
 ---
 
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
-
-/* 
-*$max-width: 30000px;   // 1200, 1400, or any px you like
-*/
-
-$type-size-5: 1em;    // 14px, change font here and in line at end
-
+/* ===========================
+   Imports from /_sass
+=========================== */
+$type-size-5: 1em; // 14px
 
 @import
-    "vendor/breakpoint/breakpoint",
-
-    "themes",
-    "theme/default",
-    "theme/dark",
-
-    "include/mixins",
-    "vendor/susy/susy",
-
-    "layout/reset",
-    "layout/base",
-
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
-
-    "layout/forms",
-
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands",
-    "vendor/magnific-popup/magnific-popup"
+  "vendor/breakpoint/breakpoint",
+  "themes",
+  "theme/default",
+  "theme/dark",
+  "include/mixins",
+  "vendor/susy/susy",
+  "layout/reset",
+  "layout/base",
+  "include/utilities",
+  "layout/tables",
+  "layout/buttons",
+  "layout/notices",
+  "layout/masthead",
+  "layout/navigation",
+  "layout/footer",
+  "syntax",
+  "layout/forms",
+  "layout/page",
+  "layout/archive",
+  "layout/sidebar",
+  "vendor/font-awesome/fontawesome",
+  "vendor/font-awesome/solid",
+  "vendor/font-awesome/brands",
+  "vendor/magnific-popup/magnific-popup"
 ;
 
-/* Custom site styles below */
-html { font-size: 100%; }   // 100% of 16px
+/* ===========================
+   Custom site styles
+=========================== */
 
-$type-size-5: 1em;    // 14px, change font here
+html { font-size: 100%; } /* 100% of 16px */
 
-/* Force full width for the Research page */
+/* Full-width Research page */
 .page.full .page__content,
 .page.full .page__inner-wrap {
-  max-width: 2600px !important;   /* Set your desired max width */
+  max-width: 2600px !important;
   width: 95% !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 2rem;
-  padding-right: 2rem;
+  margin: 0 auto !important;
+  padding: 0 2rem;
 }
+.page.full { padding: 0 !important; margin: 0 auto !important; }
+.page.full img { max-width: 100%; height: auto; }
 
-/* Ensure no unnecessary margins */
-.page.full {
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-
-/* Make images responsive */
-.page.full img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* Responsive side-by-side layout for the Probabilistic Bounds section */
-.probability-section {
+/* Research subsections */
+.research_subsection {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;               /* prevents wrapping */
   align-items: flex-start;
   gap: 2rem;
   margin-bottom: 2rem;
 }
+.research_subsection_text { flex: 1; min-width: 300px; max-width: 65%; }
+.research_subsection_image { flex: 0 0 320px; max-width: 320px; text-align: center; }
+.research_subsection_image img { width: 100%; height: auto; }
 
-.probability-text {
-  flex: 1;
-  min-width: 300px;
-}
-
-.probability-image {
-  flex: 0 0 300px;
-  text-align: center;
-}
-
-.probability-image img {
-  max-width: 100%;
-  border-radius: 0.5rem;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-}
-
-/* Tighter ordered list spacing */
+/* List spacing */
 .page__content ol li,
-.post-content  ol li {
-  margin-bottom: 0.25em;
+.post-content  ol li { margin-bottom: 0.25em; }
+.page.full .page__content ul li { margin-bottom: 0.2em !important; }
+
+/* Compact list block */
+.compact-list { margin-top: 0; padding-top: 0; }
+.compact-list ul { margin-top: 0; }
+.compact-list ul li { margin: 0; padding-top: 0; }
+.compact-list > *:first-child { margin-top: 0; }
+
+/* Inline details/toggle */
+.inline-toggle {
+  color: #0066cc;
+  cursor: pointer;
+  font-weight: normal;
+  margin-left: 0.5em;
+  white-space: nowrap;
+}
+.inline-toggle:hover { text-decoration: underline; }
+.inline-details { margin-top: 0.75em; }
+
+/* Paragraph rhythm */
+.page__content p { text-indent: 1.5em; margin: 0.5em 0; }
+.page.full .page__content p { text-align: left; word-break: break-word; }
+
+/* Close the gap after “themes:” paragraph when followed by a compact list */
+.page__content p:has(+ .compact-list) { margin-bottom: 0 !important; }
+.page__content > * + .compact-list { margin-top: 0 !important; }
+
+/* ===========================
+   Link styling (no underline)
+=========================== */
+
+/* Robust de-underline + light mode colors everywhere in content areas */
+.page__content a,
+.page__content a:link,
+.page__content a:visited,
+.post-content a,
+.entry-content a,
+.archive .page__content a,
+.entry .page__content a,
+.research_section_wrapper a,
+.inline-details a,
+.compact-ol a,
+.page a:not(.btn):not(.no-override) {
+  color: #0066cc !important;         /* light mode color */
+  text-decoration: none !important;
+  border-bottom: 0 !important;
+  box-shadow: none !important;       /* kills Minimal Mistakes inset underline */
+  background-image: none !important; /* kills gradient underline */
+  background: none !important;
+}
+
+.page__content a:hover,
+.post-content a:hover,
+.entry-content a:hover,
+.archive .page__content a:hover,
+.entry .page__content a:hover,
+.research_section_wrapper a:hover,
+.inline-details a:hover,
+.compact-ol a:hover,
+.page a:not(.btn):not(.no-override):hover {
+  color: #004c99 !important;         /* darker hover (light mode) */
+  text-decoration: underline !important; /* underline only on hover/focus */
+}
+
+/* Dark mode link colors */
+@media (prefers-color-scheme: dark) {
+  .page__content a,
+  .page__content a:link,
+  .page__content a:visited,
+  .post-content a,
+  .entry-content a,
+  .archive .page__content a,
+  .entry .page__content a,
+  .research_section_wrapper a,
+  .inline-details a,
+  .compact-ol a,
+  .page a:not(.btn):not(.no-override) {
+    color: #ffd166 !important;       /* warm amber */
+  }
+  .page__content a:hover,
+  .post-content a:hover,
+  .entry-content a:hover,
+  .archive .page__content a:hover,
+  .entry .page__content a:hover,
+  .research_section_wrapper a:hover,
+  .inline-details a:hover,
+  .compact-ol a:hover,
+  .page a:not(.btn):not(.no-override):hover {
+    color: #ffe29a !important;       /* gentle brighter hover */
+    text-decoration: underline !important;
+  }
+}
+
+/* ===========================
+   List types (bullets control)
+=========================== */
+
+/* Default lists (no special class): normal disc bullets */
+.page__content ul {
+  list-style: disc outside;
+  padding-left: 1.2em;
+}
+
+/* Compact lists: no bullets */
+.compact-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Square bullets when requested */
+.square-bullets ul {
+  list-style-type: square !important;
+  padding-left: 1.2em;  /* keep bullets visible */
+  margin: 0;
+}
+.square-bullets ul li {
+  margin: 0.15em 0;     /* tighter item spacing */
+}
+
+/* ===========================
+   Talks page (reversed numbered list)
+=========================== */
+
+.compact-ol {
+  list-style: decimal !important;   /* ensure numbers display */
+  list-style-position: outside;
+  padding-left: 1.5em;              /* room for numbers */
+  margin: 0;
+}
+.compact-ol > li { display: list-item; margin-bottom: 0.3em; }
+
+/* Optional two-column line within each item (left text, right year) */
+.compact-ol .row { display: flex; justify-content: space-between; align-items: flex-start; }
+.compact-ol .talk-left { flex: 1; padding-right: 1em; }
+.compact-ol .talk-right { white-space: nowrap; text-align: right; }
+
+/* ===========================
+   CV macros (year column + grants)
+=========================== */
+
+.year { display: inline-block; width: 125px; margin-right: 0.5em; }
+
+.grant-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.grant-left { flex: 1; padding-right: 1em; }
+.grant-right { white-space: nowrap; text-align: right; }
+
+/* === Hard override for Team/Archive pages: color + no underline everywhere === */
+.page a:not(.btn),
+.archive a:not(.btn) {
+  color: #0066cc !important;         /* light mode */
+  text-decoration: none !important;
+  border-bottom: 0 !important;
+  box-shadow: none !important;
+  background-image: none !important;
+}
+
+.page a:not(.btn):hover,
+.archive a:not(.btn):hover {
+  color: #004c99 !important;         /* hover (light mode) */
+  text-decoration: underline !important;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .page a:not(.btn),
+  .archive a:not(.btn) {
+    color: #ffd166 !important;
+  }
+  .page a:not(.btn):hover,
+  .archive a:not(.btn):hover {
+    color: #ffe29a !important;
+  }
+}
+
+/* Navigation menu link colors to match site hyperlink color scheme */
+.masthead__menu-item a {
+  color: #0066cc !important; /* light mode link color */
+  text-decoration: none !important;
+}
+
+.masthead__menu-item a:hover,
+.masthead__menu-item a:focus {
+  color: #004c99 !important; /* darker on hover */
+  text-decoration: underline !important;
+}
+
+/* Dark mode navigation colors */
+@media (prefers-color-scheme: dark) {
+  .masthead__menu-item a {
+    color: #ffd166 !important; /* warm amber in dark mode */
+  }
+  .masthead__menu-item a:hover,
+  .masthead__menu-item a:focus {
+    color: #ffe29a !important; /* lighter amber hover */
+    text-decoration: underline !important;
+  }
 }
 

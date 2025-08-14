@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: default
 ---
 
 {% include base_path %}
@@ -26,6 +26,42 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+<script>
+  function toggleDetails(el) {
+    const wrapper = el.closest('.research_section_wrapper');
+    const details = wrapper.querySelector('.inline-details');
+    const expanded = details.style.display === "block";
+    details.style.display = expanded ? "none" : "block";
+    el.textContent = expanded ? "[Click for more →]" : "[Show less ↑]";
+  }
+</script>
 
+ <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    document.querySelectorAll('a[href]').forEach(function(link) {
+      const url = link.getAttribute('href');
+
+      // Skip anchors, mailto, tel, javascript links
+      if (
+        url.startsWith('#') ||
+        url.startsWith('mailto:') ||
+        url.startsWith('tel:') ||
+        url.startsWith('javascript:')
+      ) return;
+
+      // Skip links in the top navigation bar
+      if (link.closest('.masthead')) return;
+
+      // Set target="_blank" and rel for all other links
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    });
+  });
+</script>
+
+
+
+  </body>
+</html>
   </body>
 </html>

@@ -11,18 +11,18 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Honors"
+    url: /honors/  
+
   - title: "Publications"
     url: /publications/
+
+  - title: "Team"
+    url: /team/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-        
-  - title: "Photos"
-    url: /photos/
-    
   - title: "CV"
     url: /cv/
     
