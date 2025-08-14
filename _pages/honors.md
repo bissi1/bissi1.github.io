@@ -2,7 +2,7 @@
 title: ""
 layout: single
 permalink: /honors/
-classes: wide
+classes: honors
 ---
 
 <style>

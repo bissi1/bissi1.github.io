@@ -299,3 +299,46 @@ html { font-size: 100%; } /* 100% of 16px */
   }
 }
 
+/* === Mobile-only fixes for Honors page images === */
+@media (max-width: 768px) {
+  /* 1) Make every image on the Honors page stack and scale */
+  .page.honors .page__content img,
+  .page.honors .page__content figure img {
+    display: block;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    margin: 0 auto 1rem;
+  }
+
+  /* 2) Kill floats/side-by-side tricks on mobile */
+  .page.honors .page__content img,
+  .page.honors .page__content figure,
+  .page.honors .page__content .align-left,
+  .page.honors .page__content .align-right {
+    float: none !important;
+    clear: both !important;
+  }
+
+  /* 3) If you used any gallery/grid wrappers, stack items vertically */
+  .page.honors .gallery,
+  .page.honors [class*="grid"],
+  .page.honors .feature__wrapper {
+    display: block !important;
+  }
+  .page.honors .gallery > *,
+  .page.honors [class*="grid"] > *,
+  .page.honors .feature__wrapper > * {
+    display: block !important;
+    width: 100% !important;
+    margin: 0 0 1rem 0 !important;
+  }
+
+  /* 4) Avoid horizontal scroll from long captions/text next to images */
+  .page.honors .page__content {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+}
+
+
