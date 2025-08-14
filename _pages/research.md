@@ -9,6 +9,10 @@ My primary research interest is advancing <strong>data-driven decision-making un
 
 One central focus of my research is <strong>chance-constrained optimization</strong>, where the goal is to design systems that remain resilient even under extreme risk conditions. I work on developing specialized algorithms to solve such stochastic programs, ensuring both tractability and practicality. A second recurring theme is the development of new axiomatic definitions of fairness. Here, I seek to design continuous or discrete optimization models whose Karush–Kuhn–Tucker (KKT) optimality conditions lead to these fairness notions.
 
+<strong> Some agencies funding my research are:</strong>
+<img src="/assets/images/funding.png" alt="Interdisciplinary Research" style="display:block; max-width:50%; height:auto; margin-bottom:1.5rem;">
+
+
 ### Motivations and Applications
 My work is inherently <em>interdisciplinary</em>, driven by real-world challenges such as:
 <div class="square-bullets">
