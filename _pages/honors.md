@@ -6,66 +6,41 @@ classes: honors
 ---
 
 <style>
-/* ===== Honors page: MOBILE-ONLY layout (desktop untouched) ===== */
+/* Mobile-only fixes for the Honors page */
 @media (max-width: 768px) {
-  /* Hide sidebar only on this page (mobile) */
-  .honorsmobile .sidebar { display: none; }
-  .honorsmobile .page { padding-left: 0 !important; }
-
-  /* Container should be full width on phones */
-  .honorsmobile .full-width-container {
-    width: 100vw !important;
-    left: auto !important;
-    right: auto !important;
-    margin: 0 !important;
-    padding: 0 1rem !important;
-    box-sizing: border-box;
+  .honorsmobile {
+    overflow-wrap: anywhere;
+    word-break: break-word;
   }
 
-  /* Stack rows/cols vertically; kill fixed heights */
-  .honorsmobile .image-row {
-    display: flex;
-    flex-direction: column;
-    align-items: stretch;
-    gap: 1rem;
-    height: auto !important;
-  }
-  .honorsmobile .paired-images-container,
-  .honorsmobile .separate-image,
-  .honorsmobile .image-col,
-  .honorsmobile .pair-images,
-  .honorsmobile .image-wrapper {
+  /* Stack any figures/images/galleries vertically and make images full-width */
+  .honorsmobile figure,
+  .honorsmobile .gallery,
+  .honorsmobile [class*="grid"],
+  .honorsmobile .feature__wrapper {
+    display: block !important;
     width: 100% !important;
-    height: auto !important;
-    display: block;
+    margin: 0 0 1rem 0 !important;
   }
 
-  /* If any pair/group was side-by-side, stack it too */
-  .honorsmobile .pair-images { display: flex; flex-direction: column; gap: 0.5rem; }
-
-  /* Images: full-width, no cropping; override inline heights */
   .honorsmobile img,
   .honorsmobile figure img {
     display: block;
     width: 100% !important;
     max-width: 100% !important;
     height: auto !important;
-    object-fit: contain !important;
-    object-position: center !important;
     margin: 0 auto 0.75rem;
   }
 
-  /* Captions: slightly smaller, centered */
-  .honorsmobile .image-caption,
-  .honorsmobile .shared-caption,
+  /* Tidy captions */
   .honorsmobile figcaption {
     font-size: 0.9em;
-    line-height: 1.35;
+    line-height: 1.3;
     text-align: center;
-    margin-top: 0.4rem !important;
+    margin-top: 0.25rem;
   }
 
-  /* Safety: neutralize any floats */
+  /* Neutralize floats on mobile if any were used */
   .honorsmobile img,
   .honorsmobile figure,
   .honorsmobile .align-left,
@@ -73,13 +48,139 @@ classes: honors
     float: none !important;
     clear: both !important;
   }
-
-  /* Prevent horizontal scroll from long text */
-  .honorsmobile {
-    overflow-wrap: anywhere;
-    word-break: break-word;
-  }
 }
+</style>
+
+
+<style>
+  /* Hide sidebar only on this page */
+  .sidebar { display: none; }
+  .page { padding-left: 0 !important; }
+
+  /* Base Spacing System */
+  .content-block {
+    margin-bottom: 6rem;
+  }
+  .content-block:last-child {
+    margin-bottom: 1rem;
+  }
+
+  /* Full width container */
+  .full-width-container {
+    width: calc(100vw - 100px);
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: calc(-50vw + 50px);
+    margin-right: -50vw;
+    padding: 0 2rem;
+    box-sizing: border-box;
+  }
+
+  /* Universal Image Row Styles */
+  .image-row {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    height: 550px;
+  }
+
+  /* Image Column Styles */
+  .image-col {
+    flex: 1;
+    max-width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Image Wrapper */
+  .image-wrapper {
+    flex: 1;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    overflow: hidden;
+  }
+
+  /* Image Styles */
+  .image-col img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    object-fit: contain;
+    object-position: bottom;
+  }
+
+  /* Caption Styles */
+  .image-caption {
+    margin-top: 0.5rem;
+    font-size: 0.95em;
+  }
+  .image-caption a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+
+  /* Shared Caption Container */
+  .shared-caption {
+    flex: 2;
+    text-align: center;
+    margin-top: 1rem;
+  }
+
+  /* Layout Variations */
+  .layout-pair-group {
+    justify-content: flex-start;
+  }
+  .pair-group {
+    display: flex;
+    gap: 0.5rem;
+    flex: 1.5;
+    position: relative;
+  }
+  .pair-images {
+    display: flex;
+    gap: 0.5rem;
+    width: 100%;
+  }
+  .layout-single .image-col {
+    max-width: 70%;
+    margin: 0 auto;
+  }
+  .layout-two .image-col {
+    max-width: 45%;
+  }
+
+  /* Remove forced heights so images and captions flow naturally */
+.image-row {
+  align-items: flex-start;
+  height: auto;
+}
+
+.image-wrapper {
+  height: auto;
+}
+
+/* Consistent spacing between image and caption */
+.image-wrapper + .image-caption,
+.shared-caption {
+  margin-top: 0.4rem; /* unified gap */
+}
+
+/* Optional: ensure captions don't stretch the row */
+.image-caption, .shared-caption {
+  line-height: 1.3;
+}
+
+.layout-two .image-col img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;        /* fills the box; crops overflow */
+  display: block;
+}
+
 </style>
 
 <div class="honorsmobile">
