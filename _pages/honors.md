@@ -65,9 +65,16 @@ classes: honors
   /* Caption Styles (desktop baseline) */
   .image-caption { margin-top: 0.5rem; font-size: 0.95em; }
   .image-caption a { color: #0066cc; text-decoration: none; }
+  /* Desktop: consistent caption baseline (as before) */
+  .image-wrapper + .image-caption,
+  .shared-caption { margin-top: 0.4rem; }
+
+  .image-caption,
+  .shared-caption { line-height: 1.3; }
+
 
   /* Shared Caption Container (desktop baseline) */
-  .shared-caption { flex: 2; text-align: center; margin-top: 1rem; }
+  .shared-caption { flex: 2; text-align: center; margin-top: 0.4rem; line-height: 1.3; }
 
   /* Layout Variations (desktop) */
   .layout-pair-group { justify-content: flex-start; }
@@ -265,5 +272,33 @@ classes: honors
   .image-col { max-width: 100% !important; flex: 1 1 auto !important; }
   .layout-two .image-col,
   .layout-single .image-col { max-width: 100% !important; }
+}
+</style>
+
+<style>
+/* ===== Honors page: DESKTOP-ONLY guard (≥769px) — pins caption metrics ===== */
+@media (min-width: 769px) {
+  /* Restore your original caption sizing/spacing */
+  .image-caption { 
+    margin-top: 0.5rem; 
+    font-size: 0.95em; 
+    line-height: 1.3; 
+  }
+  .shared-caption { 
+    text-align: center; 
+    margin-top: 1rem; 
+    height: 1.5rem; 
+    line-height: 1.3; 
+  }
+
+  /* Keep the tighter variant you defined for specific layouts */
+  .layout-two .image-caption,
+  .layout-single .image-caption { 
+    margin-top: 0.2rem; 
+  }
+
+  /* Your original pair of rules for inline-height cases */
+  .image-wrapper + .image-caption { margin-top: 0.5rem; }
+  .image-wrapper[style*="height:"] + .image-caption { margin-top: 0.2rem; }
 }
 </style>
