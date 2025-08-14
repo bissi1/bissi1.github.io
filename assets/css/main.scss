@@ -268,3 +268,24 @@ html { font-size: 100%; } /* 100% of 16px */
   }
 }
 
+@media (max-width: 768px) {
+  .research_subsection {
+    flex-direction: column;      /* stack vertically */
+    flex-wrap: wrap;             /* allow wrapping */
+    align-items: center;         /* center content */
+  }
+  .research_subsection_text {
+    max-width: 100%;             /* take full width */
+    min-width: auto;
+    text-align: left;            /* normal text alignment */
+  }
+  .research_subsection_image {
+    max-width: 100%;             /* image scales full width */
+    flex: none;
+  }
+  .research_subsection_image img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
