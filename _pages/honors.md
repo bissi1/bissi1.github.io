@@ -6,15 +6,19 @@ classes: honors
 ---
 
 <style>
-  /* Hide sidebar only on this page (desktop & mobile) */
+  /* Hide sidebar only on this page */
   .sidebar { display: none; }
   .page { padding-left: 0 !important; }
 
-  /* Base Spacing System (desktop baseline) */
-  .content-block { margin-bottom: 6rem; }
-  .content-block:last-child { margin-bottom: 1rem; }
+  /* Base Spacing System */
+  .content-block {
+    margin-bottom: 6rem;
+  }
+  .content-block:last-child {
+    margin-bottom: 1rem;
+  }
 
-  /* Full width container (desktop baseline) */
+  /* Full width container */
   .full-width-container {
     width: calc(100vw - 100px);
     position: relative;
@@ -26,15 +30,15 @@ classes: honors
     box-sizing: border-box;
   }
 
-  /* Universal Image Row Styles (desktop baseline) */
+  /* Universal Image Row Styles */
   .image-row {
     display: flex;
     justify-content: center;
     gap: 2rem;
-    height: 550px; /* desktop height */
+    height: 550px;
   }
 
-  /* Image Column Styles (desktop baseline) */
+  /* Image Column Styles */
   .image-col {
     flex: 1;
     max-width: 100%;
@@ -43,7 +47,7 @@ classes: honors
     flex-direction: column;
   }
 
-  /* Image Wrapper (desktop baseline) */
+  /* Image Wrapper */
   .image-wrapper {
     flex: 1;
     display: flex;
@@ -52,7 +56,7 @@ classes: honors
     overflow: hidden;
   }
 
-  /* Image Styles (desktop baseline) */
+  /* Image Styles */
   .image-col img {
     width: 100%;
     height: auto;
@@ -62,47 +66,74 @@ classes: honors
     object-position: bottom;
   }
 
-  /* Caption Styles (desktop baseline) */
-  .image-caption { margin-top: 0.5rem; font-size: 0.95em; }
-  .image-caption a { color: #0066cc; text-decoration: none; }
-  /* Desktop: consistent caption baseline (as before) */
-  .image-wrapper + .image-caption,
-  .shared-caption { margin-top: 0.4rem; }
-
-  .image-caption,
-  .shared-caption { line-height: 1.3; }
-
-
-  /* Shared Caption Container (desktop baseline) */
-  .shared-caption { flex: 2; text-align: center; margin-top: 0.4rem; line-height: 1.3; }
-
-  /* Layout Variations (desktop) */
-  .layout-pair-group { justify-content: flex-start; }
-  .pair-group { display: flex; gap: 0.5rem; flex: 1.5; position: relative; }
-  .pair-images { display: flex; gap: 0.5rem; width: 100%; }
-  .layout-single .image-col { max-width: 70%; margin: 0 auto; }
-  .layout-two .image-col { max-width: 45%; }
-
-  /* Row-specific desktop tweaks */
-  .layout-pair-group {
-    justify-content: flex-start;  
-    align-items: stretch;           /* equal height cols */
-    height: 350px;                  /* fixed height for that row on desktop */
+  /* Caption Styles */
+  .image-caption {
+    margin-top: 0.5rem;
+    font-size: 0.95em;
   }
-  .paired-images-container { flex: 1.5; display: flex; flex-direction: column; height: 100%; }
-  .pair-images { display: flex; gap: 0.5rem; height: calc(100% - 2rem); } /* leave room for caption */
-  .image-col { height: 100%; }
-  .image-wrapper { height: 100%; }
-  .shared-caption { text-align: center; margin-top: 0.5rem; height: 1.5rem; }
-  .separate-image { flex: 1; display: flex; flex-direction: column; height: 100%; }
+  .image-caption a {
+    color: #0066cc;
+    text-decoration: none;
+  }
 
-  /* Caption spacing variants (desktop) */
-  .layout-two .image-caption,
-  .layout-single .image-caption { margin-top: 0.2rem; }
+  /* Shared Caption Container */
+  .shared-caption {
+    flex: 2;
+    text-align: center;
+    margin-top: 1rem;
+  }
 
-  /* If an inline height is present, tighten the caption gap (desktop) */
-  .image-wrapper + .image-caption { margin-top: 0.5rem; }
-  .image-wrapper[style*="height:"] + .image-caption { margin-top: 0.2rem; }
+  /* Layout Variations */
+  .layout-pair-group {
+    justify-content: flex-start;
+  }
+  .pair-group {
+    display: flex;
+    gap: 0.5rem;
+    flex: 1.5;
+    position: relative;
+  }
+  .pair-images {
+    display: flex;
+    gap: 0.5rem;
+    width: 100%;
+  }
+  .layout-single .image-col {
+    max-width: 70%;
+    margin: 0 auto;
+  }
+  .layout-two .image-col {
+    max-width: 45%;
+  }
+
+  /* Remove forced heights so images and captions flow naturally */
+.image-row {
+  align-items: flex-start;
+  height: auto;
+}
+
+.image-wrapper {
+  height: auto;
+}
+
+/* Consistent spacing between image and caption */
+.image-wrapper + .image-caption,
+.shared-caption {
+  margin-top: 0.4rem; /* unified gap */
+}
+
+/* Optional: ensure captions don't stretch the row */
+.image-caption, .shared-caption {
+  line-height: 1.3;
+}
+
+.layout-two .image-col img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;        /* fills the box; crops overflow */
+  display: block;
+}
+
 </style>
 
 <!-- First Row: 2 Images with Shared Caption + 1 Separate -->
@@ -139,12 +170,77 @@ classes: honors
   </div>
 </div>
 
+<style>
+  .layout-pair-group {
+    justify-content: flex-start;  
+    align-items: stretch; /* Makes all items same height */
+    height: 350px; /* Fixed height for entire row */
+  }
+  
+  .paired-images-container {
+    flex: 1.5;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+  .pair-images {
+    display: flex;
+    gap: 0.5rem;
+    height: calc(100% - 2rem); /* Accounts for caption space */
+  }
+  
+  .image-col {
+    height: 100%;
+  }
+  
+  .image-wrapper {
+    height: 100%;
+  }
+  
+  .shared-caption {
+    text-align: center;
+    margin-top: 0.5rem;
+    height: 1.5rem;
+  }
+  
+  .separate-image {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+</style>
+
+<style>
+  /* Unified caption spacing for all rows */
+  .image-caption {
+    margin-top: 0.5rem; /* Default spacing */
+  }
+
+  /* Tighter spacing for specific layouts */
+  .layout-two .image-caption,
+  .layout-single .image-caption {
+    margin-top: 0.2rem; /* Tighter spacing for these layouts */
+  }
+
+  /* Adjust spacing based on image height */
+.image-wrapper + .image-caption {
+  margin-top: 0.5rem;
+}
+.image-wrapper[style*="height:"] + .image-caption {
+  margin-top: 0.2rem;
+}
+</style>
+
+
+
 <!-- Second Row: 2 Images -->
 <div class="full-width-container content-block">
   <div class="image-row layout-two">
     <div class="image-col">
       <div class="image-wrapper">
-        <img src="/assets/images/erzurum.jpg" alt="Erzurum event" style="height: 430px; width: 800px;">
+        <img src="/assets/images/erzurum.jpg" alt="Erzurum event" style ="height: 430px; width: 800px;">
       </div>
       <div class="image-caption">
         Honored by the <a href="https://example.com" target="_blank">Ataturk University</a> (2023).
@@ -152,7 +248,7 @@ classes: honors
     </div>
     <div class="image-col">
       <div class="image-wrapper">
-        <img src="/assets/images/humboldt.jpg" alt="Humboldt event" style="height: 430px; width: auto;">
+        <img src="/assets/images/humboldt.jpg" alt="Humboldt event" style ="height: 430px; width: auto;">
       </div>
       <div class="image-caption">
         <a href="https://example.com" target="_blank">Short Term Grantee</a> by Humboldt Centre (2024).
@@ -174,7 +270,7 @@ classes: honors
     </div>
     <div class="image-col">
       <div class="image-wrapper">
-        <img src="/assets/images/ras.png" alt="Russian Academy of Sciences" style="height: 330px; width: auto;">
+        <img src="/assets/images/ras.png" alt="Russian Academy of Sciences" style ="height: 330px; width: auto;">
       </div>
       <div class="image-caption">
         Invited lecture at Russian Academy of Sciences (2015).
@@ -196,7 +292,10 @@ classes: honors
     </div>
   </div>
 </div>
+
 <style>
+
+
 /* ===== Honors page: MOBILE-ONLY overrides (desktop untouched) ===== */
 @media (max-width: 768px) {
   /* Make the container truly full-width and remove side offsets */
@@ -217,6 +316,7 @@ classes: honors
     gap: 1rem;
     height: auto !important;
   }
+
   .paired-images-container,
   .separate-image,
   .image-col,
@@ -240,7 +340,7 @@ classes: honors
     display: block;
     width: 100% !important;
     max-width: 100% !important;
-    height: auto !important;        /* beats inline height */
+    height: auto !important;        /* beats style="height: 430px" */
     object-fit: contain !important;  /* prevent cropping on mobile */
     object-position: center !important;
     margin: 0 auto 0.75rem;
@@ -267,38 +367,9 @@ classes: honors
     overflow-wrap: anywhere;
     word-break: break-word;
   }
-
-  /* NEW: ensure stacked items truly fill the width on mobile */
+  /* Ensure stacked items truly fill the width on mobile */
   .image-col { max-width: 100% !important; flex: 1 1 auto !important; }
   .layout-two .image-col,
   .layout-single .image-col { max-width: 100% !important; }
-}
-</style>
-
-<style>
-/* ===== Honors page: DESKTOP-ONLY guard (≥769px) — pins caption metrics ===== */
-@media (min-width: 769px) {
-  /* Restore your original caption sizing/spacing */
-  .image-caption { 
-    margin-top: 0.5rem; 
-    font-size: 0.95em; 
-    line-height: 1.3; 
-  }
-  .shared-caption { 
-    text-align: center; 
-    margin-top: 1rem; 
-    height: 1.5rem; 
-    line-height: 1.3; 
-  }
-
-  /* Keep the tighter variant you defined for specific layouts */
-  .layout-two .image-caption,
-  .layout-single .image-caption { 
-    margin-top: 0.2rem; 
-  }
-
-  /* Your original pair of rules for inline-height cases */
-  .image-wrapper + .image-caption { margin-top: 0.5rem; }
-  .image-wrapper[style*="height:"] + .image-caption { margin-top: 0.2rem; }
 }
 </style>
