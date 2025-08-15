@@ -302,3 +302,30 @@ html { font-size: 100%; } /* 100% of 16px */
     margin: 0 auto 1rem;
   }
 }
+
+/* Language dropdown */
+#lang-switcher {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-left: 1rem;
+  font-size: 0.95em;
+}
+#lang-switcher .ls-label { opacity: 0.8; }
+#lang-switcher select { padding: 2px 6px; }
+
+/* Position nicely on desktop */
+@media (min-width: 769px) {
+  .masthead .inner-wrap { position: relative; }
+  #lang-switcher {
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+/* Let it flow on mobile */
+@media (max-width: 768px) {
+  #lang-switcher { margin-left: auto; }
+}
+

@@ -13,8 +13,41 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
 
-<!-- Support for MatJax -->
-<script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<!-- Language dropdown: keeps the same path, switches / ↔ /de/ -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var target =
+    document.querySelector('.masthead .masthead__menu') ||
+    document.querySelector('.masthead .inner-wrap') ||
+    document.querySelector('.masthead');
+  if (!target || document.getElementById('lang-switcher')) return;
+
+  var path = window.location.pathname || "/";
+
+  // Normalize: strip any leading "/de/" to get the base English path
+  function toBase(p) { return p.replace(/^\/de(\/|$)/, "/"); }
+  function toDe(p)   { return "/de" + toBase(p).replace(/^\/+/, "/"); }
+
+  var isGerman = /^\/de(\/|$)/.test(path);
+  var enHref = toBase(path);
+  var deHref = toDe(path);
+
+  var wrap = document.createElement('div');
+  wrap.id = 'lang-switcher';
+  wrap.innerHTML = `
+    <label for="lang-select" class="ls-label" aria-label="Language"></label>
+    <select id="lang-select" aria-label="Change language">
+      <option value="${enHref}" ${isGerman ? "" : "selected"}>EN</option>
+      <option value="${deHref}" ${isGerman ? "selected" : ""}>DE</option>
+    </select>
+  `;
+  wrap.addEventListener('change', function (e) {
+    var href = e.target.value;
+    if (href) window.location.href = href;
+  });
+  target.appendChild(wrap);
+});
+</script>
+
 
 <!-- end custom head snippets -->

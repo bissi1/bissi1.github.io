@@ -20,7 +20,7 @@ I am the winner of the Mathematics 2023 <a href="https://www.mdpi.com/journal/ma
 
 My research centers on ***data-driven decision-making under uncertainty***, with a particular focus on discrete stochastic optimization models. From formulating these models to developing novel algorithms and real-world applications, I advance mathematical decision-making in complex and uncertain environments. Stay turned for my upcoming book, to be published by Springer, on this subject!
 
-My research has been funded by, among others, the German Research Foundation (DFG), the Horizon 2020 program, and the US Department of Energy's LDRD program (see left). <a href="/research/" style="text-decoration: none;">Explore My Research →</a>
+My research has been funded by, among others, the German Research Foundation (DFG), the Horizon 2020 program, and the US Department of Energy's LDRD program. <a href="/research/" style="text-decoration: none;">Explore My Research →</a>
 
 
 ### Latest News

@@ -316,6 +316,7 @@ plugins:
   - jekyll-redirect-from
   - jemoji
   - jekyll-include-cache
+  
 
 # Mimic GitHub Pages with --safe
 whitelist:

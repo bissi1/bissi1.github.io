@@ -1,7 +1,8 @@
 ---
 title: ""
 layout: single
-permalink: /honors/
+permalink: /de/honors/
+lang: de
 classes: honors page-honors
 ---
 
@@ -154,7 +155,7 @@ classes: honors page-honors
         </div>
       </div>
       <div class="shared-caption">
-        Award ceremony at TU Dresden for my <a href="https://tu-dresden.de/bu/wirtschaft/die-fakultaet/news/auszeichnung-von-associate-professor-bismark-singh-als-distinguished-research-fellow" target="_blank">Distinguished Research Fellowship</a> (2024).
+        Preisverleihung an der TU Dresden für mein <a href="https://tu-dresden.de/bu/wirtschaft/die-fakultaet/news/auszeichnung-von-associate-professor-bismark-singh-als-distinguished-research-fellow" target="_blank">Distinguished Research Fellowship</a>.
       </div>
     </div>
     
@@ -164,7 +165,7 @@ classes: honors page-honors
         <img src="/assets/images/dresden_1.png" alt="Teaching session" style="height: 100%;">
       </div>
       <div class="image-caption">
-        Teaching chance constrained optimization to PhD students in the <a href="https://saxondoctoralprogram.de/2024/05/08/chance-constrained-programming/" target="_blank">Saxon Doctoral Program</a> (2024).
+        Lehre zur Chance-constrained Optimierung für Promovierende im <a href="https://saxondoctoralprogram.de/2024/05/08/chance-constrained-programming/" target="_blank">Saxon Doctoral Program</a> (2024).
       </div>
     </div>
   </div>
@@ -243,7 +244,7 @@ classes: honors page-honors
         <img src="/assets/images/erzurum.jpg" alt="Erzurum event" style ="height: 430px; width: 800px;">
       </div>
       <div class="image-caption">
-        Honored by the <a href="https://vimeo.com/815301849" target="_blank">Ataturk University</a> (2023).
+        Auszeichnung durch die <a href="https://vimeo.com/815301849" target="_blank">Ataturk Universität</a> (2023).
       </div>
     </div>
     <div class="image-col">
@@ -251,7 +252,7 @@ classes: honors page-honors
         <img src="/assets/images/humboldt.jpg" alt="Humboldt event" style ="height: 430px; width: auto;">
       </div>
       <div class="image-caption">
-        <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/recently-selected-short-term-grantees/index.html" target="_blank">Short Term Grantee</a> by Humboldt Centre (2024).
+        <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/recently-selected-short-term-grantees/index.html" target="_blank">Short Term Grantee</a> des Humboldt-Zentrums (2024).
       </div>
     </div>
   </div>
@@ -265,7 +266,7 @@ classes: honors page-honors
         <img src="/assets/images/fefu.png" alt="FEFU TV appearance">
       </div>
       <div class="image-caption">
-        In the live-TV show <a href="https://www.youtube.com/live/FT_M9LsqCgI?t=442s" target="_blank">Live with an Academic</a> explaining integer programming to public in the Far Eastern Federal University Vladivostok with Evgenii A. Nurminskii (2021).
+        In der Live-TV-Sendung <a href="https://www.youtube.com/live/FT_M9LsqCgI?t=442s" target="_blank">Live with an Academic</a> Erklärung der Ganzzahl-Optimierung für die Öffentlichkeit an der Far Eastern Federal University Wladiwostok mit Evgenii A. Nurminskii (2021).
       </div>
     </div>
     <div class="image-col">
@@ -273,7 +274,7 @@ classes: honors page-honors
         <img src="/assets/images/ras.png" alt="Russian Academy of Sciences" style ="height: 330px; width: auto;">
       </div>
       <div class="image-caption">
-        Invited lecture at Russian Academy of Sciences with Boris T. Polyak (2015).
+        Eingeladener Vortrag an der Russischen Akademie der Wissenschaften mit Boris T. Polyak (2015).
       </div>
     </div>
   </div>
@@ -287,7 +288,7 @@ classes: honors page-honors
         <img src="/assets/images/collage.jpg" alt="Collage of talks">
       </div>
       <div class="image-caption">
-        Some other talks and awards worldwide.
+        Einige weitere Vorträge und Auszeichnungen weltweit.
       </div>
     </div>
   </div>
