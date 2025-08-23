@@ -38,6 +38,7 @@ Mein Team ist akademisch vielfältig, mit Mitgliedern aus einer Vielzahl ***inte
 <div class="square-bullets">
 <ul>
 <li>Dr. Hongtao Wang (Mathematik), University of Southampton, UK</li>
+<li>Thi Nguyen (Wirtschaftsschule), University of Southampton, UK</li>
 <li>Dr. Sher Singh (Wirtschaftswissenschaften), University of Southampton, UK</li>
 <li>Zheng Sun (Mathematik), University of Southampton, UK</li>
 <li>Sophie Reshetnikova (Mathematik), University of Southampton, UK  
