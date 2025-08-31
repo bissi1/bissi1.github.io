@@ -92,7 +92,7 @@ classes: cvpage
   </li>
 
   <li class="grant-item">
-    <div class="grant-left"><span class="year">2022</span> Interne kompetitive Förderungen der University of Southampton zu interdisziplinären datenwissenschaftlichen Themen</div>
+    <div class="grant-left"><span class="year">2022–2025</span> Interne kompetitive Förderungen der University of Southampton zu interdisziplinären datenwissenschaftlichen Themen</div>
     <div class="grant-right">£47.928</div>
   </li>
 
