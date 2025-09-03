@@ -34,6 +34,7 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 
 <div class="square-bullets"> 
   <ul>
+    <li>[R10] A. Thoma, E. Papadaki, B. Singh "From coding assistant to reasoning partner? GenAI in the modeling phase of operations research (OR) education".</li>
     <li>[R9] B. Singh "On the resolution of ties in fair convex allocation problems".</li>
     <li>[R8] A. Saifutdinova, S. Reshetnikova<sup>(*)</sup>, B. Singh "Optimizing petroleum distribution in the Volga-Urals: The case of Bashkirnefteprodukt".</li>
     <li>[R7] T. Roberts<sup>(*)</sup>, I. Williams, S. Jones, B. Singh "Designing emotive visual campaigns: A data-driven study of artwork and pro-environmental intent".</li>
