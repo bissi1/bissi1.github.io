@@ -13,17 +13,17 @@ Ich veröffentliche in einer Vielzahl von Fachzeitschriften, die die interdiszip
 
 <div class="square-bullets">
   <ul>
-    <li><strong><em>17 Publikationen</em></strong> in Zeitschriften, die im <strong><em>VHB-Rating 2024</em></strong> für Operations Research (OR) gelistet sind:
+    <li><strong><em>18 Publikationen</em></strong> in Zeitschriften, die im <strong><em>VHB-Rating 2024</em></strong> für Operations Research (OR) gelistet sind:
       <ul>
         <li><strong><em>A-bewertet</em></strong>: [30], [28], [25], [24], [23], [15], [9]</li>
-        <li><strong><em>B-bewertet</em></strong>: [29], [27], [21], [15], [12], [11], [10], [7], [6], [5]</li>
+        <li><strong><em>B-bewertet</em></strong>: [31], [29], [27], [21], [15], [12], [11], [10], [7], [6], [5]</li>
       </ul>
     </li>
     <li><strong><em>18 Publikationen</em></strong> in Zeitschriften, die in der <strong><em>AMS MathSciNet-Liste 2023</em></strong> enthalten sind:  
       <div style="margin-left: 1.5em;">[28], [26], [25], [24], [23], [22], [21], [20], [17], [13], [12], [11], [10], [9], [8], [7], [6], [2]</div>
     </li>
-    <li><strong><em>9 Publikationen</em></strong> in Zeitschriften, die in der <strong><em>PubMed-Liste der National Library of Medicine</em></strong> aufgeführt sind:  
-      <div style="margin-left: 1.5em;"> [18], [16], [15], [14], [13], [5], [4], [3], [1]</div>
+    <li><strong><em>10 Publikationen</em></strong> in Zeitschriften, die in der <strong><em>PubMed-Liste der National Library of Medicine</em></strong> aufgeführt sind:  
+      <div style="margin-left: 1.5em;"> [31], [18], [16], [15], [14], [13], [5], [4], [3], [1]</div>
     </li>
   </ul>
 </div>
@@ -34,14 +34,13 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 
 <div class="square-bullets"> 
   <ul>
-    <li>[R11] G. Marchesi, F. Maggioni, B. Singh "A mixed-integer programming framework for fairness-constrained support vector machines".</li>
-    <li>[R10] A. Thoma, E. Papadaki, B. Singh "From coding assistant to reasoning partner? GenAI in the modeling phase of operations research (OR) education".</li>
-    <li>[R9] B. Singh "On the resolution of ties in fair convex allocation problems".</li>
-    <li>[R8] A. Saifutdinova, S. Reshetnikova<sup>(*)</sup>, B. Singh "Optimizing petroleum distribution in the Volga-Urals: The case of Bashkirnefteprodukt".</li>
-    <li>[R7] T. Roberts<sup>(*)</sup>, I. Williams, S. Jones, B. Singh "Designing emotive visual campaigns: A data-driven study of artwork and pro-environmental intent".</li>
-    <li>[R6] Y. Akbulut, B. Singh "On the optimal control of initial velocity in a hyperbolic beam equation by the variational method".</li>
-    <li>[R5] B. Singh, A. Dubickas "Constrained enumeration of lucky tickets: Prime digits, uniqueness, and greedy heuristics".</li>
-    <li>[R4] B. Singh, D. Gromov "Mathematically modeling worried-well behavior during infectious disease outbreaks".</li>
+    <li>[R10] G. Marchesi, F. Maggioni, B. Singh "A mixed-integer programming framework for fairness-constrained support vector machines".</li>
+    <li>[R9] A. Thoma, E. Papadaki, B. Singh "From coding assistant to reasoning partner? GenAI in the modeling phase of operations research (OR) education".</li>
+    <li>[R8] B. Singh "On the resolution of ties in fair convex allocation problems".</li>
+    <li>[R7] A. Saifutdinova, S. Reshetnikova<sup>(*)</sup>, B. Singh "Optimizing petroleum distribution in the Volga-Urals: The case of Bashkirnefteprodukt".</li>
+    <li>[R6] T. Roberts<sup>(*)</sup>, I. Williams, S. Jones, B. Singh "Designing emotive visual campaigns: A data-driven study of artwork and pro-environmental intent".</li>
+    <li>[R5] Y. Akbulut, B. Singh "On the optimal control of initial velocity in a hyperbolic beam equation by the variational method".</li>
+    <li>[R4] B. Singh, A. Dubickas "Constrained enumeration of lucky tickets: Prime digits, uniqueness, and greedy heuristics".</li>
     <li>[R3] M. Jaidee<sup>(*)</sup>, B. Singh "The prime programming problem: Formulations and solution methods".</li>
     <li>[R2] B. Singh "Quantifying geography- and gender-based inequity in travel behavior of the Indian population".</li>
     <li>[R1] C. Schmitt<sup>(*)</sup>, B. Singh "An analytical lower bound for a class of minimizing quadratic integer optimization problems".</li>
@@ -55,6 +54,8 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 ### 2025
 <div class="square-bullets">
 <ul>
+<li>[31] B. Singh, D. Gromov. "Mathematically modeling worried-well behavior during infectious disease outbreaks".<br>
+  In: <a href="https://www.medrxiv.org/content/10.1101/2025.02.06.25321784v1" style="color: #0066cc; text-decoration: none;"><i>PLOS ONE (akzeptiert)</i></a></li>
 <li>[30] B. Singh, S. Rebennack. "Release immediately or sequentially? Strategies for allocating scarce therapeutic resources during disease outbreaks".<br>
   In: <a href="https://doi.org/10.1080/24725854.2025.2525918" style="color: #0066cc; text-decoration: none;"><i>IISE Transactions</i></a></li>
 <li>[29] N. Suresh<sup>(*)</sup>, B. Singh. "Optimizing a heritage railway provider’s volunteer workforce allocation: The case of Swanage Railways"<br>
