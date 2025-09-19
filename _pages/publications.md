@@ -37,6 +37,7 @@ Publications co-authored with <strong><em>my students</em></strong> are indicate
 
 <div class="square-bullets"> 
   <ul>
+    <li>[R11] M. Jaidee<sup>(*)</sup>, B. Singh "Measuring the economic value of wind–solar complementarity in Europe using chance constraints".</li>
     <li>[R10] G. Marchesi, F. Maggioni, B. Singh "A mixed-integer programming framework for fairness-constrained support vector machines".</li>
     <li>[R9] A. Thoma, E. Papadaki, B. Singh "From coding assistant to reasoning partner? GenAI in the modeling phase of operations research (OR) education".</li>
     <li>[R8] B. Singh "On the resolution of ties in fair convex allocation problems".</li>
