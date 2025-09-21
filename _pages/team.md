@@ -50,7 +50,7 @@ My team is academically diverse, with members spanning a variety of ***interdisc
 <li>Montree Jaidee (Operations Research), University of Southampton, UK  
   <ul>
     <li><em>Article in <a href="https://optimization-online.org/2024/09/the-prime-programming-problem-formulations-and-solution-methods/" style="text-decoration: none;">peer-review</a></em></li>
-    <li><em>Artikel im <a href="https://www.researchgate.net/publication/395703168_Measuring_the_Economic_Value_of_Wind-Solar_Complementarity_in_Europe_Using_Chance_Constraints" style="text-decoration: none;">Peer-Review</a></em></li>
+    <li><em>Artikel in <a href="https://www.researchgate.net/publication/395703168_Measuring_the_Economic_Value_of_Wind-Solar_Complementarity_in_Europe_Using_Chance_Constraints" style="text-decoration: none;">peer-review</a></em></li>
   </ul>
 </li>
 </ul>
