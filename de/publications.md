@@ -34,8 +34,7 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 
 <div class="square-bullets"> 
   <ul>
-    <li>[R11] M. Jaidee<sup>(*)</sup>, B. Singh "Measuring the economic value of wind–solar complementarity in Europe using chance constraints".</li>
-    <li>[R10] G. Marchesi, F. Maggioni, B. Singh "A mixed-integer programming framework for fairness-constrained support vector machines".</li>
+    <li>[R10] M. Jaidee<sup>(*)</sup>, B. Singh "Measuring the economic value of wind–solar complementarity in Europe using chance constraints".</li>
     <li>[R9] A. Thoma, E. Papadaki, B. Singh "From coding assistant to reasoning partner? GenAI in the modeling phase of operations research (OR) education".</li>
     <li>[R8] B. Singh "On the resolution of ties in fair convex allocation problems".</li>
     <li>[R7] A. Saifutdinova, S. Reshetnikova<sup>(*)</sup>, B. Singh "Optimizing petroleum distribution in the Volga-Urals: The case of Bashkirnefteprodukt".</li>
@@ -183,7 +182,9 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 ### 2023
 <div class="square-bullets">
 <ul>
-<li>[7] C. Ritter<sup>(*)</sup>, B. Singh. "Statistical performance of subgradient step-size update rules in Lagrangian relaxations of chance-constrained optimization models".<br>
+<li>[8] G. Marchesi, F. Maggioni, B. Singh "A mixed-integer programming framework for fairness-constrained support vector machines".<br>
+  In: <i>to appear, 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: ML×OR Workshop</i></a></li>
+<li>[7] C. Ritter<sup>(*)</sup>, B. Singh. "Statistical performance of subgradient step-size update rules in Lagrangian relaxations of chance-constrained optimization models".
   In: <a href="https://link.springer.com/chapter/10.1007/978-3-031-47859-8_26" style="color: #0066cc; text-decoration: none;"><i>Lecture Notes in Computer Science</i></a></li>
 <li>[6] B. Singh. "Chance-constrained programming: classical probability approximations".<br>
   In: <a href="https://link.springer.com/rwe/10.1007/978-3-030-54621-2_784-1" style="color: #0066cc; text-decoration: none;"><i>Encyclopedia of Optimization</i></a></li>
