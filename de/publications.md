@@ -191,7 +191,7 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 <div class="square-bullets">
 <ul>
 <li>[7] C. Ritter<sup>(*)</sup>, B. Singh. "Statistical performance of subgradient step-size update rules in Lagrangian relaxations of chance-constrained optimization models".
-  In: <a href="https://link.springer.com/chapter/10.1007/978-3-031-47859-8_26" style="color: #0066cc; text-decoration: none;"><i>Lecture Notes in Computer Science</i></a></li>
+  In: <a href="https://link.springer.com/chapter/10.1007/978-3-031-47859-8_26" style="color: #0066cc; text-decoration: none;"><i>Lecture Notes in Computer Science</i></li>
 <li>[6] B. Singh. "Chance-constrained programming: classical probability approximations".<br>
   In: <a href="https://link.springer.com/rwe/10.1007/978-3-030-54621-2_784-1" style="color: #0066cc; text-decoration: none;"><i>Encyclopedia of Optimization</i></a></li>
 <li>[5] B. Singh. "Chance-constrained programming: joint and individual constraints".<br>
