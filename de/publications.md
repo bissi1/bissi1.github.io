@@ -179,11 +179,17 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 
 ## Begutachtete Konferenzbeiträge & Buchkapitel
 
-### 2023
+### 2025
 <div class="square-bullets">
 <ul>
 <li>[8] G. Marchesi, F. Maggioni, B. Singh "A mixed-integer programming framework for fairness-constrained support vector machines".<br>
   In: <i>to appear, 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: ML×OR Workshop</i></a></li>
+</ul>
+</div>
+
+### 2023
+<div class="square-bullets">
+<ul>
 <li>[7] C. Ritter<sup>(*)</sup>, B. Singh. "Statistical performance of subgradient step-size update rules in Lagrangian relaxations of chance-constrained optimization models".
   In: <a href="https://link.springer.com/chapter/10.1007/978-3-031-47859-8_26" style="color: #0066cc; text-decoration: none;"><i>Lecture Notes in Computer Science</i></a></li>
 <li>[6] B. Singh. "Chance-constrained programming: classical probability approximations".<br>
