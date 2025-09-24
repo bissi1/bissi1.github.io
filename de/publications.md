@@ -183,7 +183,7 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 <div class="square-bullets">
 <ul>
 <li>[8] G. Marchesi, F. Maggioni, B. Singh "A mixed-integer programming framework for fairness-constrained support vector machines".<br>
-  In: <i>to appear, 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: ML×OR Workshop</i></a></li>
+  In: <i>to appear, 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: ML×OR Workshop</i></li>
 </ul>
 </div>
 
