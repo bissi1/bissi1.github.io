@@ -58,7 +58,7 @@ Publications co-authored with <strong><em>my students</em></strong> are indicate
 <div class="square-bullets">
 <ul>
 <li>[31] B. Singh, D. Gromov. "Mathematically modeling worried-well behavior during infectious disease outbreaks".<br>
-  In: <a href="https://www.medrxiv.org/content/10.1101/2025.02.06.25321784v1" style="color: #0066cc; text-decoration: none;"><i>PLOS ONE (accepted)</i></a></li>
+  In: <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319550" style="color: #0066cc; text-decoration: none;"><i>PLOS ONE</i></a></li>
 <li>[30] B. Singh, S. Rebennack. "Release immediately or sequentially? Strategies for allocating scarce therapeutic resources during disease outbreaks".<br>
   In: <a href="https://doi.org/10.1080/24725854.2025.2525918" style="color: #0066cc; text-decoration: none;"><i>IISE Transactions</i></a></li>
 <li>[29] N. Suresh<sup>(*)</sup>, B. Singh. "Optimizing a heritage railway provider’s volunteer workforce allocation: The case of Swanage Railways"<br>
