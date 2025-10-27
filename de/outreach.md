@@ -14,6 +14,7 @@ Ich habe mehrere *pädagogische*, *unterhaltsame* und *didaktische* Arbeiten –
 
 <div class="square-bullets">
 <ul>
+  <li>Singh, B. (2025). „Lucas Junot: The singing mathematician of Coimbra. <a href="a href="https://link.springer.com/article/10.1007/s00283-025-10465-3" style="color: #0066cc; text-decoration: none;"><i>The Mathematical Intelligencer</i></a></li>
   <li>Singh, B. (2024). „A mathematical programming approach for Mongolia’s ‘The Four Strongest’ puzzle.“ <a href="https://pubsonline.informs.org/doi/10.1287/ited.2024.0112" style="color: #0066cc; text-decoration: none;"><i>INFORMS Transactions on Education</i></a></li>
   <li>Singh, B., &amp; Akbulut, Y. (2024). „Promoting mathematics via banknotes: Two examples from Turkey.“ <a href="https://www.tandfonline.com/doi/full/10.1080/26375451.2024.2365069" style="color: #0066cc; text-decoration: none;"><i>British Journal for the History of Mathematics</i></a><br>
   Auf der Titelseite der gedruckten Ausgabe hervorgehoben.</li>

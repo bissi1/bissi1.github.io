@@ -16,12 +16,12 @@ I publish in a diverse variety of journals reflecting the interdisciplinary natu
   <ul>
     <li><strong><em>18 publications</em></strong> in journals indexed in the <strong><em>2024 German VHB</em></strong> Rating for Operations Research (OR):
       <ul>
-        <li><strong><em>A-rated</em></strong>: [30], [28], [25], [24], [23], [15], [9]</li>
+        <li><strong><em>A-rated</em></strong>: [33], [30], [28], [25], [24], [23], [15], [9]</li>
         <li><strong><em>B-rated</em></strong>: [31], [29], [27], [21], [15], [12], [11], [10], [7], [6], [5]</li>
       </ul>
     </li>
     <li><strong><em>18 publications</em></strong> in journals indexed in the 2023 <strong><em>AMS MathSciNet list</em></strong>:  
-      <div style="margin-left: 1.5em;">[28], [26], [25], [24], [23], [22], [21], [20], [17], [13], [12], [11], [10], [9], [8], [7], [6], [2]</div>
+      <div style="margin-left: 1.5em;">[33], [28], [26], [25], [24], [23], [22], [21], [20], [17], [13], [12], [11], [10], [9], [8], [7], [6], [2]</div>
     </li>
     <li><strong><em>10 publications</em></strong> in journals indexed in the <strong><em>National Library of Medicine PubMed list</em></strong>:  
       <div style="margin-left: 1.5em;"> [31], [18], [16], [15], [14], [13], [5], [4], [3], [1]</div>
@@ -46,17 +46,21 @@ Publications co-authored with <strong><em>my students</em></strong> are indicate
     <li>[R4] B. Singh, A. Dubickas "Constrained enumeration of lucky tickets: Prime digits, uniqueness, and greedy heuristics".</li>
     <li>[R3] M. Jaidee<sup>(*)</sup>, B. Singh "The prime programming problem: Formulations and solution methods".</li>
     <li>[R2] B. Singh "Quantifying geography- and gender-based inequity in travel behavior of the Indian population".</li>
-    <li>[R1] C. Schmitt<sup>(*)</sup>, B. Singh "An analytical lower bound for a class of minimizing quadratic integer optimization problems".</li>
   </ul>
 </div>
 
 
+<li>[R1] C. Schmitt<sup>(*)</sup>, B. Singh "An analytical lower bound for a class of minimizing quadratic integer optimization problems".</li>
 
 ## Peer-reviewed Journal Articles:
 ---
 ### 2025
 <div class="square-bullets">
 <ul>
+<li>[33] C. Schmitt<sup>(*)</sup>, B. Singh "An analytical lower bound for a class of minimizing quadratic integer optimization problems".<br>
+  In: <a href="https://www.sciencedirect.com/journal/discrete-applied-mathematics" style="color: #0066cc; text-decoration: none;"><i>Discrete Applied Mathematics (to appear)</i></a></li>
+<li>[32] B. Singh. "Lucas Junot: The singing mathematician of Coimbra."<br>
+  In: <a href="https://link.springer.com/article/10.1007/s00283-025-10465-3" style="color: #0066cc; text-decoration: none;"><i>PLOS ONE</i></a></li>
 <li>[31] B. Singh, D. Gromov. "Mathematically modeling worried-well behavior during infectious disease outbreaks".<br>
   In: <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319550" style="color: #0066cc; text-decoration: none;"><i>PLOS ONE</i></a></li>
 <li>[30] B. Singh, S. Rebennack. "Release immediately or sequentially? Strategies for allocating scarce therapeutic resources during disease outbreaks".<br>
