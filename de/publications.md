@@ -56,7 +56,7 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 <li>[33] C. Schmitt<sup>(*)</sup>, B. Singh "An analytical lower bound for a class of minimizing quadratic integer optimization problems".<br>
   In: <a href="https://www.sciencedirect.com/journal/discrete-applied-mathematics" style="color: #0066cc; text-decoration: none;"><i>Discrete Applied Mathematics (to appear)</i></a></li>
 <li>[32] B. Singh. "Lucas Junot: The singing mathematician of Coimbra."<br>
-  In: <a href="https://link.springer.com/article/10.1007/s00283-025-10465-3" style="color: #0066cc; text-decoration: none;"><i>PLOS ONE</i></a></li>
+  In: <a href="https://link.springer.com/article/10.1007/s00283-025-10465-3" style="color: #0066cc; text-decoration: none;"><i>The Mathematical Intelligencer</i></a></li>
 <li>[31] B. Singh, D. Gromov. "Mathematically modeling worried-well behavior during infectious disease outbreaks".<br>
   In: <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319550" style="color: #0066cc; text-decoration: none;"><i>PLOS ONE</i></a></li>
 <li>[30] B. Singh, S. Rebennack. "Release immediately or sequentially? Strategies for allocating scarce therapeutic resources during disease outbreaks".<br>
