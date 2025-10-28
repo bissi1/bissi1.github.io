@@ -34,15 +34,15 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 
 <div class="square-bullets"> 
   <ul>
-    <li>[R10] M. Jaidee<sup>(*)</sup>, B. Singh "Measuring the economic value of wind–solar complementarity in Europe using chance constraints".</li>
-    <li>[R9] A. Thoma, E. Papadaki, B. Singh "From coding assistant to reasoning partner? GenAI in the modeling phase of operations research (OR) education".</li>
-    <li>[R8] B. Singh "On the resolution of ties in fair convex allocation problems".</li>
-    <li>[R7] A. Saifutdinova, S. Reshetnikova<sup>(*)</sup>, B. Singh "Optimizing petroleum distribution in the Volga-Urals: The case of Bashkirnefteprodukt".</li>
-    <li>[R6] T. Roberts<sup>(*)</sup>, I. Williams, S. Jones, B. Singh "Designing emotive visual campaigns: A data-driven study of artwork and pro-environmental intent".</li>
-    <li>[R5] Y. Akbulut, B. Singh "On the optimal control of initial velocity in a hyperbolic beam equation by the variational method".</li>
-    <li>[R4] B. Singh, A. Dubickas "Constrained enumeration of lucky tickets: Prime digits, uniqueness, and greedy heuristics".</li>
-    <li>[R3] M. Jaidee<sup>(*)</sup>, B. Singh "The prime programming problem: Formulations and solution methods".</li>
-    <li>[R2] B. Singh "Quantifying geography- and gender-based inequity in travel behavior of the Indian population".</li>
+    <li>[R9] M. Jaidee<sup>(*)</sup>, B. Singh "Measuring the economic value of wind–solar complementarity in Europe using chance constraints".</li>
+    <li>[R8] A. Thoma, E. Papadaki, B. Singh "From coding assistant to reasoning partner? GenAI in the modeling phase of operations research (OR) education".</li>
+    <li>[R7] B. Singh "On the resolution of ties in fair convex allocation problems".</li>
+    <li>[R6] A. Saifutdinova, S. Reshetnikova<sup>(*)</sup>, B. Singh "Optimizing petroleum distribution in the Volga-Urals: The case of Bashkirnefteprodukt".</li>
+    <li>[R5] T. Roberts<sup>(*)</sup>, I. Williams, S. Jones, B. Singh "Designing emotive visual campaigns: A data-driven study of artwork and pro-environmental intent".</li>
+    <li>[R4] Y. Akbulut, B. Singh "On the optimal control of initial velocity in a hyperbolic beam equation by the variational method".</li>
+    <li>[R3] B. Singh, A. Dubickas "Constrained enumeration of lucky tickets: Prime digits, uniqueness, and greedy heuristics".</li>
+    <li>[R2] M. Jaidee<sup>(*)</sup>, B. Singh "The prime programming problem: Formulations and solution methods".</li>
+    <li>[R1] B. Singh "Quantifying geography- and gender-based inequity in travel behavior of the Indian population".</li>
   </ul>
 </div>
 
