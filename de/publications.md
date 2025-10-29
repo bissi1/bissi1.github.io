@@ -13,13 +13,13 @@ Ich veröffentliche in einer Vielzahl von Fachzeitschriften, die die interdiszip
 
 <div class="square-bullets">
   <ul>
-    <li><strong><em>18 Publikationen</em></strong> in Zeitschriften, die im <strong><em>VHB-Rating 2024</em></strong> für Operations Research (OR) gelistet sind:
+    <li><strong><em>19 Publikationen</em></strong> in Zeitschriften, die im <strong><em>VHB-Rating 2024</em></strong> für Operations Research (OR) gelistet sind:
       <ul>
         <li><strong><em>A-bewertet</em></strong>: [33], [30], [28], [25], [24], [23], [15], [9]</li>
         <li><strong><em>B-bewertet</em></strong>: [31], [29], [27], [21], [15], [12], [11], [10], [7], [6], [5]</li>
       </ul>
     </li>
-    <li><strong><em>18 Publikationen</em></strong> in Zeitschriften, die in der <strong><em>AMS MathSciNet-Liste 2023</em></strong> enthalten sind:  
+    <li><strong><em>19 Publikationen</em></strong> in Zeitschriften, die in der <strong><em>AMS MathSciNet-Liste 2023</em></strong> enthalten sind:  
       <div style="margin-left: 1.5em;">[33], [28], [26], [25], [24], [23], [22], [21], [20], [17], [13], [12], [11], [10], [9], [8], [7], [6], [2]</div>
     </li>
     <li><strong><em>10 Publikationen</em></strong> in Zeitschriften, die in der <strong><em>PubMed-Liste der National Library of Medicine</em></strong> aufgeführt sind:  

@@ -14,13 +14,13 @@ I publish in a diverse variety of journals reflecting the interdisciplinary natu
 
 <div class="square-bullets">
   <ul>
-    <li><strong><em>18 publications</em></strong> in journals indexed in the <strong><em>2024 German VHB</em></strong> Rating for Operations Research (OR):
+    <li><strong><em>19 publications</em></strong> in journals indexed in the <strong><em>2024 German VHB</em></strong> Rating for Operations Research (OR):
       <ul>
         <li><strong><em>A-rated</em></strong>: [33], [30], [28], [25], [24], [23], [15], [9]</li>
         <li><strong><em>B-rated</em></strong>: [31], [29], [27], [21], [15], [12], [11], [10], [7], [6], [5]</li>
       </ul>
     </li>
-    <li><strong><em>18 publications</em></strong> in journals indexed in the 2023 <strong><em>AMS MathSciNet list</em></strong>:  
+    <li><strong><em>19 publications</em></strong> in journals indexed in the 2023 <strong><em>AMS MathSciNet list</em></strong>:  
       <div style="margin-left: 1.5em;">[33], [28], [26], [25], [24], [23], [22], [21], [20], [17], [13], [12], [11], [10], [9], [8], [7], [6], [2]</div>
     </li>
     <li><strong><em>10 publications</em></strong> in journals indexed in the <strong><em>National Library of Medicine PubMed list</em></strong>:  
