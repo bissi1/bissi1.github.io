@@ -19,7 +19,7 @@ Ich bin zudem mit dem <a href="https://www.modus.uni-bayreuth.de/en/members/appl
 
 Ich bin Preisträger des <a href="https://www.mdpi.com/journal/mathematics/awards/2137" style="text-decoration: none;">Young Investigator Award</a> 2023 der Fachzeitschrift *Mathematics*. 
 
-Meine Forschung konzentriert sich auf ***datengetriebene Entscheidungsfindung unter Unsicherheit***, mit besonderem Schwerpunkt auf diskreten stochastischen Optimierungsmodellen. Von der Formulierung dieser Modelle bis hin zur Entwicklung neuer Algorithmen und realer Anwendungen treibe ich die mathematische Entscheidungsfindung in komplexen und unsicheren Umgebungen voran. Bleiben Sie gespannt auf mein kommendes Buch zu diesem Thema, das bei Springer erscheinen wird!
+Meine Forschung konzentriert sich auf *datengetriebene Entscheidungsfindung unter Unsicherheit*, mit besonderem Schwerpunkt auf diskreten stochastischen Optimierungsmodellen. Von der Formulierung dieser Modelle bis hin zur Entwicklung neuer Algorithmen und realer Anwendungen treibe ich die mathematische Entscheidungsfindung in komplexen und unsicheren Umgebungen voran. Bleiben Sie gespannt auf mein kommendes Buch zu diesem Thema, das bei Springer erscheinen wird!
 
 Meine Forschung wurde unter anderem von der Deutsche Forschungsgemeinschaft (DFG), dem Horizon-2020-Programm und dem LDRD-Programm des US-Energieministeriums gefördert. <a href="/research/" style="text-decoration: none;">Meine Forschung entdecken →</a>
 

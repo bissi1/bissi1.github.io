@@ -18,7 +18,7 @@ I am also affiliated with the <a href="https://www.modus.uni-bayreuth.de/en/memb
 
 I am the winner of the Mathematics 2023 <a href="https://www.mdpi.com/journal/mathematics/awards/2137" style="text-decoration: none;">Young Investigator Award</a>. 
 
-My research centers on ***data-driven decision-making under uncertainty***, with a particular focus on discrete stochastic optimization models. From formulating these models to developing novel algorithms and real-world applications, I advance mathematical decision-making in complex and uncertain environments. Stay turned for my upcoming book, to be published by Springer, on this subject!
+My research centers on *data-driven decision-making under uncertainty*, with a particular focus on discrete stochastic optimization models. From formulating these models to developing novel algorithms and real-world applications, I advance mathematical decision-making in complex and uncertain environments. Stay turned for my upcoming book, to be published by Springer, on this subject!
 
 My research has been funded by, among others, the German Research Foundation (DFG), the Horizon 2020 program, and the US Department of Energy's LDRD program. <a href="/research/" style="text-decoration: none;">Explore My Research →</a>
 
