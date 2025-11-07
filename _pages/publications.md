@@ -20,8 +20,8 @@ I publish in a diverse variety of journals reflecting the interdisciplinary natu
         <li><strong><em>B-rated</em></strong>: [31], [29], [27], [21], [15], [12], [11], [10], [7], [6], [5]</li>
       </ul>
     </li>
-    <li><strong><em>19 publications</em></strong> in journals indexed in the 2023 <strong><em>AMS MathSciNet list</em></strong>:  
-      <div style="margin-left: 1.5em;">[33], [28], [26], [25], [24], [23], [22], [21], [20], [17], [13], [12], [11], [10], [9], [8], [7], [6], [2]</div>
+    <li><strong><em>20 publications</em></strong> in journals indexed in the 2023 <strong><em>AMS MathSciNet list</em></strong>:  
+      <div style="margin-left: 1.5em;">[33], [32], [28], [26], [25], [24], [23], [22], [21], [20], [17], [13], [12], [11], [10], [9], [8], [7], [6], [2]</div>
     </li>
     <li><strong><em>10 publications</em></strong> in journals indexed in the <strong><em>National Library of Medicine PubMed list</em></strong>:  
       <div style="margin-left: 1.5em;"> [31], [18], [16], [15], [14], [13], [5], [4], [3], [1]</div>
