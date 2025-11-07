@@ -118,7 +118,6 @@ A unique aspect of my approach is modeling <strong>subjective human behavior</st
 <p>
   Supported by the <em>Bavarian State Ministry for Science & Arts</em> and the <em>University of Southampton</em>, my team develops discrete optimization models that achieve fairness in facility closures. So far this effort has led to:
 </p>
-
 <div class="square-bullets">
   <ul>
     <li>Three student theses with three published articles.</li>
