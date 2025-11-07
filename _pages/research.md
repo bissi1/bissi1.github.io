@@ -25,7 +25,7 @@ My work is inherently <em>interdisciplinary</em>, driven by real-world challenge
 </div>
 
 
-A unique aspect of my approach is modeling <strong>subjective human behavior</strong> within the decision-making process. This adds both complexity and realism to my models, bridging the gap between mathematical rigor and human-centric decision-making.
+A unique aspect of my approach is modeling <em>subjective human behavior</em> within the decision-making process. This adds both complexity and realism to my models, bridging the gap between mathematical rigor and human-centric decision-making.
 
 ## Probabilistic Bounds
 
@@ -67,7 +67,7 @@ A unique aspect of my approach is modeling <strong>subjective human behavior</st
   <div class="research_subsection">
     <div class="research_subsection_text">
       <p>
-        As several countries advance towards <strong>Net-Zero</strong> goals (e.g., Germany's <em>Energiewende</em> or France's <em>Transition Énergétique</em>), joint chance constraints have proven especially effective for ensuring highly reliable operation of critical energy systems under uncertain renewable energy availability, such as photovoltaic (PV) systems and coupled wind–diesel systems. Mathematical optimization models for such systems often present significant challenges due to their (a) structure and (b) scale, necessitating the development of heuristics and algorithms.
+        As several countries advance towards <em>Net-Zero</em> goals (e.g., Germany's <em>Energiewende</em> or France's <em>Transition Énergétique</em>), joint chance constraints have proven especially effective for ensuring highly reliable operation of critical energy systems under uncertain renewable energy availability, such as photovoltaic (PV) systems and coupled wind–diesel systems. Mathematical optimization models for such systems often present significant challenges due to their (a) structure and (b) scale, necessitating the development of heuristics and algorithms.
       </p>
       <p>
         My research has designed modern <em>machine learning</em>-inspired iterative algorithms and employed Lagrangian-based proximal terms to tackle these challenges. See this 
@@ -88,10 +88,10 @@ A unique aspect of my approach is modeling <strong>subjective human behavior</st
   <div class="inline-details" style="display: none; margin-top: 1em;">
     <div class="square-bullets">
       <ul>
-        <li>At Sandia National Labs, US (2016–19), I focused on solving large-scale energy system models, addressing critical risks faced by the US electrical grid. Many of these works are available on the <strong>US Department of Energy's</strong> Office of Scientific and Technical Information website. Access 
+        <li>At Sandia National Labs, US (2016–19), I focused on solving large-scale energy system models, addressing critical risks faced by the US electrical grid. Many of these works are available on the <em>US Department of Energy's</em> Office of Scientific and Technical Information website. Access 
           <a href="https://www.osti.gov/search/semantic:bismark%20singh">here →</a>.
         </li>
-        <li>At FAU Erlangen–Nürnberg, Germany (2019–22), I led the chair’s research contributions to the multi-institute <code>METIS</code> research collaboration with the <strong>Jülich Research Center</strong>. This project develops open-source tools for optimizing large-scale energy system models under the framework of Germany's <em>Energiewende</em>.
+        <li>At FAU Erlangen–Nürnberg, Germany (2019–22), I led the chair’s research contributions to the multi-institute <code>METIS</code> research collaboration with the <em>Jülich Research Center</em>. This project develops open-source tools for optimizing large-scale energy system models under the framework of Germany's <em>Energiewende</em>.
           <div class="square-bullets">
             <ul>
               <li>Learn more about the METIS project <a href="https://www.fz-juelich.de/en/ice/ice-2/projects/metis?expand=translations,fzjsettings,nearest-institut">here →</a>.</li>
@@ -154,7 +154,7 @@ A unique aspect of my approach is modeling <strong>subjective human behavior</st
   <div class="research_subsection">
     <div class="research_subsection_text">
       <p>
-        I began collaborating with the <strong>Texas Department of State Health Services</strong>, US, as an MSc student in 2012, helping prepare for future pandemics long before the emergence of COVID-19. Motivated by Texas's response to the <strong>2009 H1N1 pandemic</strong>, my PhD research focused on designing web-based, optimization-backed decision-support tools for government use. These tools, accessible at <a href="https://flu.tacc.utexas.edu/" style="color: #0066cc; text-decoration: underline;">flu.tacc.utexas.edu</a>, assist the State of Texas in the fair and efficient allocation of critical resources, such as antivirals and vaccines.
+        I began collaborating with the <em>Texas Department of State Health Services</em>, US, as an MSc student in 2012, helping prepare for future pandemics long before the emergence of COVID-19. Motivated by Texas's response to the 2009 H1N1 pandemic, my PhD research focused on designing web-based, optimization-backed decision-support tools for government use. These tools, accessible at <a href="https://flu.tacc.utexas.edu/" style="color: #0066cc; text-decoration: underline;">flu.tacc.utexas.edu</a>, assist the State of Texas in the fair and efficient allocation of critical resources, such as antivirals and vaccines.
       </p>
       <p>
         The most significant funding here is provided by a three-year grant from the <em>Deutsche Forschungsgemeinschaft</em> (German Research Foundation), with additional funding from the <em>Bavarian Czech Academic Agency</em> and the <em>EU Horizon 2020 Program</em>. 
