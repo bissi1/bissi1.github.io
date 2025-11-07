@@ -112,15 +112,16 @@ A unique aspect of my approach is modeling <strong>subjective human behavior</st
 <div class="research_section_wrapper">
   <div class="research_subsection">
     <div class="research_subsection_text">
-      <p>
+     <p>
   In 2020, I began exploring <em>undesirable facility location problems</em> (FLPs) with a unique perspective: ensuring fairness from the point of view of the facilities, rather than the users, which is the typical approach in existing literature. Motivated by applications in waste management, particularly in the context of <em>recycling centers</em> (e.g., UK <em>tips</em> or German <em>Wertstoffhöfe</em>), I lead a diverse team of researchers on this subtopic.
 </p>
 <p>
   Supported by the <em>Bavarian State Ministry for Science & Arts</em> and the <em>University of Southampton</em>, my team develops discrete optimization models that achieve fairness in facility closures. So far this effort has led to:
 </p>
+
 <div class="square-bullets">
   <ul>
-    <li>Two student theses (third ongoing) with three published articles.</li>
+    <li>Three student theses with three published articles.</li>
     <li>Grant funding supporting a postdoctoral researcher to quantify <em>subjective</em> opinions on recycling campaigns and incorporate human perceptions into decision models.
       <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span>
     </li>
