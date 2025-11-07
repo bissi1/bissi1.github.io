@@ -126,6 +126,7 @@ A unique aspect of my approach is modeling <em>subjective human behavior</em> wi
     </li>
   </ul>
 </div>
+</div>
 
     <div class="research_subsection_image">
       <div style="text-align: center; margin-bottom: 0.5em; font-weight: bold;">
