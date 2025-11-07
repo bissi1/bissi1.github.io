@@ -17,12 +17,13 @@ One central focus of my research is *chance-constrained optimization*, where the
 My work is inherently <em>interdisciplinary</em>, driven by real-world challenges such as:
 <div class="square-bullets">
   <ul>
-    <li><strong>Energy Systems</strong>: Designing resilient and sustainable energy infrastructures under uncertain demand and supply.</li>
-    <li><strong>Pandemic Response</strong>: Guiding healthcare policy to ensure fairness across populations and allocate scarce resources effectively.</li>
-    <li><strong>Critical Risk Management</strong>: Minimizing the socioeconomic impact of unforeseen man-made attacks or natural disasters.</li>
-    <li><strong>Sustainable Waste Management</strong>: Developing models for the efficient placement of recycling centers to promote environmental sustainability.</li>
+    <li><em>Energy Systems</em>: Designing resilient and sustainable energy infrastructures under uncertain demand and supply.</li>
+    <li><em>Pandemic Response</em>: Guiding healthcare policy to ensure fairness across populations and allocate scarce resources effectively.</li>
+    <li><em>Critical Risk Management</em>: Minimizing the socioeconomic impact of unforeseen man-made attacks or natural disasters.</li>
+    <li><em>Sustainable Waste Management</em>: Developing models for the efficient placement of recycling centers to promote environmental sustainability.</li>
   </ul>
 </div>
+
 
 A unique aspect of my approach is modeling <strong>subjective human behavior</strong> within the decision-making process. This adds both complexity and realism to my models, bridging the gap between mathematical rigor and human-centric decision-making.
 
