@@ -6,11 +6,11 @@ lang: de
 classes: full
 ---
 
-Mein primäres Forschungsinteresse liegt in der Weiterentwicklung der <strong>datengestützten Entscheidungsfindung unter Unsicherheit</strong>, mit einem besonderen Fokus auf zweistufige stochastische Optimierung. Mein Ansatz balanciert theoretische Neuheit mit anwendungsorientiertem Einfluss und adressiert komplexe <strong>gesellschaftliche</strong> und <strong>umweltbezogene</strong> Herausforderungen durch die kreative Entwicklung mathematischer Modelle. Diese Modelle sind oft großskalig und erfordern typischerweise die Entwicklung spezialisierter Algorithmen, um recheneffiziente Lösungen zu ermöglichen.
+Mein primäres Forschungsinteresse liegt in der Weiterentwicklung der <em>datengestützten Entscheidungsfindung unter Unsicherheit</em>, mit einem besonderen Fokus auf zweistufige stochastische Optimierung. Mein Ansatz balanciert theoretische Neuheit mit anwendungsorientiertem Einfluss und adressiert komplexe <em>gesellschaftliche</em> und <em>umweltbezogene</em> Herausforderungen durch die kreative Entwicklung mathematischer Modelle. Diese Modelle sind oft großskalig und erfordern typischerweise die Entwicklung spezialisierter Algorithmen, um recheneffiziente Lösungen zu ermöglichen.
 
-Ein zentrales Forschungsgebiet ist die <strong>optimierung mit Wahrscheinlichkeitsnebenbedingungen</strong>, bei der das Ziel darin besteht, Systeme zu entwerfen, die auch unter extremen Risikobedingungen widerstandsfähig bleiben. Ich arbeite an der Entwicklung spezialisierter Algorithmen zur Lösung solcher stochastischer Programme, um sowohl Lösbarkeit als auch Praxistauglichkeit sicherzustellen. Ein zweites wiederkehrendes Thema ist die Entwicklung neuer axiomatischer Fairnessdefinitionen. Hierbei entwerfe ich kontinuierliche oder diskrete Optimierungsmodelle, deren Karush–Kuhn–Tucker-(KKT)-Optimalitätsbedingungen zu diesen Fairnesskonzepten führen.
+Ein zentrales Forschungsgebiet ist die <em>optimierung mit Wahrscheinlichkeitsnebenbedingungen</em>, bei der das Ziel darin besteht, Systeme zu entwerfen, die auch unter extremen Risikobedingungen widerstandsfähig bleiben. Ich arbeite an der Entwicklung spezialisierter Algorithmen zur Lösung solcher stochastischer Programme, um sowohl Lösbarkeit als auch Praxistauglichkeit sicherzustellen. Ein zweites wiederkehrendes Thema ist die Entwicklung neuer axiomatischer Fairnessdefinitionen. Hierbei entwerfe ich kontinuierliche oder diskrete Optimierungsmodelle, deren Karush–Kuhn–Tucker-(KKT)-Optimalitätsbedingungen zu diesen Fairnesskonzepten führen.
 
-<strong>Einige Förderinstitutionen meiner Forschung sind:</strong>
+<em>Einige Förderinstitutionen meiner Forschung sind:</em>
 <img src="/assets/images/funding.png" alt="Interdisciplinary Research" style="display:block; max-width:50%; height:auto; margin-bottom:1.5rem;">
 
 
@@ -18,14 +18,14 @@ Ein zentrales Forschungsgebiet ist die <strong>optimierung mit Wahrscheinlichkei
 Meine Arbeit ist von Natur aus <em>interdisziplinär</em> und wird durch reale Herausforderungen angetrieben, wie z. B.:
 <div class="square-bullets">
   <ul>
-    <li><strong>Energiesysteme</strong>: Entwurf widerstandsfähiger und nachhaltiger Energieinfrastrukturen bei unsicherer Nachfrage und Versorgung.</li>
-    <li><strong>Pandemiebewältigung</strong>: Unterstützung der Gesundheitspolitik, um Fairness zwischen Bevölkerungsgruppen sicherzustellen und knappe Ressourcen effektiv zu verteilen.</li>
-    <li><strong>Kritisches Risikomanagement</strong>: Minimierung der sozioökonomischen Auswirkungen unvorhergesehener menschengemachter Angriffe oder Naturkatastrophen.</li>
-    <li><strong>Nachhaltiges Abfallmanagement</strong>: Entwicklung von Modellen zur effizienten Platzierung von Recyclingzentren zur Förderung der ökologischen Nachhaltigkeit.</li>
+    <li><em>Energiesysteme</em>: Entwurf widerstandsfähiger und nachhaltiger Energieinfrastrukturen bei unsicherer Nachfrage und Versorgung.</li>
+    <li><em>Pandemiebewältigung</em>: Unterstützung der Gesundheitspolitik, um Fairness zwischen Bevölkerungsgruppen sicherzustellen und knappe Ressourcen effektiv zu verteilen.</li>
+    <li><em>Kritisches Risikomanagement</em>: Minimierung der sozioökonomischen Auswirkungen unvorhergesehener menschengemachter Angriffe oder Naturkatastrophen.</li>
+    <li><em>Nachhaltiges Abfallmanagement</em>: Entwicklung von Modellen zur effizienten Platzierung von Recyclingzentren zur Förderung der ökologischen Nachhaltigkeit.</li>
   </ul>
 </div>
 
-Ein einzigartiger Aspekt meines Ansatzes ist die Modellierung <strong>subjektiven menschlichen Verhaltens</strong> im Entscheidungsprozess. Dies fügt meinen Modellen sowohl Komplexität als auch Realismus hinzu und überbrückt die Lücke zwischen mathematischer Strenge und menschenzentrierter Entscheidungsfindung.
+Ein einzigartiger Aspekt meines Ansatzes ist die Modellierung <em>subjektiven menschlichen Verhaltens</em> im Entscheidungsprozess. Dies fügt meinen Modellen sowohl Komplexität als auch Realismus hinzu und überbrückt die Lücke zwischen mathematischer Strenge und menschenzentrierter Entscheidungsfindung.
 
 ## Wahrscheinlichkeitsgrenzen
 
@@ -68,7 +68,7 @@ Ein einzigartiger Aspekt meines Ansatzes ist die Modellierung <strong>subjektive
   <div class="research_subsection">
     <div class="research_subsection_text">
       <p>
-        Während mehrere Länder auf <strong>Netto-Null</strong>-Ziele hinarbeiten (z. B. Deutschlands <em>Energiewende</em> oder Frankreichs <em>Transition Énergétique</em>), haben sich gemeinsame Wahrscheinlichkeitsnebenbedingungen als besonders wirksam erwiesen, um den hochzuverlässigen Betrieb kritischer Energiesysteme bei unsicherer Verfügbarkeit erneuerbarer Energien – wie Photovoltaik-(PV)-Systemen und gekoppelten Wind-Diesel-Systemen – sicherzustellen. Mathematische Optimierungsmodelle für solche Systeme stellen oft erhebliche Herausforderungen dar, sowohl hinsichtlich (a) der Struktur als auch (b) des Maßstabs, und erfordern daher die Entwicklung von Heuristiken und Algorithmen.
+        Während mehrere Länder auf <em>Netto-Null</em>-Ziele hinarbeiten (z. B. Deutschlands <em>Energiewende</em> oder Frankreichs <em>Transition Énergétique</em>), haben sich gemeinsame Wahrscheinlichkeitsnebenbedingungen als besonders wirksam erwiesen, um den hochzuverlässigen Betrieb kritischer Energiesysteme bei unsicherer Verfügbarkeit erneuerbarer Energien – wie Photovoltaik-(PV)-Systemen und gekoppelten Wind-Diesel-Systemen – sicherzustellen. Mathematische Optimierungsmodelle für solche Systeme stellen oft erhebliche Herausforderungen dar, sowohl hinsichtlich (a) der Struktur als auch (b) des Maßstabs, und erfordern daher die Entwicklung von Heuristiken und Algorithmen.
       </p>
       <p>
         Meine Forschung hat moderne, von <em>maschinellem Lernen</em> inspirierte iterative Algorithmen entwickelt und Lagrange-basierte proximale Terme eingesetzt, um diese Herausforderungen zu meistern. Siehe dazu diesen 
@@ -89,10 +89,10 @@ Ein einzigartiger Aspekt meines Ansatzes ist die Modellierung <strong>subjektive
   <div class="inline-details" style="display: none; margin-top: 1em;">
     <div class="square-bullets">
       <ul>
-        <li>Bei den Sandia National Labs, USA (2016–19), konzentrierte ich mich auf die Lösung großskaliger Energiesystemmodelle und die Bewältigung kritischer Risiken für das US-Stromnetz. Viele dieser Arbeiten sind auf der Website des <strong>US-Energieministeriums</strong> im Office of Scientific and Technical Information verfügbar. Zugriff 
+        <li>Bei den Sandia National Labs, USA (2016–19), konzentrierte ich mich auf die Lösung großskaliger Energiesystemmodelle und die Bewältigung kritischer Risiken für das US-Stromnetz. Viele dieser Arbeiten sind auf der Website des <em>US-Energieministeriums</em> im Office of Scientific and Technical Information verfügbar. Zugriff 
           <a href="https://www.osti.gov/search/semantic:bismark%20singh">hier →</a>.
         </li>
-        <li>An der FAU Erlangen–Nürnberg, Deutschland (2019–22), leitete ich die Forschungsbeiträge des Lehrstuhls zur multi-institutionellen <code>METIS</code>-Forschungskooperation mit dem <strong>Forschungszentrum Jülich</strong>. Dieses Projekt entwickelt Open-Source-Tools zur Optimierung großskaliger Energiesystemmodelle im Rahmen der deutschen <em>Energiewende</em>.
+        <li>An der FAU Erlangen–Nürnberg, Deutschland (2019–22), leitete ich die Forschungsbeiträge des Lehrstuhls zur multi-institutionellen <code>METIS</code>-Forschungskooperation mit dem <em>Forschungszentrum Jülich</em>. Dieses Projekt entwickelt Open-Source-Tools zur Optimierung großskaliger Energiesystemmodelle im Rahmen der deutschen <em>Energiewende</em>.
           <div class="square-bullets">
             <ul>
               <li>Mehr über das METIS-Projekt erfahren Sie <a href="https://www.fz-juelich.de/en/ice/ice-2/projects/metis?expand=translations,fzjsettings,nearest-institut">hier →</a>.</li>
@@ -114,10 +114,10 @@ Ein einzigartiger Aspekt meines Ansatzes ist die Modellierung <strong>subjektive
   <div class="research_subsection">
     <div class="research_subsection_text">
       <p>
-        Im Jahr 2020 begann ich, mich mit <strong>unerwünschten Standortplanungsproblemen</strong> (Facility Location Problems, FLPs) aus einer einzigartigen Perspektive zu befassen: der Sicherstellung von Fairness aus Sicht der Einrichtungen, anstatt – wie in der bestehenden Literatur üblich – aus Sicht der Nutzer. Motiviert durch Anwendungen im Bereich Abfallwirtschaft, insbesondere im Kontext von <strong>Recyclinghöfen</strong> (z. B. britische <em>tips</em> oder deutsche <em>Wertstoffhöfe</em>), leite ich ein vielfältiges Team von Forschern zu diesem Thema.
+        Im Jahr 2020 begann ich, mich mit <em>unerwünschten Standortplanungsproblemen</em> (Facility Location Problems, FLPs) aus einer einzigartigen Perspektive zu befassen: der Sicherstellung von Fairness aus Sicht der Einrichtungen, anstatt – wie in der bestehenden Literatur üblich – aus Sicht der Nutzer. Motiviert durch Anwendungen im Bereich Abfallwirtschaft, insbesondere im Kontext von <em>Recyclinghöfen</em> (z. B. britische <em>tips</em> oder deutsche <em>Wertstoffhöfe</em>), leite ich ein vielfältiges Team von Forschern zu diesem Thema.
       </p>
       <p>
-        Unterstützt durch das <strong>Bayerische Staatsministerium für Wissenschaft und Kunst</strong> sowie die <strong>University of Southampton</strong> entwickelt mein Team diskrete Optimierungsmodelle, die Fairness bei Schließungen von Einrichtungen erreichen. Bisher hat diese Arbeit zu Folgendem geführt:
+        Unterstützt durch das <em>Bayerische Staatsministerium für Wissenschaft und Kunst</em> sowie die <em>University of Southampton</em> entwickelt mein Team diskrete Optimierungsmodelle, die Fairness bei Schließungen von Einrichtungen erreichen. Bisher hat diese Arbeit zu Folgendem geführt:
       </p>
       <div class="square-bullets">
         <ul>
@@ -156,7 +156,7 @@ Ein einzigartiger Aspekt meines Ansatzes ist die Modellierung <strong>subjektive
   <div class="research_subsection">
     <div class="research_subsection_text">
       <p>
-        Ich begann 2012 als MSc-Studentin die Zusammenarbeit mit dem <strong>Texas Department of State Health Services</strong>, USA, um lange vor dem Auftreten von COVID-19 auf zukünftige Pandemien vorbereitet zu sein. Motiviert durch die Reaktion von Texas auf die <strong>H1N1-Pandemie 2009</strong> konzentrierte sich meine Promotion auf die Entwicklung webbasierten, optimierungsbasierten Entscheidungsunterstützungstools für den Einsatz durch die Regierung. Diese Tools, abrufbar unter <a href="https://flu.tacc.utexas.edu/" style="color: #0066cc; text-decoration: underline;">flu.tacc.utexas.edu</a>, unterstützen den Bundesstaat Texas bei der fairen und effizienten Zuteilung kritischer Ressourcen wie antiviraler Medikamente und Impfstoffe.
+        Ich begann 2012 als MSc-Studentin die Zusammenarbeit mit dem <em>Texas Department of State Health Services</em>, USA, um lange vor dem Auftreten von COVID-19 auf zukünftige Pandemien vorbereitet zu sein. Motiviert durch die Reaktion von Texas auf die <em>H1N1-Pandemie 2009</em> konzentrierte sich meine Promotion auf die Entwicklung webbasierten, optimierungsbasierten Entscheidungsunterstützungstools für den Einsatz durch die Regierung. Diese Tools, abrufbar unter <a href="https://flu.tacc.utexas.edu/" style="color: #0066cc; text-decoration: underline;">flu.tacc.utexas.edu</a>, unterstützen den Bundesstaat Texas bei der fairen und effizienten Zuteilung kritischer Ressourcen wie antiviraler Medikamente und Impfstoffe.
       </p>
       <p>
         Die wichtigste Förderung stammt aus einem dreijährigen Projekt der <em>Deutschen Forschungsgemeinschaft</em> (DFG), mit zusätzlicher Unterstützung durch die <em>Bayerisch-Tschechische Hochschulagentur</em> und das <em>EU-Horizont-2020-Programm</em>. 

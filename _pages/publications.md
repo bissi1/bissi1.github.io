@@ -37,6 +37,7 @@ Publications co-authored with <strong><em>my students</em></strong> are indicate
 
 <div class="square-bullets"> 
   <ul>
+    <li>[R10] B. Singh "Supermodularity, curvature, and convex relaxations in a class of quadratic binary optimization problems".</li>
     <li>[R9] M. Jaidee<sup>(*)</sup>, B. Singh "Measuring the economic value of wind–solar complementarity in Europe using chance constraints".</li>
     <li>[R8] A. Thoma, E. Papadaki, B. Singh "From coding assistant to reasoning partner? GenAI in the modeling phase of operations research (OR) education".</li>
     <li>[R7] B. Singh "On the resolution of ties in fair convex allocation problems".</li>
