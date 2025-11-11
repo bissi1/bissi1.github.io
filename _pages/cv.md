@@ -97,7 +97,7 @@ classes: cvpage
   </li>
 
   <li class="grant-item">
-    <div class="grant-left"><span class="year">2022–2026</span> Several internal competitive grants from the University of Southampton on interdisciplinary data-science topics</div>
+    <div class="grant-left"><span class="year">2022–2026</span> Several competitive grants from the University of Southampton on interdisciplinary data-science topics</div>
     <div class="grant-right">£66,928</div>
   </li>
 
