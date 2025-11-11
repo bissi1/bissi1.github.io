@@ -88,7 +88,7 @@ classes: cvpage
 </div>
 
 ### Third Party Funding (selection)
-≈ €340,000 of total funding as a PI or co-PI
+≈ €360,000 of total funding as a PI or co-PI
 <div id="cvmobile" class="compact-list">
 <ul>
   <li class="grant-item">
@@ -97,8 +97,8 @@ classes: cvpage
   </li>
 
   <li class="grant-item">
-    <div class="grant-left"><span class="year">2022–2025</span> Internal competitive grants from the University of Southampton on interdisciplinary data-science topics</div>
-    <div class="grant-right">£47,928</div>
+    <div class="grant-left"><span class="year">2022–2026</span> Several internal competitive grants from the University of Southampton on interdisciplinary data-science topics</div>
+    <div class="grant-right">£66,928</div>
   </li>
 
   <li class="grant-item">
@@ -186,4 +186,4 @@ Several other small, but competitive, grants from agencies including the America
 </div>
 
 
-46 invited seminars, 27 conference talks, 10 chaired conference sessions, and 6 key talks.
+47 invited seminars, 30 conference talks, 10 chaired conference sessions, and 6 key talks.

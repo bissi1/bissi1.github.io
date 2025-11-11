@@ -83,7 +83,7 @@ classes: cvpage
 </div>
 
 ### Drittmittel (Auswahl)
-≈ €340.000 Gesamtförderung als PI oder Co-PI
+≈ €360.000 Gesamtförderung als PI oder Co-PI
 <div id="cvmobile" class="compact-list">
 <ul>
   <li class="grant-item">
@@ -93,7 +93,7 @@ classes: cvpage
 
   <li class="grant-item">
     <div class="grant-left"><span class="year">2022–2025</span> Interne kompetitive Förderungen der University of Southampton zu interdisziplinären datenwissenschaftlichen Themen</div>
-    <div class="grant-right">£47.928</div>
+    <div class="grant-right">£66.928</div>
   </li>
 
   <li class="grant-item">
