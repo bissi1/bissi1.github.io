@@ -177,11 +177,11 @@ Several other small, but competitive, grants from agencies including the America
 
 <div class="compact-list square-bullets">
 <ul>
+  <li>Singh, B. & Rebennack, S. (2025). "Release immediately or sequentially? Strategies for allocating scarce therapeutic resources during disease outbreaks". <i>IISE Transactions</i>. <a href="https://www.tandfonline.com/doi/full/10.1080/24725854.2025.2525918" style="color: #0066cc; text-decoration: none;">Link</a></li>
   <li>Schmitt, C. & Singh, B. (2024). "Quadratic optimization models for balancing preferential access and fairness: Formulations and optimality conditions". <i>INFORMS Journal on Computing</i>. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0308" style="color: #0066cc; text-decoration: none;">Link</a></li>
   <li>Singh, B., Oberfichtner, L., & Ivliev, S. (2022). "Heuristics for a cash-collection routing problem with a cluster-first route-second approach". <i>Annals of Operations Research</i>. <a href="https://link.springer.com/article/10.1007/s10479-022-04883-1" style="color: #0066cc; text-decoration: none;">Link</a></li>
   <li>Singh, B., & Knueven, B. (2021). "Lagrangian relaxation-based heuristics for a chance-constrained optimization model of a hybrid solar-battery storage system". <i>Journal of Global Optimization</i>. <a href="https://link.springer.com/article/10.1007/s10898-021-01041-y" style="color: #0066cc; text-decoration: none;">Link</a></li>
   <li>Duque, D., Morton, D. P., Singh, B., Du, Z., Pasco, R., & Meyers, L. A. (2020). "Timing social distancing to avert unmanageable COVID-19 hospital surges". <i>Proceedings of the National Academy of Sciences (PNAS)</i>. <a href="https://www.pnas.org/doi/10.1073/pnas.2009033117" style="color: #0066cc; text-decoration: none;">Link</a></li>
-  <li>Rebennack, S., Prokopyev, O. A., & Singh, B. (2020). "Two-stage stochastic minimum s–t cut problems: Formulations, complexity and decomposition algorithms". <i>Networks</i>. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/net.21922" style="color: #0066cc; text-decoration: none;">Link</a></li>
 </ul>
 </div>
 
