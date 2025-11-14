@@ -148,6 +148,7 @@ Mehrere weitere kleine, aber kompetitive Förderungen von Institutionen wie der 
   <li>Associate Fellow, The OR Society (AFORS)</li>
   <li>Mitglied, Deutsche OR-Gesellschaft</li>
   <li>Mitglied, Institute for Operations Research and the Management Sciences (INFORMS)</li>
+  <li>Ausschussmitglied, London Mathematical Society (2022–2028)</li>
   <li>Experten-Gutachter, European Science Foundation (2025–2028)</li>
   <li>Mitglied, Randomised Optimisation Algorithms Research Network, European Cooperation in Science & Technology (COST)</li>
 </ul>

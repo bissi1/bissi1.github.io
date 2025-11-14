@@ -32,6 +32,8 @@ My research has been funded by, among others, the German Research Foundation (DF
 -   Congratulations to my student Malena Schmidt for winning the <a href="https://www.vvsor.nl/articles/hemelrijk-award-winner-2025/" style="text-decoration: none;">2025 Hemelrijk Award</a> by the Dutch OR Society for the best MSc thesis. Malena's exceptional thesis produced two articles in the INFORMS Journal on Computing and Networks. 
 
 🎉 **Exciting Opportunities**:
+  - (2025--26) I have been awarded a competitive funding of £19,000 under UK's Higher Education Innovation Funding (HEIF) scheme by Southampton to collaborate with the Hampshire County Council on combinatorial undesirable facility location problems. If you're a mathematically talented student interested in contributing, please contact me. 
+  - (2025--26) I have also been awarded a competitive funding of £15,000 under a highly competitive university-wide  Global Partnership Award specifically for collaborating with India. I will be engaging with premier IITs and IIMs actively in 2026.
   - A <a href="https://www.findaphd.com/phds/project/mathematically-modeling-systems-resilient-against-unforeseen-attacks/?p177266" style="text-decoration: none;">new PhD position</a> with me in discrete optimization is now open at the University of Southampton! If you are a talented and eligible student, please apply through the university website here.
   - <a href="https://scholar.google.com/citations?user=M6RoyZAAAAAJ&hl=en" style="text-decoration: none;">Dr. Hongtao Wang</a> joins my group as a new postdoc. He will work on discrete optimization with healthcare applications. Welcome!
   - *Open Invitation*: I always welcome talented and mathematically strong students or postdocs from around the world to join my research team or collaborate on exciting projects. <a href="/research/" style="text-decoration: none;">Explore →</a>
@@ -52,6 +54,7 @@ My research has been funded by, among others, the German Research Foundation (DF
   - In December 2024, I delivered a Distinguished Lecture at the <a href="https://www.casus.science/?page_id=12281" style="text-decoration: none;">Centre for Advanced Systems Understanding (CASUS)</a>, Helmholtz, Görlitz, Germany.
 
 🎉 **Invited Visits and Lectures**: 
+   - December 2025: Dr. Hamed Rahimian, assistant professor at Clemson University (US), will visit me at Southampton for a month as part of my successful Heilbronn International Visitors Scheme proposal. We will work on stochastic/robust extensions of some of my work on facility location problems.
   - September 2024: Organized a week-long seminar at <a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24399" style="text-decoration: none;">Schloss Dagstuhl</a> on reliable decision-making under uncertainty.
   - September 2024: Research visit to the Faculty of Mathematics, University of Latvia, Riga.
   - 2024: Multiple long visits, including an honorary lecture, to TU Dresden as part of my <a href="https://tu-dresden.de/bu/wirtschaft/die-fakultaet/news/auszeichnung-von-associate-professor-bismark-singh-als-distinguished-research-fellow" style="text-decoration: none;">guest professorship</a>.

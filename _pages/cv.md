@@ -154,6 +154,7 @@ Several other small, but competitive, grants from agencies including the America
   <li>Associate Fellow, The OR Society (AFORS)</li>
   <li>Member, German OR Society</li>
   <li>Member, Institute for Operations Research and the Management Sciences (INFORMS)</li>
+  <li>Committee Member, London Mathematical Society (2022–2028)</li>
   <li>Expert Reviewer, European Science Foundation (2025–2028)</li>
   <li>Member, Randomised Optimisation Algorithms Research Network, European Cooperation in Science & Technology (COST)</li>
 
