@@ -57,7 +57,7 @@ Publications co-authored with <strong><em>my students</em></strong> are indicate
 <div class="square-bullets">
 <ul>
 <li>[33] C. Schmitt<sup>(*)</sup>, B. Singh "An analytical lower bound for a class of minimizing quadratic integer optimization problems".<br>
-  In: <a href="https://www.sciencedirect.com/journal/discrete-applied-mathematics" style="color: #0066cc; text-decoration: none;"><i>Discrete Applied Mathematics (to appear)</i></a></li>
+  In: <a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="color: #0066cc; text-decoration: none;"><i>Discrete Applied Mathematics (to appear)</i></a></li>
 <li>[32] B. Singh. "Lucas Junot: The singing mathematician of Coimbra."<br>
   In: <a href="https://link.springer.com/article/10.1007/s00283-025-10465-3" style="color: #0066cc; text-decoration: none;"><i>The Mathematical Intelligencer</i></a></li>
 <li>[31] B. Singh, D. Gromov. "Mathematically modeling worried-well behavior during infectious disease outbreaks".<br>

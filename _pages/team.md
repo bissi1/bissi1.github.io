@@ -86,7 +86,7 @@ My team is academically diverse, with members spanning a variety of ***interdisc
 <li>Christian Schmitt (Mathematics), FAU, Germany  
   <ul>
     <li><em>Published in <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0308" style="text-decoration: none;">INFORMS Journal on Computing</a></em></li>
-    <li>Article in <em><a href="https://optimization-online.org/2024/11/an-analytical-lower-bound-for-a-class-of-minimizing-quadratic-integer-optimization-problems/" style="text-decoration: none;">peer-review</a></em></li>
+    <li><em>Published in <em><a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="text-decoration: none;">Discrete Applied Mathematics</a></em></li>
   </ul>
 </li>
 <li>Charlotte Ritter (Mathematics), FAU, Germany  
