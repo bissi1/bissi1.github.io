@@ -53,7 +53,7 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 ### 2025
 <div class="square-bullets">
 <ul>
-<li>[34] B. Singh "Analyzing Census data for patterns of mobility inequity: Gender, geography, and public policy in India".</li>
+<li>[34] B. Singh "Analyzing Census data for patterns of mobility inequity: Gender, geography, and public policy in India".<br>
   In: <a href="https://link.springer.com/journal/10479" style="color: #0066cc; text-decoration: none;"><i>Annals of Operations Research (to appear) </i></a></li>
 <li>[33] C. Schmitt<sup>(*)</sup>, B. Singh "An analytical lower bound for a class of minimizing quadratic integer optimization problems".<br>
   In: <a href="https://www.sciencedirect.com/journal/discrete-applied-mathematics" style="color: #0066cc; text-decoration: none;"><i>Discrete Applied Mathematics</i></a></li>
