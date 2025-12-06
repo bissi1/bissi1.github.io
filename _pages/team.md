@@ -104,5 +104,4 @@ My team is academically diverse, with members spanning a variety of ***interdisc
     <li><em>Published in <a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="text-decoration: none;">Discrete Applied Mathematics</a></em></li>
   </ul>
 </li>
-</ul>
-</div>
+
