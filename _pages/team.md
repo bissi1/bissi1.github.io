@@ -86,7 +86,7 @@ My team is academically diverse, with members spanning a variety of ***interdisc
 <li>Christian Schmitt (Mathematics), FAU, Germany  
   <ul>
     <li><em>Published in <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0308" style="text-decoration: none;">INFORMS Journal on Computing</a></em></li>
-    <li><em>Published in <em><a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="text-decoration: none;">Discrete Applied Mathematics</a></em></li>
+    <li><em>Published in <a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="text-decoration: none;">Discrete Applied Mathematics</a></em></li>
   </ul>
 </li>
 <li>Charlotte Ritter (Mathematics), FAU, Germany  
@@ -101,7 +101,7 @@ My team is academically diverse, with members spanning a variety of ***interdisc
 </li>
 <li>Lena Oberfichtner (Mathematics), FAU, Germany  
   <ul>
-    <li><em>Published in <a href="https://link.springer.com/article/10.1007/s10479-022-04883-1" style="text-decoration: none;">Annals of Operations Research</a></em></li>
+    <li><em>Published in <a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="text-decoration: none;">Discrete Applied Mathematics</a></em></li>
   </ul>
 </li>
 </ul>
