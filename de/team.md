@@ -85,7 +85,7 @@ Mein Team ist akademisch vielfältig, mit Mitgliedern aus einer Vielzahl ***inte
 <li>Christian Schmitt (Mathematik), FAU, Deutschland  
   <ul>
     <li><em>Veröffentlicht in <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0308" style="text-decoration: none;">INFORMS Journal on Computing</a></em></li>
-    <li><em>Veröffentlicht in <em><a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="text-decoration: none;">Discrete Applied Mathematics</a></em></li>
+    <li><em>Veröffentlicht in <em><a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="text-decoration: none;">Discrete Applied Mathematics</a></em>
   </ul>
 </li>
 <li>Charlotte Ritter (Mathematik), FAU, Deutschland  
@@ -103,5 +103,3 @@ Mein Team ist akademisch vielfältig, mit Mitgliedern aus einer Vielzahl ***inte
     <li><em>Veröffentlicht in <a href="https://link.springer.com/article/10.1007/s10479-022-04883-1" style="text-decoration: none;">Annals of Operations Research</a></em></li>
   </ul>
 </li>
-</ul>
-</div>
