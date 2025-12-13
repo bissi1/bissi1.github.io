@@ -32,12 +32,14 @@ I publish in a diverse variety of journals reflecting the interdisciplinary natu
 Publications co-authored with <strong><em>my students</em></strong> are indicated with an asterisk (\*) next to the student’s name.
 
 
-### Articles currently under peer-review:
+### Submitted Articles (under peer-review):
 
 
 <div class="square-bullets"> 
   <ul>
-    <li>[R9] B. Singh "Supermodularity, curvature, and convex relaxations in a class of quadratic binary optimization problems".</li>
+    <li>[R11] B. Singh "Supermodularity, curvature, and convex relaxations in a class of quadratic binary optimization problems".</li>
+    <li>[R10] P. Bharati, V. Laha, B. Singh "Robust optimality for nonsmooth mathematical programs with equilibrium constraints under data uncertainty".</li>
+    <li>[R9] M. Jaidee<sup>(*)</sup>, Z. Sun<sup>(*)</sup>, S. Singh, T. Nguyen<sup>(*)</sup>, B. Singh "Optimizing Household Waste Recycling Centre network rationalization in Hampshire".</li>
     <li>[R8] M. Jaidee<sup>(*)</sup>, B. Singh "Measuring the economic value of wind–solar complementarity in Europe using chance constraints".</li>
     <li>[R7] A. Thoma, E. Papadaki, B. Singh "From coding assistant to reasoning partner? GenAI in the modeling phase of operations research (OR) education".</li>
     <li>[R6] B. Singh "On the resolution of ties in fair convex allocation problems".</li>
