@@ -39,14 +39,6 @@ My team is academically diverse, with members spanning a variety of ***interdisc
 <div class="square-bullets">
 <ul>
 <li>Dr. Hongtao Wang (Mathematics), University of Southampton, UK</li>
-<li>Thi Nguyen (Business), University of Southampton, UK</li>
-<li>Dr. Sher Singh (Economics), University of Southampton, UK</li>
-<li>Zheng Sun (Mathematics), University of Southampton, UK</li>
-<li>Sophie Reshetnikova (Mathematics), University of Southampton, UK  
-  <ul>
-    <li><em>Article in peer-review</em></li>
-  </ul>
-</li>
 <li>Montree Jaidee (Operations Research), University of Southampton, UK  
   <ul>
     <li><em>Article in <a href="https://optimization-online.org/2024/09/the-prime-programming-problem-formulations-and-solution-methods/" style="text-decoration: none;">peer-review</a></em></li>
@@ -62,6 +54,18 @@ My team is academically diverse, with members spanning a variety of ***interdisc
 
 <div class="square-bullets">
 <ul>
+<li>Thi Nguyen (Business), University of Southampton, UK</li>
+<li>Dr. Sher Singh (Economics), University of Southampton, UK</li>
+<li>Zheng Sun (Mathematik), University of Southampton, UK
+  <ul>
+  <li> 2nd place, 2025 INFORMS OR/MS Tomorrow Mini-Poster Competition </li>
+  <li><em>Artikel im Peer-Review</em></li>
+  </ul></li>
+<li>Sophie Reshetnikova (Mathematics), University of Southampton, UK  
+  <ul>
+    <li><em>Article in peer-review</em></li>
+  </ul>
+</li>
 <li>Dr. Hoai Le (Mathematics), University of Southampton, UK</li>
 <li>Dr. Toby Roberts (Engineering), University of Southampton, UK  
   <ul>
