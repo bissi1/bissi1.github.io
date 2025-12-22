@@ -27,8 +27,8 @@ My research has been funded by, among others, the German Research Foundation (DF
 
 
 🎉 **Student accomplishments**: 
-- Congratulations to my student Zheng Sun for winning 2nd place in the INFORMS 2025 OR/MS Tomorrow Mini-Poster Competition. Zheng's thesis on applying facility location problems for Hampshire's recycling centers was extended towards a work currently under peer review for publication.
--   Congratulations to my student Malena Schmidt for winning the <a href="https://www.vvsor.nl/articles/hemelrijk-award-winner-2025/" style="text-decoration: none;">2025 Hemelrijk Award</a> by the Dutch OR Society for the best MSc thesis. Malena's exceptional thesis produced two articles in the INFORMS Journal on Computing and Networks. 
+  - Congratulations to my student Zheng Sun for winning 2nd place in the <a href="https://www.informs.org/Publications/OR-MS-Tomorrow/OR-MS-Tomorrow-Mini-Poster-Competition-2025" style="text-decoration: none;">INFORMS 2025 OR/MS Tomorrow Mini-Poster Competition</a>. Zheng's thesis on applying facility location problems for Hampshire's recycling centers was extended towards a work currently under peer review for publication.
+  -   Congratulations to my student Malena Schmidt for winning the <a href="https://www.vvsor.nl/articles/hemelrijk-award-winner-2025/" style="text-decoration: none;">2025 Hemelrijk Award</a> by the Dutch OR Society for the best MSc thesis. Malena's exceptional thesis produced two articles in the INFORMS Journal on Computing and Networks. 
 
 🎉 **Exciting Opportunities**:
   - (2025--26) I have been awarded a competitive funding of £19,000 under UK's Higher Education Innovation Funding (HEIF) scheme by Southampton to collaborate with the Hampshire County Council on combinatorial undesirable facility location problems. If you're a mathematically talented student interested in contributing, please contact me. 
