@@ -37,6 +37,7 @@ Publications co-authored with <strong><em>my students</em></strong> are indicate
 
 <div class="square-bullets"> 
   <ul>
+    <li>[R12] M. Hendrych, M. Kopa, B. Singh "Fairness axioms and stochastic bilevel optimization in vaccine reimbursement allocation".</li>
     <li>[R11] B. Singh "Supermodularity, curvature, and convex relaxations in a class of quadratic binary optimization problems".</li>
     <li>[R10] P. Bharati, V. Laha, B. Singh "Robust optimality for nonsmooth mathematical programs with equilibrium constraints under data uncertainty".</li>
     <li>[R9] M. Jaidee<sup>(*)</sup>, Z. Sun<sup>(*)</sup>, S. Singh, T. Nguyen<sup>(*)</sup>, B. Singh "Optimizing Household Waste Recycling Centre network rationalization in Hampshire".</li>

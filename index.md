@@ -26,9 +26,8 @@ My research has been funded by, among others, the German Research Foundation (DF
 ### Latest News
 
 
-🎉 **Media coverage**: 
--   TU Dresden published an <a href="https://tu-dresden.de/bu/wirtschaft/forschung/interview-bismark-singh" style="text-decoration: none;">interview</a> from my visiting professorship.
--   University of Bayreuth published an <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/interview_Singh/index.html" style="text-decoration: none;">interview</a> from my Humbolt-Centre research visit.
+🎉 **Student accomplishments**: 
+- Congratulations to my student Zheng Sun for winning 2nd place in the INFORMS 2025 OR/MS Tomorrow Mini-Poster Competition. Zheng's thesis on applying facility location problems for Hampshire's recycling centers was extended towards a work currently under peer review for publication.
 -   Congratulations to my student Malena Schmidt for winning the <a href="https://www.vvsor.nl/articles/hemelrijk-award-winner-2025/" style="text-decoration: none;">2025 Hemelrijk Award</a> by the Dutch OR Society for the best MSc thesis. Malena's exceptional thesis produced two articles in the INFORMS Journal on Computing and Networks. 
 
 🎉 **Exciting Opportunities**:
@@ -55,6 +54,8 @@ My research has been funded by, among others, the German Research Foundation (DF
 🎉 **Invited Visits and Lectures**: 
    - December 2025: Dr. Hamed Rahimian, assistant professor at Clemson University (US), will visit me at Southampton for a month as part of my successful Heilbronn International Visitors Scheme proposal. We will work on stochastic/robust extensions of some of my work on facility location problems.
   - September 2024: Organized a week-long seminar at <a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24399" style="text-decoration: none;">Schloss Dagstuhl</a> on reliable decision-making under uncertainty.
+  -   TU Dresden published an <a href="https://tu-dresden.de/bu/wirtschaft/forschung/interview-bismark-singh" style="text-decoration: none;">interview</a> from my visiting professorship.
+  -   University of Bayreuth published an <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/interview_Singh/index.html" style="text-decoration: none;">interview</a> from my Humbolt-Centre research visit.
   - September 2024: Research visit to the Faculty of Mathematics, University of Latvia, Riga.
   - 2024: Multiple long visits, including an honorary lecture, to TU Dresden as part of my <a href="https://tu-dresden.de/bu/wirtschaft/die-fakultaet/news/auszeichnung-von-associate-professor-bismark-singh-als-distinguished-research-fellow" style="text-decoration: none;">guest professorship</a>.
   - June 2024: Invited to the University of Bayreuth, hosted by their <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/recently-selected-short-term-grantees/index.html" style="text-decoration: none;">Humboldt Centre</a>, for a three-week research collaboration.
