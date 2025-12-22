@@ -27,7 +27,8 @@ Meine Forschung wurde unter anderem von der Deutsche Forschungsgemeinschaft (DFG
 ### Neueste Nachrichten
 
 🎉 **Medienberichte**: 
-– Glückwunsch an meinen Studenten Zheng Sun zum Gewinn des 2. Platzes beim <a href="https://www.informs.org/Publications/OR-MS-Tomorrow/OR-MS-Tomorrow-Mini-Poster-Competition-2025" style="text-decoration: none;">INFORMS 2025 OR/MS Tomorrow Mini-Poster-Wettbewerb</a>. Zhengs Abschlussarbeit zur Anwendung von Standortplanungsproblemen auf die Recyclingzentren in Hampshire wurde weiterentwickelt und zu einer Arbeit ausgebaut, die sich derzeit im Peer-Review-Verfahren für eine Veröffentlichung befindet.
+
+–   Glückwunsch an meinen Studenten Zheng Sun zum Gewinn des 2. Platzes beim <a href="https://www.informs.org/Publications/OR-MS-Tomorrow/OR-MS-Tomorrow-Mini-Poster-Competition-2025" style="text-decoration: none;">INFORMS 2025 OR/MS Tomorrow Mini-Poster-Wettbewerb</a>. Zhengs Abschlussarbeit zur Anwendung von Standortplanungsproblemen auf die Recyclingzentren in Hampshire wurde weiterentwickelt und zu einer Arbeit ausgebaut, die sich derzeit im Peer-Review-Verfahren für eine Veröffentlichung befindet.
 -   Glückwunsch an meine Studentin Malena Schmidt zum Gewinn des <a href="https://www.vvsor.nl/articles/hemelrijk-award-winner-2025/" style="text-decoration: none;">Hemelrijk-Preises 2025</a> der Niederländischen OR-Gesellschaft für die beste Masterarbeit. Malenas außergewöhnliche Arbeit führte zu zwei Artikeln im *INFORMS Journal on Computing* und in *Networks*. 
 
 🎉 **Spannende Möglichkeiten**:
