@@ -27,8 +27,7 @@ Meine Forschung wurde unter anderem von der Deutsche Forschungsgemeinschaft (DFG
 ### Neueste Nachrichten
 
 🎉 **Medienberichte**: 
--   Die TU Dresden veröffentlichte ein <a href="https://tu-dresden.de/bu/wirtschaft/forschung/interview-bismark-singh" style="text-decoration: none;">Interview</a> zu meinem Gastprofessorat.
--   Die Universität Bayreuth veröffentlichte ein <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/interview_Singh/index.html" style="text-decoration: none;">Interview</a> zu meinem Forschungsaufenthalt am Humboldt-Zentrum.
+– Glückwunsch an meinen Studenten Zheng Sun zum Gewinn des 2. Platzes beim <a href="https://www.informs.org/Publications/OR-MS-Tomorrow/OR-MS-Tomorrow-Mini-Poster-Competition-2025" style="text-decoration: none;">INFORMS 2025 OR/MS Tomorrow Mini-Poster-Wettbewerb</a>. Zhengs Abschlussarbeit zur Anwendung von Standortplanungsproblemen auf die Recyclingzentren in Hampshire wurde weiterentwickelt und zu einer Arbeit ausgebaut, die sich derzeit im Peer-Review-Verfahren für eine Veröffentlichung befindet.
 -   Glückwunsch an meine Studentin Malena Schmidt zum Gewinn des <a href="https://www.vvsor.nl/articles/hemelrijk-award-winner-2025/" style="text-decoration: none;">Hemelrijk-Preises 2025</a> der Niederländischen OR-Gesellschaft für die beste Masterarbeit. Malenas außergewöhnliche Arbeit führte zu zwei Artikeln im *INFORMS Journal on Computing* und in *Networks*. 
 
 🎉 **Spannende Möglichkeiten**:
@@ -54,8 +53,9 @@ Meine Forschung wurde unter anderem von der Deutsche Forschungsgemeinschaft (DFG
 
 🎉 **Eingeladene Besuche und Vorträge**: 
   - Dezember 2025: Dr. Hamed Rahimian, Assistant Professor an der Clemson University (USA), wird mich im Rahmen meines erfolgreichen Antrags im Heilbronn International Visitors Scheme für einen Monat in Southampton besuchen. Wir werden an stochastischen und robusten Erweiterungen einiger meiner Arbeiten zu Standortplanungsproblemen arbeiten.
-
   - September 2024: Organisation eines einwöchigen Seminars am <a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24399" style="text-decoration: none;">Schloss Dagstuhl</a> über zuverlässige Entscheidungsfindung unter Unsicherheit.
+  -   Die TU Dresden veröffentlichte ein <a href="https://tu-dresden.de/bu/wirtschaft/forschung/interview-bismark-singh" style="text-decoration: none;">Interview</a> zu meinem Gastprofessorat.
+-   Die Universität Bayreuth veröffentlichte ein <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/interview_Singh/index.html" style="text-decoration: none;">Interview</a> zu meinem Forschungsaufenthalt am Humboldt-Zentrum.
   - September 2024: Forschungsaufenthalt an der Fakultät für Mathematik, Universität Lettlands, Riga.
   - 2024: Mehrere längere Besuche, einschließlich eines Ehrenvortrags, an der TU Dresden im Rahmen meines <a href="https://tu-dresden.de/bu/wirtschaft/die-fakultaet/news/auszeichnung-von-associate-professor-bismark-singh-als-distinguished-research-fellow" style="text-decoration: none;">Gastprofessorats</a>.
   - Juni 2024: Einladung an die Universität Bayreuth, organisiert vom <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/recently-selected-short-term-grantees/index.html" style="text-decoration: none;">Humboldt-Zentrum</a>, für eine dreiwöchige Forschungszusammenarbeit.
