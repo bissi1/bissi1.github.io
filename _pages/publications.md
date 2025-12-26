@@ -37,6 +37,7 @@ Publications co-authored with <strong><em>my students</em></strong> are indicate
 
 <div class="square-bullets"> 
   <ul>
+    <li>[R13] Y. Cheng, Z. Deng, P. Wang, B. Singh "Optimal procurement auctions in dynamic stochastic environments".</li>
     <li>[R12] M. Hendrych, M. Kopa, B. Singh "Fairness axioms and stochastic bilevel optimization in vaccine reimbursement allocation".</li>
     <li>[R11] B. Singh "Supermodularity, curvature, and convex relaxations in a class of quadratic binary optimization problems".</li>
     <li>[R10] P. Bharati, V. Laha, B. Singh "Robust optimality for nonsmooth mathematical programs with equilibrium constraints under data uncertainty".</li>
@@ -59,7 +60,7 @@ Publications co-authored with <strong><em>my students</em></strong> are indicate
 <div class="square-bullets">
 <ul>
 <li>[34] B. Singh "Analyzing Census data for patterns of mobility inequity: Gender, geography, and public policy in India".<br>
-  In: <a href="https://link.springer.com/journal/10479" style="color: #0066cc; text-decoration: none;"><i>Annals of Operations Research (to appear) </i></a></li>
+  In: <a href="https://link.springer.com/article/10.1007/s10479-025-06972-3" style="color: #0066cc; text-decoration: none;"><i>Annals of Operations Research</i></a></li>
 <li>[33] C. Schmitt<sup>(*)</sup>, B. Singh "An analytical lower bound for a class of minimizing quadratic integer optimization problems".<br>
   In: <a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="color: #0066cc; text-decoration: none;"><i>Discrete Applied Mathematics</i></a></li>
 <li>[32] B. Singh. "Lucas Junot: The singing mathematician of Coimbra."<br>

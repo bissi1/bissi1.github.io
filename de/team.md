@@ -57,8 +57,8 @@ Mein Team ist akademisch vielfältig, mit Mitgliedern aus einer Vielzahl ***inte
 <li>Dr. Sher Singh (Wirtschaftswissenschaften), University of Southampton, UK</li>
 <li>Zheng Sun (Mathematik), University of Southampton, UK
   <ul>
-  <li> 2nd place, 2025 INFORMS OR/MS Tomorrow Mini-Poster Competition </li>
-  <li><em>Artikel im Peer-Review</em></li>
+  <li>2. Platz – Gewinner des <a href="https://www.informs.org/Publications/OR-MS-Tomorrow/OR-MS-Tomorrow-Mini-Poster-Competition-2025" style="text-decoration: none;">2025 INFORMS OR/MS Tomorrow Mini-Poster Competition</a> </li>
+  <li><em>Artikel im Peer-Review <a href="https://www.researchgate.net/publication/398638906_Optimizing_Household_Waste_Recycling_Centre_Network_Rationalization_in_Hampshire" style="text-decoration: none;">peer-review</a></em></li>
   </ul></li>
 <li>Sophie Reshetnikova (Mathematik), University of Southampton, UK  
   <ul>
