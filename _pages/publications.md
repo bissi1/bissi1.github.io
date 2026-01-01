@@ -23,10 +23,14 @@ I publish in a diverse variety of journals reflecting the interdisciplinary natu
     <li><strong><em>20 publications</em></strong> in journals indexed in the 2023 <strong><em>AMS MathSciNet list</em></strong>:  
       <div style="margin-left: 1.5em;">[34], [33], [32], [28], [26], [25], [24], [23], [22], [21], [20], [17], [13], [12], [11], [10], [9], [8], [7], [6], [2]</div>
     </li>
-    <li><strong><em>10 publications</em></strong> in journals indexed in the <strong><em>National Library of Medicine PubMed list</em></strong>:  
-      <div style="margin-left: 1.5em;"> [31], [18], [16], [15], [14], [13], [5], [4], [3], [1]</div>
+    <li><strong><em>10 publications</em></strong> in journals indexed in the <strong><em>Chartered Association of Business Schools (ABS) Academic Journal Guide (AJG 2024)</em></strong>:
+      <ul>
+        <li><strong><em>Grade 3</em></strong> (4 articles): [34], [28], [24], [23]</li>
+        <li><strong><em>Grade 2</em></strong> (5 articles): [33], [29], [27], [17], [15]</li>
+        <li><strong><em>Grade 1</em></strong> (2 articles): [12], [6]</li>
+      </ul>
     </li>
-  </ul>
+    </ul>
 </div>
 
 Publications co-authored with <strong><em>my students</em></strong> are indicated with an asterisk (\*) next to the student’s name.
