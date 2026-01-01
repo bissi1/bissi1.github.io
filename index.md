@@ -38,6 +38,7 @@ My research has been funded by, among others, the German Research Foundation (DF
   - *Open Invitation*: I always welcome talented and mathematically strong students or postdocs from around the world to join my research team or collaborate on exciting projects. <a href="/research/" style="text-decoration: none;">Explore →</a>
   
 🎉 **Recent Publications:**: 
+  - Dec. 2025: My work analyzing the first-ever Census mobility data of India is now published in <a href="https://link.springer.com/article/10.1007/s10479-025-06972-3" style="text-decoration: none;">Annals of Operations Research</a>.  
   - Nov. 2025: My work (with my former student) is now published in <a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="text-decoration: none;">Discrete Applied Mathematics</a>. We provide a rare closed-form lower bound for a class of minimizing quadratic functions over a discrete polyhedral set. 
   - Nov. 2025: My work (with Francesca Maggioni jointly supervising Gabriele Marchesi) is now accepted in the <a href="https://mlxor-workshop.github.io/#papers" style="text-decoration: none;">NeurIPS MLxOR Workshop</a>. This marks my first time in a NeurIPS venue!
   - Sep. 2025: My work (with Dmitry Gromov) is now published in <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319550" style="text-decoration: none;">PLOS ONE</a>. We study a unique interdisciplinary problem: how do we model the spread of fear/worry during pandemics? Thanks to the German DFG for supporting me.
