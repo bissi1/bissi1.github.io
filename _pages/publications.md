@@ -14,21 +14,24 @@ I publish in a diverse variety of journals reflecting the interdisciplinary natu
 
 <div class="square-bullets">
   <ul>
-    <li><strong><em>20 publications</em></strong> in journals indexed in the <strong><em>2024 German VHB</em></strong> Rating for Operations Research (OR):
+    <li><strong><em>19 publications</em></strong> in journals indexed in the <strong><em>2024 German VHB</em></strong> Rating for Operations Research (OR):
       <ul>
         <li><strong><em>A-rated</em></strong>: [33], [30], [28], [25], [24], [23], [15], [9]</li>
-        <li><strong><em>B-rated</em></strong>: [34], [31], [29], [27], [21], [15], [12], [11], [10], [7], [6], [5]</li>
+        <li><strong><em>B-rated</em></strong>: [34], [31], [29], [27], [21], [12], [11], [10], [7], [6], [5]</li>
       </ul>
     </li>
-    <li><strong><em>20 publications</em></strong> in journals indexed in the 2023 <strong><em>AMS MathSciNet list</em></strong>:  
+    <li><strong><em>21 publications</em></strong> in journals indexed in the 2023 <strong><em>AMS MathSciNet list</em></strong>:  
       <div style="margin-left: 1.5em;">[34], [33], [32], [28], [26], [25], [24], [23], [22], [21], [20], [17], [13], [12], [11], [10], [9], [8], [7], [6], [2]</div>
     </li>
-    <li><strong><em>10 publications</em></strong> in journals indexed in the <strong><em>Chartered Association of Business Schools (ABS) Academic Journal Guide (AJG 2024)</em></strong>:
+    <li><strong><em>11 publications</em></strong> in journals indexed in the <strong><em>Chartered Association of Business Schools (ABS) Academic Journal Guide (AJG 2024)</em></strong>:
       <ul>
-        <li><strong><em>Grade 3</em></strong> (4 articles): [34], [28], [24], [23]</li>
-        <li><strong><em>Grade 2</em></strong> (5 articles): [33], [29], [27], [17], [15]</li>
-        <li><strong><em>Grade 1</em></strong> (2 articles): [12], [6]</li>
+        <li><strong><em>Grade 3</em></strong> (<strong>4 articles</strong>): [34], [28], [24], [23]</li>
+        <li><strong><em>Grade 2</em></strong> (<strong>5 articles</strong>): [33], [29], [27], [17], [15]</li>
+        <li><strong><em>Grade 1</em></strong> (<strong>2 articles</strong>): [12], [6]</li>
       </ul>
+    </li>
+    <li><strong><em>10 publications </em></strong> in journals indexed in the <strong><em>National Library of Medicine PubMed list</em></strong>:  
+      <div style="margin-left: 1.5em;"> [31], [18], [16], [15], [14], [13], [5], [4], [3], [1]</div>
     </li>
     </ul>
 </div>

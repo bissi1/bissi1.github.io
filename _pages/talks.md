@@ -11,13 +11,13 @@ classes: full
 ### Distinguished Lectures
 <ol reversed class="compact-ol">
   <li>
-    <em>Honorary lecture</em>, Distinguished Research Fellowship, 
+    Honorary lecture, Distinguished Research Fellowship, 
     <a href="https://tu-dresden.de/bu/wirtschaft/die-fakultaet/news/auszeichnung-von-associate-professor-bismark-singh-als-distinguished-research-fellow">
       TU Dresden, Germany 2024
     </a>.
   </li>
   <li>
-    <em>Plenary lecture</em>, 
+   Plenary lecture, 
     <a href="https://iscdfams.com/iscdfams-2022/">
       International Symposium on Current Developments in Fundamental and Applied Mathematics Sciences (online) 2022
     </a>.
