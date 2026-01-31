@@ -26,8 +26,7 @@ Meine Forschung wurde unter anderem von der Deutsche Forschungsgemeinschaft (DFG
 
 ### Neueste Nachrichten
 
-🎉 **Medienberichte**: 
-
+🎉 **Medienberichte**:
 –   Glückwunsch an meinen Studenten Zheng Sun zum Gewinn des 2. Platzes beim <a href="https://www.informs.org/Publications/OR-MS-Tomorrow/OR-MS-Tomorrow-Mini-Poster-Competition-2025" style="text-decoration: none;">INFORMS 2025 OR/MS Tomorrow Mini-Poster-Wettbewerb</a>. Zhengs Abschlussarbeit zur Anwendung von Standortplanungsproblemen auf die Recyclingzentren in Hampshire wurde weiterentwickelt und zu einer Arbeit ausgebaut, die sich derzeit im Peer-Review-Verfahren für eine Veröffentlichung befindet.
 -   Glückwunsch an meine Studentin Malena Schmidt zum Gewinn des <a href="https://www.vvsor.nl/articles/hemelrijk-award-winner-2025/" style="text-decoration: none;">Hemelrijk-Preises 2025</a> der Niederländischen OR-Gesellschaft für die beste Masterarbeit. Malenas außergewöhnliche Arbeit führte zu zwei Artikeln im *INFORMS Journal on Computing* und in *Networks*. 
 
@@ -38,7 +37,7 @@ Meine Forschung wurde unter anderem von der Deutsche Forschungsgemeinschaft (DFG
   - <a href="https://scholar.google.com/citations?user=M6RoyZAAAAAJ&hl=en" style="text-decoration: none;">Dr. Hongtao Wang</a> tritt meiner Gruppe als neuer Postdoc bei. Er wird an diskreter Optimierung mit Anwendungen im Gesundheitswesen arbeiten. Willkommen!
   - *Offene Einladung*: Ich heiße talentierte und mathematisch starke Studierende oder Postdocs aus aller Welt stets willkommen, um meinem Forschungsteam beizutreten oder an spannenden Projekten mitzuwirken. <a href="/research/" style="text-decoration: none;">Entdecken →</a>
   
-🎉 **Neueste Veröffentlichungen**: 
+🎉 **Neueste Veröffentlichungen**:
 
   – Jan. 2026: Ich habe das IIT Delhi, das IIT Goa und das IIT Bombay besucht und mich mit Studierenden und Fakultätsmitgliedern ausgetauscht. Mehrere spannende gemeinsame studentische Abschlussarbeiten und Forschungsprojekte zur stochastischen Optimierung sind in Vorbereitung. Bleiben Sie gespannt!
   – Dez. 2025: Meine Arbeit zur Analyse der erstmals verfügbaren Mobilitätsdaten der indischen Volkszählung ist in <a href="https://link.springer.com/article/10.1007/s10479-025-06972-3" style="text-decoration: none;">Annals of Operations Research</a> erschienen.
