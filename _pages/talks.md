@@ -28,6 +28,16 @@ classes: full
 
 <ol reversed class="compact-ol">
   <li>
+    <div class="row"><div class="talk-left">Department of Mathematics, Cochin University of Science and Technology,  India</div><div class="talk-right">2026</div></div>
+  </li>
+  <li>
+  <li>
+    <div class="row"><div class="talk-left">Department of Mathematics, IIT Goa, India</div><div class="talk-right">2026</div></div>
+  </li>
+  <li>
+    <div class="row"><div class="talk-left">Department of Mathematics, IIT Delhi, India</div><div class="talk-right">2026</div></div>
+  </li>
+  <li>
     <div class="row"><div class="talk-left">Faculty of Physics, Mathematics &amp; Optometry, University of Latvia, Riga</div><div class="talk-right">2024</div></div>
   </li>
   <li>

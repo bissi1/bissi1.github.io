@@ -187,4 +187,4 @@ Several other small, but competitive, grants from agencies including the America
 </div>
 
 
-47 invited seminars, 30 conference talks, 10 chaired conference sessions, and 6 key talks.
+48 invited seminars, 30 conference talks, 10 chaired conference sessions, and 6 key talks.

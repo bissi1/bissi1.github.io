@@ -30,7 +30,7 @@ I publish in a diverse variety of journals reflecting the interdisciplinary natu
         <li><strong><em>Grade 1</em></strong> (<strong>2 articles</strong>): [12], [6]</li>
       </ul>
     </li>
-    <li><strong><em>10 publications </em></strong> in journals indexed in the <strong><em>National Library of Medicine PubMed list</em></strong>:  
+    <li><strong><em>10 publications</em></strong> in journals indexed in the <strong><em>National Library of Medicine PubMed list</em></strong>:  
       <div style="margin-left: 1.5em;"> [31], [18], [16], [15], [14], [13], [5], [4], [3], [1]</div>
     </li>
     </ul>

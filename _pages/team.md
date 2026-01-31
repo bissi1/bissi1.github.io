@@ -45,6 +45,8 @@ My team is academically diverse, with members spanning a variety of ***interdisc
     <li><em>Article in <a href="https://www.researchgate.net/publication/395703168_Measuring_the_Economic_Value_of_Wind-Solar_Complementarity_in_Europe_Using_Chance_Constraints" style="text-decoration: none;">peer-review</a></em></li>
   </ul>
 </li>
+<li> Astha Lohia (Mathematics), IIT Delhi, India (joint with Prof. Vikas Vikram Singh) </li>
+<li> Astha Chaudhary (Mathematics), IIT Delhi, India (joint with Prof. Vikas Vikram Singh) </li>
 </ul>
 </div>
 
