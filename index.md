@@ -53,9 +53,9 @@ My research has been funded by, among others, the German Research Foundation (DF
   - In December 2024, I delivered a Distinguished Lecture at the <a href="https://www.casus.science/?page_id=12281" style="text-decoration: none;">Centre for Advanced Systems Understanding (CASUS)</a>, Helmholtz, Görlitz, Germany.
 
 🎉 **Invited Visits and Lectures**: 
-    - January 2026: I visited IIT Delhi, IIT Goa, and IIT Bombay engaging with students and faculty. We have several exciting joint student theses and research works in stochastic optimization coming up. Stay tuned! 
-   - December 2025: Dr. Hamed Rahimian, assistant professor at Clemson University (US), will visit me at Southampton for a month as part of my successful Heilbronn International Visitors Scheme proposal. We will work on stochastic/robust extensions of some of my work on facility location problems.
-  - September 2024: Organized a week-long seminar at <a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24399" style="text-decoration: none;">Schloss Dagstuhl</a> on reliable decision-making under uncertainty.
+  -   January 2026: I visited IIT Delhi, IIT Goa, and IIT Bombay engaging with students and faculty. We have several exciting joint student theses and research works in stochastic optimization coming up. Stay tuned! 
+  -   December 2025: Dr. Hamed Rahimian, assistant professor at Clemson University (US), will visit me at Southampton for a month as part of my successful Heilbronn International Visitors Scheme proposal. We will work on stochastic/robust extensions of some of my work on facility location problems.
+  -   September 2024: Organized a week-long seminar at <a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24399" style="text-decoration: none;">Schloss Dagstuhl</a> on reliable decision-making under uncertainty.
   -   TU Dresden published an <a href="https://tu-dresden.de/bu/wirtschaft/forschung/interview-bismark-singh" style="text-decoration: none;">interview</a> from my visiting professorship.
   -   University of Bayreuth published an <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/interview_Singh/index.html" style="text-decoration: none;">interview</a> from my Humbolt-Centre research visit.
   - September 2024: Research visit to the Faculty of Mathematics, University of Latvia, Riga.
