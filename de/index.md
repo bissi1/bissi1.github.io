@@ -40,6 +40,7 @@ Meine Forschung wurde unter anderem von der Deutsche Forschungsgemeinschaft (DFG
   
 🎉 **Neueste Veröffentlichungen**: 
 
+  – Jan. 2026: Ich habe das IIT Delhi, das IIT Goa und das IIT Bombay besucht und mich mit Studierenden und Fakultätsmitgliedern ausgetauscht. Mehrere spannende gemeinsame studentische Abschlussarbeiten und Forschungsprojekte zur stochastischen Optimierung sind in Vorbereitung. Bleiben Sie gespannt!
   – Dez. 2025: Meine Arbeit zur Analyse der erstmals verfügbaren Mobilitätsdaten der indischen Volkszählung ist in <a href="https://link.springer.com/article/10.1007/s10479-025-06972-3" style="text-decoration: none;">Annals of Operations Research</a> erschienen.
   - Nov. 2025: Meine Arbeit (gemeinsam mit meinem ehemaligen Studenten) ist nun in den in <a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="text-decoration: none;">Discrete Applied Mathematics</a> erschienen. Darin geben wir eine seltene geschlossene Untere-Schranke für eine Klasse von quadratischen Minimierungsfunktionen über einer diskreten polyedrischen Menge an.
   - Nov. 2025: Meine neue Arbeit (mit Francesca Maggioni als gemeinsame Betreuerin von Gabriele Marchesi) wurde nun für den kommenden <a href="https://mlxor-workshop.github.io/#papers" style="text-decoration: none;">NeurIPS MLxOR Workshop</a> angenommen. Dies ist mein erstes Mal auf einer NeurIPS-Veranstaltung!
