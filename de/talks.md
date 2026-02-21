@@ -45,7 +45,6 @@ classes: full
     <div class="row"><div class="talk-left">Department of Mathematics, Indian Institute of Technology (IIT) Delhi, Indien</div><div class="talk-right">2026</div></div>
   </li>
   <li>
-  <li>
     <div class="row"><div class="talk-left">Faculty of Physics, Mathematics &amp; Optometry, University of Latvia, Riga, Lettland</div><div class="talk-right">2024</div></div>
   </li>
   <li>
@@ -88,7 +87,7 @@ classes: full
     <div class="row"><div class="talk-left">College of Mathematical Sciences, Harbin Engineering University, China (online)</div><div class="talk-right">2022</div></div>
   </li>
   <li>
-    <div class="row"><div class="talk-left">Fakultät für Physik, Mathematik &amp; Optometrie, Universität Lettlands, Riga</div><div class="talk-right">2022</div></div>
+    <div class="row"><div class="talk-left">Fakultät für Physik, Mathematik &amp; Optometrie, Universität Lettland, Riga</div><div class="talk-right">2022</div></div>
   </li>
   <li>
     <div class="row"><div class="talk-left">Fakultät für Mathematik und Physik, Karls-Universität, Prag, Tschechische Republik</div><div class="talk-right">2022</div></div>

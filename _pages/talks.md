@@ -34,7 +34,7 @@ classes: full
     <div class="row"><div class="talk-left">Operations and Decision Sciences, Indian Institute of Management (IIM) Ahmedabad,  India</div><div class="talk-right">2026</div></div>
   </li>
   <li>
-    <div class="row"><div class="talk-left">Department of Industrial Engineering &amp Operations, Indian Institute of Technology (IIT) Bombay,  India</div><div class="talk-right">2026</div></div>
+    <div class="row"><div class="talk-left">Department of Industrial Engineering &amp; Operations, Indian Institute of Technology (IIT) Bombay,  India</div><div class="talk-right">2026</div></div>
   </li>
   <li>
     <div class="row"><div class="talk-left">Department of Mathematics, Cochin University of Science and Technology,  India</div><div class="talk-right">2026</div></div>
