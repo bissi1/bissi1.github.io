@@ -28,7 +28,25 @@ classes: full
 
 <ol reversed class="compact-ol">
   <li>
-    <div class="row"><div class="talk-left">Fakultät für Physik, Mathematik &amp; Optometrie, Universität Lettlands, Riga</div><div class="talk-right">2024</div></div>
+    <div class="row"><div class="talk-left">Operations Management, Indian School of Business (ISB) Hyderabad,  Indien</div><div class="talk-right">2026</div></div>
+  </li>
+  <li>
+    <div class="row"><div class="talk-left">Operations and Decision Sciences, Indian Institute of Management (IIM) Ahmedabad,  Indien</div><div class="talk-right">2026</div></div>
+  </li>
+  <li>
+    <div class="row"><div class="talk-left">Department of Industrial Engineering &amp Operations, Indian Institute of Technology (IIT) Bombay,  Indien</div><div class="talk-right">2026</div></div>
+  </li>
+  <li>
+    <div class="row"><div class="talk-left">Department of Mathematics, Cochin University of Science and Technology,  Indien</div><div class="talk-right">2026</div></div>
+  <li>
+    <div class="row"><div class="talk-left">Department of Mathematics, Indian Institute of Technology (IIT) Goa, Indien</div><div class="talk-right">2026</div></div>
+  </li>
+  <li>
+    <div class="row"><div class="talk-left">Department of Mathematics, Indian Institute of Technology (IIT) Delhi, Indien</div><div class="talk-right">2026</div></div>
+  </li>
+  <li>
+  <li>
+    <div class="row"><div class="talk-left">Faculty of Physics, Mathematics &amp; Optometry, University of Latvia, Riga, Lettland</div><div class="talk-right">2024</div></div>
   </li>
   <li>
     <div class="row"><div class="talk-left">Center for Systems Biology Dresden, Max-Planck-Gesellschaft, Deutschland</div><div class="talk-right">2024</div></div>
