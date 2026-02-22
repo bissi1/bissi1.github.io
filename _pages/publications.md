@@ -33,9 +33,9 @@ I publish in a diverse variety of journals reflecting the interdisciplinary natu
     <li><strong><em>10 publications</em></strong> in journals indexed in the 
     <strong><em>Australian Business Deans Council (ABDC) Journal Quality List (2025 Proposed Rating)</em></strong>:
     <ul>
-      <li><strong><em>A</em></strong> (<strong>4 articles</strong>): [34], [28], [24], [23]</li>
-      <li><strong><em>B</em></strong> (<strong>4 articles</strong>): [30], [29], [15], [12], [6]</li>
-      <li><strong><em>C</em></strong> (<strong>1 article</strong>): [27]</li>
+      <li><strong><em>Grade A</em></strong> (<strong>4 articles</strong>): [34], [28], [24], [23]</li>
+      <li><strong><em>Grade B</em></strong> (<strong>4 articles</strong>): [30], [29], [15], [12], [6]</li>
+      <li><strong><em>Grade C</em></strong> (<strong>1 article</strong>): [27]</li>
     </ul>
     </li>
     <li><strong><em>10 publications</em></strong> in journals indexed in the <strong><em>National Library of Medicine PubMed list</em></strong>:  

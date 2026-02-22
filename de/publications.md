@@ -25,12 +25,12 @@ Ich veröffentliche in einer Vielzahl von Fachzeitschriften, die die interdiszip
     <li><strong><em>10 Publikationen</em></strong> in Zeitschriften, die in der 
     <strong><em>Australian Business Deans Council (ABDC) Journal Quality List (Proposed Rating 2025)</em></strong> gelistet sind:
     <ul>
-    <li><strong><em>A</em></strong> (<strong>5 Artikel</strong>): [34], [30], [28], [24], [23]</li>
-    <li><strong><em>B</em></strong> (<strong>4 Artikel</strong>): [29], [15], [12], [6]</li>
-    <li><strong><em>C</em></strong> (<strong>1 Artikel</strong>): [27]</li>
+    <li><strong><em>Grade A</em></strong> (<strong>5 Artikel</strong>): [34], [30], [28], [24], [23]</li>
+    <li><strong><em>Grade B</em></strong> (<strong>4 Artikel</strong>): [29], [15], [12], [6]</li>
+    <li><strong><em>Grade C</em></strong> (<strong>1 Artikel</strong>): [27]</li>
     </ul>
     </li>
-    <li><strong><em>11 Publikationen</em></strong> in Zeitschriften, die in der <strong><em>Academic Journal Guide der Chartered Association of Business Schools (ABS AJG 2024)</em></strong> gelistet sind:
+    <li><strong><em>11 Publikationen</em></strong> in Zeitschriften, die in der <strong><em>Academic Journal Guide (AJG 2024) der Chartered Association of Business Schools (ABS)</em></strong> gelistet sind:
       <ul>
         <li><strong><em>Grade 3</em></strong> (<strong>4 Artikel</strong>): [34], [28], [24], [23]</li>
         <li><strong><em>Grade 2</em></strong> (<strong>5 Artikel</strong>): [33], [29], [27], [17], [15]</li>
