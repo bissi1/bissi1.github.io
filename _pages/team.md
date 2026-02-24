@@ -6,7 +6,7 @@ classes: full
 ---
 
 
-I am always interested in working with **motivated students** and **postdoctoral researchers** looking for engaging research opportunities. Whether you’re looking for a BSc or MSc **thesis topic** (*Bachelorarbeit* or *Masterarbeit*), a *semester or summer project*, or a *PhD/postdoc* position, there are opportunities to contribute to impactful research both in person and online under my guidance.  
+I am always interested in working with motivated students and postdoctoral researchers looking for engaging research opportunities. Whether you’re looking for a BSc or MSc thesis topic (*Bachelorarbeit* or *Masterarbeit*), a semester or summer project, or a PhD/postdoc position, there are opportunities to contribute to impactful research both in person and online under my guidance.  
 
 Over the years, I have supervised exceptional BSc, MSc, PhD students, and postdocs, nearly all of whom published their work in high-quality operations research (OR) journals early in their careers. Examples of past thesis topics and corresponding publications are provided on my <a href="/publications/" style="text-decoration: none;">Publications</a> page.
 
@@ -19,7 +19,7 @@ If you are highly talented and demonstrate exceptional potential, funding option
 ## Research Opportunities
 
 ### Key Requirements
-A strong ***technical background*** is expected, as evidenced by ***excellent grades*** in relevant courses. Most importantly, you should have a willingness to work hard and a passion for research.
+A strong technical background is expected, as evidenced by excellent grades in relevant courses. Most importantly, you should have a willingness to work hard and a passion for research.
 
 ### PhD Positions
 If you're interested in pursuing a PhD in OR with me at the University of Southampton, please apply directly through the <a href="https://www.southampton.ac.uk/study/postgraduate-research/apply"> University’s website</a>. As the Postgraduate Research Coordinator for the OR group, I will evaluate your application.
