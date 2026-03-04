@@ -74,7 +74,7 @@ Publications co-authored with <strong><em>my students</em></strong> are indicate
 <div class="square-bullets">
 <ul>
 <li>[35] B. Singh "On the resolution of ties in fair convex allocation programs".<br>
-  In: <a href="https://link.springer.com/article/10.1007/s10479-025-06972-3" style="color: #0066cc; text-decoration: none;"><i>Journal of Convex Analysis (to appear)</i></a></li>
+  In: <a href="https://www.heldermann.de/JCA/jcacover.htm" style="color: #0066cc; text-decoration: none;"><i>Journal of Convex Analysis (to appear)</i></a></li>
 </ul>
 </div>
 

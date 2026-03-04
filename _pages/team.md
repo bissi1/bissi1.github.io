@@ -46,7 +46,7 @@ My team is academically diverse, with members spanning a variety of ***interdisc
   </ul>
 </li>
 <li> Astha Lohia (Mathematics), IIT Delhi, India (joint with Prof. Vikas Vikram Singh) </li>
-<li> Astha Chaudhary (Mathematics), IIT Delhi, India (joint with Prof. Vikas Vikram Singh) </li>
+<li> Akshat Chaudhary (Mathematics), IIT Delhi, India (joint with Prof. Vikas Vikram Singh) </li>
 </ul>
 </div>
 
