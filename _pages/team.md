@@ -12,7 +12,7 @@ Over the years, I have supervised exceptional BSc, MSc, PhD students, and postdo
 
 ## Research Focus Areas
 
-I welcome topics in quantitative disciplines, especially **discrete optimization**, with applications in: sustainability, waste management, infectious disease outbreaks, artificial intelligence (AI), or energy management. Other topics are also possible. If you are interested in joining my team, please send me an email with your CV and transcript. 
+I welcome topics in quantitative disciplines, especially discrete optimization, with applications in: sustainability, waste management, infectious disease outbreaks, artificial intelligence (AI), or energy management. Other topics are also possible. If you are interested in joining my team, please send me an email with your CV and transcript. 
 
 If you are highly talented and demonstrate exceptional potential, funding options may be available to support your research (e.g., the Commonwealth Scholarship or the Marie Curie Postdoctoral Fellowship).
 
