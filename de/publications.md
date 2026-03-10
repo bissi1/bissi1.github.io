@@ -49,6 +49,7 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 
 <div class="square-bullets"> 
   <ul>
+    <li>[R13] S. Zeller, B. Singh, S. Rebennack "Action sparsity in Markov decision processes and stochastic dynamic programming: SAA-guided policy pre-training and pumped-hydro bidding".</li>
     <li>[R12] Y. Cheng, Z. Deng, P. Wang, B. Singh "Optimal procurement auctions in dynamic stochastic environments".</li>
     <li>[R11] M. Hendrych, M. Kopa, B. Singh "Fairness axioms and stochastic bilevel optimization in vaccine reimbursement allocation".</li>
     <li>[R10] B. Singh "Supermodularity, curvature, and convex relaxations in a class of quadratic binary optimization problems".</li>

@@ -38,9 +38,9 @@ My team is academically diverse, with members spanning a variety of ***interdisc
 
 <div class="square-bullets">
 <ul>
-<li>Dr. Hongtao Wang (Mathematics), University of Southampton, UK</li>
 <li>Montree Jaidee (Operations Research), University of Southampton, UK  
   <ul>
+    <li>Finalist, <a href="https://www.smithinst.co.uk/takeaim/" style="text-decoration: none;">TakeAim competition 2026 by Smith Institute</a></li>
     <li><em>Article in <a href="https://optimization-online.org/2024/09/the-prime-programming-problem-formulations-and-solution-methods/" style="text-decoration: none;">peer-review</a></em></li>
     <li><em>Article in <a href="https://www.researchgate.net/publication/395703168_Measuring_the_Economic_Value_of_Wind-Solar_Complementarity_in_Europe_Using_Chance_Constraints" style="text-decoration: none;">peer-review</a></em></li>
   </ul>
@@ -56,6 +56,8 @@ My team is academically diverse, with members spanning a variety of ***interdisc
 
 <div class="square-bullets">
 <ul>
+<li>Simon Zeller (Operations Research), Karlsruhe Institute of Technology, Germany</li>
+<li>Dr. Hongtao Wang (Mathematics), University of Southampton, UK</li>
 <li>Thi Nguyen (Business), University of Southampton, UK</li>
 <li>Dr. Sher Singh (Economics), University of Southampton, UK</li>
 <li>Zheng Sun (Mathematics), University of Southampton, UK
