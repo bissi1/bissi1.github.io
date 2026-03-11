@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Gallery"
 layout: single
 permalink: /de/honors/
 lang: de
@@ -136,6 +136,28 @@ classes: honors page-honors
 }
 
 </style>
+
+<!-- UoS and St Johns Row: 2 Images -->
+<div class="full-width-container content-block">
+  <div class="image-row layout-two">
+    <div class="image-col">
+      <div class="image-wrapper">
+        <img src="/assets/images/uosd.jpg" alt="uosd event" style ="height: 430px; width: 800px;">
+      </div>
+      <div class="image-caption">
+        Eingeladener Gastvortrag am <a href="https://www.linkedin.com/company/university-of-southampton-delhi/posts/?feedView=all" target="_blank">Delhi-Campus der University of Southampton</a> (2026).
+      </div>
+    </div>
+    <div class="image-col">
+      <div class="image-wrapper">
+        <img src="/assets/images/stjohns.jpg" alt="stjohns event" style ="height: 430px; width: auto;">
+      </div>
+      <div class="image-caption">
+        Outreach-Aktivität mit Lehrkräften der <a href="https://www.stjohnschandigarh.com/" target="_blank">St. Johns High School</a> in Chandigarh (2026).
+      </div>
+    </div>
+  </div>
+</div>
 
 <!-- First Row: 2 Images with Shared Caption + 1 Separate -->
 <div class="full-width-container content-block">
