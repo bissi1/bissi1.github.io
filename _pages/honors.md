@@ -145,7 +145,7 @@ classes: honors page-honors
         <img src="/assets/images/uosd.jpg" alt="uosd event" style ="height: 430px; width: 800px;">
       </div>
       <div class="image-caption">
-        <a href="https://www.linkedin.com/company/university-of-southampton-delhi/posts/?feedView=all" target="_blank">Invited guest lecture at University of Southampton's Delhi campus</a> (2026).
+        Invited guest lecture at <a href="https://www.linkedin.com/company/university-of-southampton-delhi/posts/?feedView=all" target="_blank"> University of Southampton's Delhi</a> campus (2026).
       </div>
     </div>
     <div class="image-col">
@@ -153,7 +153,7 @@ classes: honors page-honors
         <img src="/assets/images/stjohns.jpg" alt="stjohns event" style ="height: 430px; width: auto;">
       </div>
       <div class="image-caption">
-        Outreach engagement with teachers at the <a href="https://www.stjohnschandigarh.com/" target="_blank">St. Johns High School</a> Chandigarh (2026).
+        Outreach engagement with teachers at <a href="https://www.stjohnschandigarh.com/" target="_blank">St. Johns High School</a> Chandigarh (2026).
       </div>
     </div>
   </div>
