@@ -142,7 +142,7 @@ classes: honors page-honors
   <div class="image-row layout-two">
     <div class="image-col">
       <div class="image-wrapper">
-        <img src="/assets/images/uosd.jpg" alt="uosd event" style="height: 100%; width: 800px;">
+        <img src="/assets/images/uosd.jpg" alt="uosd event" style ="height: 430px; width: 800px;">
       </div>
       <div class="image-caption">
         Invited guest lecture at <a href="https://www.linkedin.com/company/university-of-southampton-delhi/posts/?feedView=all" target="_blank"> University of Southampton's Delhi</a> campus (2026).
