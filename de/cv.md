@@ -179,4 +179,5 @@ Mehrere weitere kleine, aber kompetitive Förderungen von Institutionen wie der 
 </ul>
 </div>
 
-46 eingeladene Seminare, 27 Konferenzvorträge, 10 geleitete Konferenzsitzungen und 6 Hauptvorträge.
+### Sprachen
+Englisch & Hindi (fließend), Russisch & Deutsch (Grundkenntnisse).
