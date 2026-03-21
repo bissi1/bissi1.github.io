@@ -186,6 +186,5 @@ Several other small, but competitive, grants from agencies including the America
 </ul>
 </div>
 
-### Languages
-English &amp; Hindi (fluent), Russian &amp; German (basic).
+**Languages**: English & Hindi (fluent), Russian & German (basic).
 

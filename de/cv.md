@@ -179,5 +179,4 @@ Mehrere weitere kleine, aber kompetitive Förderungen von Institutionen wie der 
 </ul>
 </div>
 
-### Sprachen
-Englisch & Hindi (fließend), Russisch & Deutsch (Grundkenntnisse).
+**Sprachen**: Englisch & Hindi (fließend), Russisch & Deutsch (Grundkenntnisse).
