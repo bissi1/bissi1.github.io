@@ -186,5 +186,6 @@ Several other small, but competitive, grants from agencies including the America
 </ul>
 </div>
 
+### Languages
+English &amp; Hindi (fluent), Russian &amp; German (basic).
 
-48 invited seminars, 30 conference talks, 10 chaired conference sessions, and 6 key talks.
