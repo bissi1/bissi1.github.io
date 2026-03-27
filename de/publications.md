@@ -49,18 +49,17 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 
 <div class="square-bullets"> 
   <ul>
-    <li>[R14] Shajeeb, J. Jacob, B. Singh, A. Krishnamoorthy "Product-form queueing-inventory systems with two types of negative customers".</li>
-    <li>[R13] S. Zeller, B. Singh, S. Rebennack "Action sparsity in Markov decision processes and stochastic dynamic programming: SAA-guided policy pre-training and pumped-hydro bidding".</li>
-    <li>[R12] Y. Cheng, Z. Deng, P. Wang, B. Singh "Optimal procurement auctions in dynamic stochastic environments".</li>
-    <li>[R11] M. Hendrych, M. Kopa, B. Singh "Fairness axioms and stochastic bilevel optimization in vaccine reimbursement allocation".</li>
-    <li>[R10] B. Singh "Supermodularity, curvature, and convex relaxations in a class of quadratic binary optimization problems".</li>
-    <li>[R9] P. Bharati, V. Laha, B. Singh "Robust optimality for nonsmooth mathematical programs with equilibrium constraints under data uncertainty".</li>
-    <li>[R8] M. Jaidee<sup>(*)</sup>, Z. Sun<sup>(*)</sup>, S. Singh, T. Nguyen<sup>(*)</sup>, B. Singh "Optimizing Household Waste Recycling Centre network rationalization in Hampshire".</li>
-    <li>[R7] M. Jaidee<sup>(*)</sup>, B. Singh "Measuring the economic value of wind–solar complementarity in Europe using chance constraints".</li>
-    <li>[R6] A. Thoma, E. Papadaki, B. Singh "From coding assistant to reasoning partner? GenAI in the modeling phase of operations research (OR) education".</li>
-    <li>[R5] A. Saifutdinova, S. Reshetnikova<sup>(*)</sup>, B. Singh "Optimizing petroleum distribution in the Volga-Urals: The case of Bashkirnefteprodukt".</li>
-    <li>[R4] T. Roberts<sup>(*)</sup>, I. Williams, S. Jones, B. Singh "Designing emotive visual campaigns: A data-driven study of artwork and pro-environmental intent".</li>
-    
+    <li>[R13] Shajeeb, J. Jacob, B. Singh, A. Krishnamoorthy "Product-form queueing-inventory systems with two types of negative customers".</li>
+    <li>[R12] S. Zeller, B. Singh, S. Rebennack "Action sparsity in Markov decision processes and stochastic dynamic programming: SAA-guided policy pre-training and pumped-hydro bidding".</li>
+    <li>[R11] Y. Cheng, Z. Deng, P. Wang, B. Singh "Optimal procurement auctions in dynamic stochastic environments".</li>
+    <li>[R10] M. Hendrych, M. Kopa, B. Singh "Fairness axioms and stochastic bilevel optimization in vaccine reimbursement allocation".</li>
+    <li>[R9] B. Singh "Supermodularity, curvature, and convex relaxations in a class of quadratic binary optimization problems".</li>
+    <li>[R8] P. Bharati, V. Laha, B. Singh "Robust optimality for nonsmooth mathematical programs with equilibrium constraints under data uncertainty".</li>
+    <li>[R7] M. Jaidee<sup>(*)</sup>, Z. Sun<sup>(*)</sup>, S. Singh, T. Nguyen<sup>(*)</sup>, B. Singh "Optimizing Household Waste Recycling Centre network rationalization in Hampshire".</li>
+    <li>[R6] M. Jaidee<sup>(*)</sup>, B. Singh "Measuring the economic value of wind–solar complementarity in Europe using chance constraints".</li>
+    <li>[R5] A. Thoma, E. Papadaki, B. Singh "From coding assistant to reasoning partner? GenAI in the modeling phase of operations research (OR) education".</li>
+    <li>[R4] A. Saifutdinova, S. Reshetnikova<sup>(*)</sup>, B. Singh "Optimizing petroleum distribution in the Volga-Urals: The case of Bashkirnefteprodukt".</li>
+    <li>[R3] T. Roberts<sup>(*)</sup>, I. Williams, S. Jones, B. Singh "Designing emotive visual campaigns: A data-driven study of artwork and pro-environmental intent".</li>
     <li>[R2] B. Singh, A. Dubickas "Constrained enumeration of lucky tickets: Prime digits, uniqueness, and greedy heuristics".</li>
     <li>[R1] M. Jaidee<sup>(*)</sup>, B. Singh "The prime programming problem: Formulations and solution methods".</li>
   </ul>
