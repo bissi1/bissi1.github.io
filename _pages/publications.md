@@ -14,14 +14,14 @@ I publish in a diverse variety of journals reflecting the interdisciplinary natu
 
 <div class="square-bullets">
   <ul>
-    <li><strong><em>19 publications</em></strong> in journals indexed in the <strong><em>2024 German VHB</em></strong> Rating for Operations Research (OR):
+    <li><strong><em>20 publications</em></strong> in journals indexed in the <strong><em>2024 German VHB</em></strong> Rating for Operations Research (OR):
       <ul>
         <li><strong><em>A-rated</em></strong>: [33], [30], [28], [25], [24], [23], [15], [9]</li>
-        <li><strong><em>B-rated</em></strong>: [34], [31], [29], [27], [21], [12], [11], [10], [7], [6], [5]</li>
+        <li><strong><em>B-rated</em></strong>: [36], [34], [31], [29], [27], [21], [12], [11], [10], [7], [6], [5]</li>
       </ul>
     </li>
-    <li><strong><em>21 publications</em></strong> in journals indexed in the 2023 <strong><em>AMS MathSciNet list</em></strong>:  
-      <div style="margin-left: 1.5em;">[35], [34], [33], [32], [28], [26], [25], [24], [23], [22], [21], [20], [17], [13], [12], [11], [10], [9], [8], [7], [6], [2]</div>
+    <li><strong><em>22 publications</em></strong> in journals indexed in the 2023 <strong><em>AMS MathSciNet list</em></strong>:  
+      <div style="margin-left: 1.5em;">[36], [35], [34], [33], [32], [28], [26], [25], [24], [23], [22], [21], [20], [17], [13], [12], [11], [10], [9], [8], [7], [6], [2]</div>
     </li>
     <li><strong><em>11 publications</em></strong> in journals indexed in the <strong><em>Chartered Association of Business Schools (ABS) Academic Journal Guide (AJG 2024)</em></strong>:
       <ul>
