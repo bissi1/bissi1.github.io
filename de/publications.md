@@ -60,7 +60,7 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
     <li>[R6] A. Thoma, E. Papadaki, B. Singh "From coding assistant to reasoning partner? GenAI in the modeling phase of operations research (OR) education".</li>
     <li>[R5] A. Saifutdinova, S. Reshetnikova<sup>(*)</sup>, B. Singh "Optimizing petroleum distribution in the Volga-Urals: The case of Bashkirnefteprodukt".</li>
     <li>[R4] T. Roberts<sup>(*)</sup>, I. Williams, S. Jones, B. Singh "Designing emotive visual campaigns: A data-driven study of artwork and pro-environmental intent".</li>
-    <li>[R3] Y. Akbulut, B. Singh "On the optimal control of initial velocity in a hyperbolic beam equation by the variational method".</li>
+    
     <li>[R2] B. Singh, A. Dubickas "Constrained enumeration of lucky tickets: Prime digits, uniqueness, and greedy heuristics".</li>
     <li>[R1] M. Jaidee<sup>(*)</sup>, B. Singh "The prime programming problem: Formulations and solution methods".</li>
   </ul>
@@ -73,6 +73,8 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 ### 2026
 <div class="square-bullets">
 <ul>
+<li>[36] Y. Akbulut, B. Singh "On the optimal control of initial velocity in a hyperbolic beam equation by the variational method".<br>
+  In: <a href="https://arxiv.org/abs/2502.04936" style="color: #0066cc; text-decoration: none;"><i>Optimization Letters (to appear)</i></a></li>
 <li>[35] B. Singh "On the resolution of ties in fair convex allocation programs".<br>
   In: <a href="https://www.heldermann.de/JCA/jcacover.htm" style="color: #0066cc; text-decoration: none;"><i>Journal of Convex Analysis (to appear)</i></a></li>
 </ul>
