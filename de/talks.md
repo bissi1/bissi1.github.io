@@ -179,4 +179,4 @@ classes: full
   <li>
     <div class="row"><div class="talk-left">Economics Department, Perm State University, Perm, Russland</div><div class="talk-right">2011</div></div>
   </li>
-</ol>
+</li> </ol>
