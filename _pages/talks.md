@@ -28,6 +28,9 @@ classes: full
 
 <ol reversed class="compact-ol">
   <li>
+    <div class="row"><div class="talk-left">Operations Management, Chinese Academy of Sciences, China</div><div class="talk-right">2026</div></div>
+  </li>
+  <li>
     <div class="row"><div class="talk-left">Operations Management, Indian School of Business (ISB) Hyderabad,  India</div><div class="talk-right">2026</div></div>
   </li>
   <li>
