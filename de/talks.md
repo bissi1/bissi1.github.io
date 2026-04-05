@@ -28,6 +28,9 @@ classes: full
 
 <ol reversed class="compact-ol">
   <li>
+    <div class="row"><div class="talk-left">Institute of Computational Mathematics and Scientific/Engineering Computing, Chinese Academy of Sciences, China</div><div class="talk-right">2026</div></div>
+  </li>
+  <li>
     <div class="row"><div class="talk-left">Operations Management, Indian School of Business (ISB) Hyderabad,  Indien</div><div class="talk-right">2026</div></div>
   </li>
   <li>
