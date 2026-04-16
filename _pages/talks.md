@@ -54,6 +54,9 @@ classes: full
     <div class="row"><div class="talk-left">Department of Mathematics, Indian Institute of Technology (IIT) Delhi, India</div><div class="talk-right">2026</div></div>
   </li>
   <li>
+    <div class="row"><div class="talk-left">  Beijing Institute of Mathematical Sciences and Applications, China (online) </div><div class="talk-right">2025</div></div>
+  </li>
+  <li>
     <div class="row"><div class="talk-left">Faculty of Physics, Mathematics &amp; Optometry, University of Latvia, Riga</div><div class="talk-right">2024</div></div>
   </li>
   <li>
