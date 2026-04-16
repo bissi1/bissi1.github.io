@@ -28,6 +28,9 @@ classes: full
 
 <ol reversed class="compact-ol">
   <li>
+    <div class="row"><div class="talk-left">Department of Data and Systems Engineering, The University of Hong Kong, China</div><div class="talk-right">2026</div></div>
+  </li>
+  <li>
     <div class="row"><div class="talk-left">School of Business, Jiangnan University, China</div><div class="talk-right">2026</div></div>
   </li>
   <li>
