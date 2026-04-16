@@ -183,7 +183,7 @@ classes: full
     <div class="row"><div class="talk-left">Center for Energy Systems, Skoltech, Moskau, Russland</div><div class="talk-right">2015</div></div>
   </li>
   <li>
-    <div class="row"><div class="talk-left">Trapeznikov Institute for Control Sciences, Russische Akademie der Wissenschaften, Moskau, Russland</div><div class="talk-right">2015</div></div>
+    <div class="row"><div class="talk-left">Trapeznikov Institute for Control Sciences, Russian Academy of Sciences, Moskau, Russland</div><div class="talk-right">2015</div></div>
   </li>
   <li>
     <div class="row"><div class="talk-left">Department of Mathematics, Texas State University, San Marcos, USA</div><div class="talk-right">2014</div></div>
