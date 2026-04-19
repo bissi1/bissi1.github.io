@@ -73,7 +73,7 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 <div class="square-bullets">
 <ul>
 <li>[36] Y. Akbulut, B. Singh "On the optimal control of initial velocity in a hyperbolic beam equation by the variational method".<br>
-  In: <a href="https://arxiv.org/abs/2502.04936" style="color: #0066cc; text-decoration: none;"><i>Optimization Letters </i></a></li>
+  In: <a href="https://link.springer.com/article/10.1007/s11590-026-02296-8" style="color: #0066cc; text-decoration: none;"><i>Optimization Letters </i></a></li>
 <li>[35] B. Singh "On the resolution of ties in fair convex allocation programs".<br>
   In: <a href="https://www.heldermann.de/JCA/jcacover.htm" style="color: #0066cc; text-decoration: none;"><i>Journal of Convex Analysis (to appear)</i></a></li>
 </ul>
