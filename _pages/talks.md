@@ -28,6 +28,12 @@ classes: full
 
 <ol reversed class="compact-ol">
   <li>
+    <div class="row"><div class="talk-left">Department of Industrial Engineering, Tsinghua University, China</div><div class="talk-right">2026</div></div>
+  </li>
+  <li>
+    <div class="row"><div class="talk-left"> Institute of Systems Science, Chinese Academy of Sciences, China</div><div class="talk-right">2026</div></div>
+  </li>
+  <li>
     <div class="row"><div class="talk-left">Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, China</div><div class="talk-right">2026</div></div>
   </li>
   <li>
