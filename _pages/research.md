@@ -13,25 +13,10 @@ My research develops mathematical models and computational algorithms for decisi
   </ul>
 </div>
 
-My research is grounded in mathematical theory but always motivated by real-world challenges. Key application areas include public-health preparedness, infectious disease outbreaks, energy-system planning, sustainability, and resource allocation. Over the past decade, I have collaborations with governments, public agencies, and research institutes across the US, Europe, and Asia. 
+My research is grounded in mathematical theory but always motivated by real-world challenges. Key application areas include public-health preparedness, infectious disease outbreaks, energy-system planning, sustainability, and resource allocation (details below). Over the past 15 years, I have collaborated with governments, public agencies, and research institutes across the US, Europe, and Asia.
 
 <strong> Selected funding agencies and partners:</strong>
 <img src="/assets/images/funding.png" alt="Interdisciplinary Research" style="display:block; max-width:50%; height:auto; margin-bottom:1.5rem;">
-
-
-### Research Impact Areas
-My work is inherently <em>interdisciplinary</em>, driven by real-world challenges such as:
-<div class="square-bullets">
-  <ul>
-    <li><em>Energy Systems</em>: Designing resilient and sustainable energy infrastructures under uncertain demand and supply.</li>
-    <li><em>Pandemic Response</em>: Guiding healthcare policy to ensure fairness across populations and allocate scarce resources effectively.</li>
-    <li><em>Critical Risk Management</em>: Minimizing the socioeconomic impact of unforeseen man-made attacks or natural disasters.</li>
-    <li><em>Sustainable Waste Management</em>: Developing models for the efficient placement of recycling centers to promote environmental sustainability.</li>
-  </ul>
-</div>
-
-
-A unique aspect of my approach is modeling <em>subjective human behavior</em> within the decision-making process. This adds both complexity and realism to my models, bridging the gap between mathematical rigor and human-centric decision-making.
 
 ## Optimization Under Uncertainty
 

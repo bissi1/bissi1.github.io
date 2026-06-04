@@ -1,6 +1,6 @@
 ---
 title: "Interdisciplinary Research"
-permalink: /research/
+permalink: /research_old/
 layout: archive
 classes: full
 ---
