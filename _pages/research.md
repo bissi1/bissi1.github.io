@@ -5,7 +5,8 @@ layout: archive
 classes: full
 ---
 
-My research develops mathematical models and computational algorithms for decision-making under uncertainty. My particular interests are stochastic optimization, chance-constrained programming, fairness-aware methods, and large-scale discrete optimization. Two themes shape much of my work:
+My research develops mathematical models and computational algorithms for decision-making under uncertainty. My particular interests are stochastic optimization, chance-constrained programming, fairness-aware methods, and large-scale discrete optimization. 
+Two themes shape much of my work:
 <div class="square-bullets">
   <ul>
     <li><em>Optimization under uncertainty</em>: how to make high-stakes decisions when future information is imperfect?</li>
@@ -24,10 +25,14 @@ My research is grounded in mathematical theory but always motivated by real-worl
   <div class="research_subsection">
     <div class="research_subsection_text">
       <p>
-        This research represents a purely theoretical interest, in which I explore joint-chance constraints through the lens of <em>classical probability theory</em>. Specifically, I approach a joint-chance constraint as a union of sets and utilize classical probability bounds to constrain it effectively. Bounding the probability of the union of <em>n</em> events using joint probabilities of <em>k &lt; n</em> events has a rich history, dating back to the foundational work of Boole and Bonferroni.
+        Many important decisions must be made before future conditions are known. Examples include planning healthcare systems, designing energy infrastructure, allocating resources, or managing critical risks. My research investigates how optimization models can support such decisions while explicitly accounting for uncertainty.
       </p>
       <p>
-        What makes this line of probabilistic research particularly interesting is its application in optimization models. When these probabilistic bounds are incorporated into chance-constrained optimization models, they provide upper and lower bounds on the optimal objective function value, offering both computational and theoretical insights. <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span>
+      My specific focus is <em>chance-constrained optimization</em>, where decisions must satisfy guaranteed reliability requirements despite uncertain future outcomes. These models provide a mathematically rigorous framework for balancing risk and performance, but are often computationally challenging to solve.
+      </p>
+      <p>
+      I develop probabilistic bounds, stochastic programming formulations, and specialized algorithms for solving such problems. Particulary, my research derives tractable approximations of joint chance constraints to establish theoretical guarantees for large-scale optimization models.
+      <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span>
       </p>
     </div>
 
@@ -42,12 +47,17 @@ My research is grounded in mathematical theory but always motivated by real-worl
 
   <div class="inline-details" style="display: none; margin-top: 1em;">
     <p>
-      This interest originated during my PhD studies and matured further following my first major grant as Principal Investigator during my position at Sandia National Labs, US (2018). The grant from the US Department of Energy supported significant advancements in this domain, culminating in
-      <a href="https://link.springer.com/article/10.1007/s11590-019-01387-z">this paper</a> and a
-      <a href="https://link.springer.com/article/10.1007/s11590-020-01592-1">follow-up paper</a>.
+    This interest began during my doctoral studies and was further developed through a US Department of Energy grant awarded to me during my time at Sandia National Laboratories. A central theme has been the use of classical probability theory to derive stronger bounds for joint chance-constrained optimization models. 
     </p>
+
+  <p>
+  These questions connect classical results in probability with modern optimization. By exploiting probabilistic structure, we show that is often possible to construct computationally tractable approximations that provide provable bounds on optimal objective values. This work has resulted in several publications including
+<a href="https://link.springer.com/article/10.1007/s11590-019-01387-z">this article</a> and
+<a href="https://link.springer.com/article/10.1007/s11590-020-01592-1">its follow-up</a>.
+</p>
+
     <p>
-      Currently, this work is being extended collaboratively with my PhD student, focusing on deeper theoretical insights for bounding two-stage stochastic optimization models.
+     My current research is extending these ideas to broader classes of stochastic optimization models.
     </p>
   </div>
 </div>
