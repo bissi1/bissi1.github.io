@@ -43,17 +43,17 @@ My research is grounded in mathematical theory but always motivated by real-worl
 
   <div class="inline-details" style="display: none; margin-top: 1em;">
     <p>
-    This interest began during my doctoral studies and was further developed through a US Department of Energy grant awarded to me during my time at Sandia National Laboratories. A central theme has been the use of classical probability theory to derive stronger bounds for joint chance-constrained optimization models. 
+      This research originated during my doctoral studies and was significantly advanced through a US Department of Energy grant awarded during my time at Sandia National Laboratories. A central theme has been the development of new bounds for joint chance-constrained optimization models, drawing upon a line of research dating back to Boole, Bonferroni, Fréchet, and related classical results in probability theory.
     </p>
 
-  <p>
-  These questions connect classical results in probability with modern optimization. By exploiting probabilistic structure, we show that is often possible to construct computationally tractable approximations that provide provable bounds on optimal objective values. This work has resulted in several publications including
+    <p>
+    My work establishes connections between classical probability inequalities and practical stochastic optimization. While probability union bounds are traditionally evaluated according to how tightly they approximate the underlying chance constraint, my research demonstrates that stronger theoretical bounds on the constraint do not necessarily yield stronger optimization bounds in practice. Or, due to computational limitations, the best approximation of a feasible region may fail to produce the strongest bound on the optimal objective value. The resulting research has contributed to both probability theory and stochastic optimization. Two representative publications include
 <a href="https://link.springer.com/article/10.1007/s11590-019-01387-z">this article</a> and
 <a href="https://link.springer.com/article/10.1007/s11590-020-01592-1">its follow-up</a>.
 </p>
 
     <p>
-     My current research is extending these ideas to broader classes of stochastic optimization models.
+     My current work is extending these ideas to broader classes of stochastic optimization models, including ongoing research with my PhD student.
     </p>
   </div>
 </div>
