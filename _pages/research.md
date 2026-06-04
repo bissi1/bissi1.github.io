@@ -47,7 +47,7 @@ My research is grounded in mathematical theory but always motivated by real-worl
     </p>
 
     <p>
-    My work establishes connections between classical probability inequalities and practical stochastic optimization. While probability union bounds are traditionally evaluated according to how tightly they approximate the underlying chance constraint, my research demonstrates that stronger theoretical bounds on the constraint do not necessarily yield stronger optimization bounds in practice. Or, due to computational limitations, the best approximation of a feasible region may fail to produce the strongest bound on the optimal objective value. The resulting research has contributed to both probability theory and stochastic optimization. Two representative publications include
+    My work establishes connections between classical probability inequalities and practical stochastic optimization. While probability union bounds are traditionally evaluated according to how tightly they approximate the underlying chance constraint, my research demonstrates that stronger theoretical bounds on the constraint do not necessarily yield stronger objective bounds in practice. Or, due to computational limitations, the best approximation of a feasible region may fail to produce the strongest bound on the optimal objective value. The resulting research has contributed to both probability theory and stochastic optimization. Two representative publications include
 <a href="https://link.springer.com/article/10.1007/s11590-019-01387-z">this article</a> and
 <a href="https://link.springer.com/article/10.1007/s11590-020-01592-1">its follow-up</a>.
 </p>
