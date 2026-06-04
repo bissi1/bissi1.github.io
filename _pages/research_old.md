@@ -1,25 +1,19 @@
 ---
-title: "Research Portfolio"
+title: "Interdisciplinary Research"
 permalink: /research/
 layout: archive
 classes: full
 ---
 
-My research develops mathematical models and computational algorithms for decision-making under uncertainty. My particular interests are stochastic optimization, chance-constrained programming, fairness-aware methods, and large-scale discrete optimization. Two themes shape much of my work:
-<div class="square-bullets">
-  <ul>
-    <li><em>Optimization under uncertainty</em>: how to make high-stakes decisions when future information is imperfect?</li>
-    <li><em>Foundations of fairness</em>: how to characterize fairness axiomatically through a model's optimality conditions?</li>
-  </ul>
-</div>
+My primary research interest is advancing *data-driven decision-making under uncertainty*, with a particular focus on two-stage stochastic optimization. My approach balances theoretical novelty with application-driven impact, addressing complex *societal* and *environmental* challenges through the creative development of mathematical models. These models are often large-scale, typically requiring the design of specialized algorithms to enable computationally efficient solutions.
 
-My research is grounded in mathematical theory but always motivated by real-world challenges. Key application areas include public-health preparedness, infectious disease outbreaks, energy-system planning, sustainability, and resource allocation. Over the past decade, I have collaborations with governments, public agencies, and research institutes across the US, Europe, and Asia. 
+One central focus of my research is *chance-constrained optimization*, where the goal is to design systems that remain resilient even under extreme risk conditions. I work on developing specialized algorithms to solve such stochastic programs, ensuring both tractability and practicality. A second recurring theme is the development of new axiomatic definitions of fairness. Here, I seek to design continuous or discrete optimization models whose Karush–Kuhn–Tucker (KKT) optimality conditions lead to these fairness notions.
 
-<strong> Selected funding agencies and partners:</strong>
+<strong> Some agencies funding my research are:</strong>
 <img src="/assets/images/funding.png" alt="Interdisciplinary Research" style="display:block; max-width:50%; height:auto; margin-bottom:1.5rem;">
 
 
-### Research Impact Areas
+### Motivations and Applications
 My work is inherently <em>interdisciplinary</em>, driven by real-world challenges such as:
 <div class="square-bullets">
   <ul>
@@ -33,7 +27,7 @@ My work is inherently <em>interdisciplinary</em>, driven by real-world challenge
 
 A unique aspect of my approach is modeling <em>subjective human behavior</em> within the decision-making process. This adds both complexity and realism to my models, bridging the gap between mathematical rigor and human-centric decision-making.
 
-## Optimization Under Uncertainty
+## Probabilistic Bounds
 
 <div class="research_section_wrapper">
   <div class="research_subsection">
