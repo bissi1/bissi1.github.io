@@ -28,11 +28,7 @@ My research is grounded in mathematical theory but always motivated by real-worl
         Many important decisions must be made before future conditions are known. Examples include planning healthcare systems, designing energy infrastructure, allocating resources, or managing critical risks. My research investigates how optimization models can support such decisions while explicitly accounting for uncertainty.
       </p>
       <p>
-      My specific focus is <em>chance-constrained optimization</em>, where decisions must satisfy guaranteed reliability requirements despite uncertain future outcomes. These models provide a mathematically rigorous framework for balancing risk and performance, but are often computationally challenging to solve.
-      </p>
-      <p>
-      I develop probabilistic bounds, stochastic programming formulations, and specialized algorithms for solving such problems. Particulary, my research derives tractable approximations of joint chance constraints to establish theoretical guarantees for large-scale optimization models.
-      <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span>
+      My specific focus is <em>chance-constrained optimization</em>, where decisions must satisfy guaranteed reliability requirements despite uncertain future outcomes. These models provide a mathematically rigorous framework for balancing risk and performance, but are often computationally challenging to solve. My work develops approximations of joint chance constraints to establish theoretical guarantees for such stochastic optimization models. <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span>      
       </p>
     </div>
 
