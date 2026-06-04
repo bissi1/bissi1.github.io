@@ -43,11 +43,11 @@ My research is grounded in mathematical theory but always motivated by real-worl
 
   <div class="inline-details" style="display: none; margin-top: 1em;">
     <p>
-      This research originated during my doctoral studies and was significantly advanced through a US Department of Energy grant awarded during my time at Sandia National Laboratories. A central theme has been the development of new bounds for joint chance-constrained optimization models, drawing upon a line of research dating back to Boole, Bonferroni, Fréchet, and related classical results in probability theory.
+      This research originated during my doctoral studies and was significantly advanced through a US Department of Energy grant awarded during my time at Sandia National Laboratories. A central theme is the development of new bounds for joint chance-constrained optimization models, drawing upon a line of research dating back to Boole, Bonferroni, Fréchet, and related classical results in probability theory.
     </p>
 
     <p>
-    My work establishes connections between classical probability inequalities and practical stochastic optimization. While probability union bounds are traditionally evaluated according to how tightly they approximate the underlying chance constraint, my research demonstrates that stronger theoretical bounds on the constraint do not necessarily yield stronger objective bounds in practice. Or, due to computational limitations, the best approximation of a feasible region may fail to produce the strongest bound on the optimal objective value. The resulting research has contributed to both probability theory and stochastic optimization. Two representative publications include
+    My work establishes connections between classical probability inequalities and practical stochastic optimization. While probability union bounds are traditionally evaluated according to how tightly they approximate the underlying chance constraint, my research demonstrates that stronger theoretical bounds on the constraint do not necessarily yield stronger objective bounds in practice. Or, due to computational limitations, the best approximation of a feasible region may fail to produce the strongest bound on the optimal objective value. The resulting research contributes to both probability theory and stochastic optimization. Two representative publications include
 <a href="https://link.springer.com/article/10.1007/s11590-019-01387-z">this article</a> and
 <a href="https://link.springer.com/article/10.1007/s11590-020-01592-1">its follow-up</a>.
 </p>
@@ -67,7 +67,7 @@ My research is grounded in mathematical theory but always motivated by real-worl
         As several countries advance towards <em>Net-Zero</em> goals (e.g., Germany's <em>Energiewende</em> or France's <em>Transition Énergétique</em>), joint chance constraints have proven especially effective for ensuring highly reliable operation of critical energy systems under uncertain renewable energy availability, such as photovoltaic (PV) systems and coupled wind–diesel systems. Mathematical optimization models for such systems often present significant challenges due to their (a) structure and (b) scale, necessitating the development of heuristics and algorithms.
       </p>
       <p>
-        My research has designed modern <em>machine learning</em>-inspired iterative algorithms and employed Lagrangian-based proximal terms to tackle these challenges. See this 
+        My research designs modern <em>machine learning</em>-inspired iterative algorithms and employed Lagrangian-based proximal terms to tackle these challenges. See this 
         <a href="https://link.springer.com/article/10.1007/s10287-018-0309-x">older article</a> and this 
         <a href="https://link.springer.com/article/10.1007/s10898-021-01041-y">newer article</a>.
         <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span>
