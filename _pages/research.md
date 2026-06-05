@@ -82,11 +82,11 @@ My research is grounded in mathematical theory but always motivated by real-worl
       </p>
 
       <p>
-      Then, at FAU Erlangen–Nürnberg (2019–2022), I led the chair's research contributions to the multi-institutional METIS collaboration with Forschungszentrum Jülich, one of Europe's leading energy research centres. This work focuses on developing optimization methods and open-source software for large-scale energy-system planning under Germany's <em>Energiewende</em>. Learn more about the METIS project <a href="https://www.fz-juelich.de/en/ice/ice-2/projects/metis?expand=translations,fzjsettings,nearest-institut">here →</a>. Explore the technical details of the ETHOS.FINE package <a href="https://github.com/FZJ-IEK3-VSA/FINE" style="color: #0066cc; text-decoration: underline;">here →</a>.
+      Then, at FAU Erlangen–Nürnberg (2019–2022), I led the chair's research contributions to the multi-institutional METIS collaboration with Forschungszentrum Jülich, one of Europe's leading energy research centres. This work focused on developing optimization methods and open-source software for large-scale energy-system planning under Germany's <em>Energiewende</em>. Learn more about the METIS project <a href="https://www.fz-juelich.de/en/ice/ice-2/projects/metis?expand=translations,fzjsettings,nearest-institut">here →</a>. Explore the technical details of the ETHOS.FINE package <a href="https://github.com/FZJ-IEK3-VSA/FINE" style="color: #0066cc; text-decoration: underline;">here →</a>.
       </p>
       </div>
     <p>
-      Beyond mathematical contributions, this research theme supports governmental goals of designing energy systems that remain reliable, economically viable, and environmentally sustainable in the presence of uncertainty.
+      Beyond mathematical contributions, this research theme supports governmental goals of designing energy systems that remain reliable, economically viable, and environmentally sustainable in the presence of uncertainty. See this <a href="https://link.springer.com/article/10.1007/s10287-018-0309-x">early</a> and this  <a href="https://link.springer.com/article/10.1007/s10898-021-01041-y">later</a> contribution.
     </p>
   </div>
 </div>
