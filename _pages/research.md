@@ -17,7 +17,8 @@ Two themes shape much of my work:
 My research is grounded in mathematical theory but always motivated by real-world challenges. Key application areas include public-health preparedness, infectious disease outbreaks, energy-system planning, sustainability, and resource allocation (details below). Over the past 15 years, I have collaborated with governments, public agencies, and research institutes across the US, Europe, and Asia.
 
 <strong> Selected funding agencies and partners:</strong>
-<img src="/assets/images/funding.png" alt="Interdisciplinary Research" style="display:block; max-width:90%; height:auto; margin-bottom:1.5rem;">
+<img src="/assets/images/funding.png" alt="Interdisciplinary Research" 
+     style="display:block; max-width:90%; max-height:300px; width:auto; height:auto; margin-bottom:1.5rem;">
 
 ## Optimization Under Uncertainty
 
