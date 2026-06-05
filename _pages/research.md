@@ -9,15 +9,15 @@ My research develops mathematical models and computational algorithms for decisi
 Two themes shape much of my work:
 <div class="square-bullets">
   <ul>
-    <li><em>Optimization under uncertainty</em>: how to make high-stakes decisions when future information is imperfect?</li>
-    <li><em>Foundations of fairness</em>: how to characterize fairness axiomatically through a model's optimality conditions?</li>
+    <li>Optimization under uncertainty: how to make high-stakes decisions when future information is imperfect?</li>
+    <li>Foundations of fairness: how to characterize fairness axiomatically through a model's optimality conditions?</li>
   </ul>
 </div>
 
 My research is grounded in mathematical theory but always motivated by real-world challenges. Key application areas include public-health preparedness, infectious disease outbreaks, energy-system planning, sustainability, and resource allocation (details below). Over the past 15 years, I have collaborated with governments, public agencies, and research institutes across the US, Europe, and Asia.
 
 <strong> Selected funding agencies and partners:</strong>
-<img src="/assets/images/funding.png" alt="Interdisciplinary Research" style="display:block; max-width:50%; height:auto; margin-bottom:1.5rem;">
+<img src="/assets/images/funding.png" alt="Interdisciplinary Research" style="display:block; max-width:90%; height:auto; margin-bottom:1.5rem;">
 
 ## Optimization Under Uncertainty
 
@@ -25,10 +25,7 @@ My research is grounded in mathematical theory but always motivated by real-worl
   <div class="research_subsection">
     <div class="research_subsection_text">
       <p>
-        Many important decisions must be made before future conditions are known. Examples include planning healthcare systems, designing energy infrastructure, allocating resources, or managing critical risks. My research investigates how optimization models can support such decisions while explicitly accounting for uncertainty.
-      </p>
-      <p>
-      My specific focus is <em>chance-constrained optimization</em>, where decisions must satisfy guaranteed reliability requirements despite uncertain future outcomes. These models provide a mathematically rigorous framework for balancing risk and performance, but are often computationally challenging to solve. My work develops approximations of joint chance constraints to establish theoretical guarantees for such stochastic optimization models. <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span>      
+      My specific focus within stochastic optimization is <em>chance-constrained programming</em>, where one must satisfy guaranteed reliability requirements despite uncertain future outcomes. This framework provides a mathematically rigorous way for balancing risk and performance, but the models are often computationally challenging to solve. My work investigates approximations of joint chance constraints. <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span>      
       </p>
     </div>
 
@@ -43,17 +40,15 @@ My research is grounded in mathematical theory but always motivated by real-worl
 
   <div class="inline-details" style="display: none; margin-top: 1em;">
     <p>
-      This research originated during my doctoral studies and was significantly advanced through a US Department of Energy grant awarded during my time at Sandia National Laboratories. A central theme is the development of new bounds for joint chance-constrained optimization models, drawing upon a line of research dating back to Boole, Bonferroni, Fréchet, and related classical results in probability theory.
+      This research originated during my doctoral studies and was significantly advanced by a US Department of Energy grant to me during my time at Sandia National Laboratories. Here, we develop new bounds for joint chance-constrained models, drawing upon classical probability research dating back to Boole, Bonferroni, and Fréchet. The resulting research contributes to both probability theory and stochastic optimization.
     </p>
 
     <p>
-    My work establishes connections between classical probability inequalities and practical stochastic optimization. While probability union bounds are traditionally evaluated according to how tightly they approximate the underlying chance constraint, my research demonstrates that stronger theoretical bounds on the constraint do not necessarily yield stronger objective bounds in practice. Or, due to computational limitations, the best approximation of a feasible region may fail to produce the strongest bound on the optimal objective value. The resulting research contributes to both probability theory and stochastic optimization. Two representative publications include
-<a href="https://link.springer.com/article/10.1007/s11590-019-01387-z">this article</a> and
-<a href="https://link.springer.com/article/10.1007/s11590-020-01592-1">its follow-up</a>.
+    Traditional probability union bounds are evaluated by how tightly they approximate the underlying constraint. However, my research demonstrates that stronger theoretical bounds on the constraint do not necessarily yield stronger objective bounds in practice. Or, due to computational limitations, the best approximation of a feasible region may fail to produce the strongest bound on the optimal objective value. Two representative publications include: <a href="https://link.springer.com/article/10.1007/s11590-019-01387-z">this article</a> and <a href="https://link.springer.com/article/10.1007/s11590-020-01592-1">its follow-up</a>.
 </p>
 
     <p>
-     My current work is extending these ideas to broader classes of stochastic optimization models, including ongoing research with my PhD student.
+     My ongoing work, with my PhD student, is extending these ideas to broader stochastic optimization classes.
     </p>
   </div>
 </div>
