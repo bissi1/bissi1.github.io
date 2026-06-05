@@ -54,16 +54,16 @@ My research is grounded in mathematical theory but always motivated by real-worl
   </div>
 </div>
 
-## Sustainability & Climate Change
+## Sustainability, Energy Systems & Climate Change
 
 <div class="research_section_wrapper">
   <div class="research_subsection">
     <div class="research_subsection_text">
       <p>
-        As several countries advance towards <em>Net-Zero</em> goals (e.g., Germany's <em>Energiewende</em> or France's <em>Transition Énergétique</em>), joint chance constraints have proven especially effective for ensuring highly reliable operation of critical energy systems under uncertain renewable energy availability, such as photovoltaic (PV) systems and coupled wind–diesel systems. Mathematical optimization models for such systems often present significant challenges due to their (a) structure and (b) scale, necessitating the development of heuristics and algorithms.
+        Global transition towards sustainable energy systems presents some of the most challenging optimization problems currently facing society. Renewable energy sources (e.g., wind and solar) introduce volatility, while large-scale infrastructure planning requires reliability. My research develops mathematical models and computationally scalable algorithms for planning and operating energy systems under uncertainty. The mathematical challenge here is due to both the problem's scale and structure. 
       </p>
       <p>
-        My research designs modern <em>machine learning</em>-inspired iterative algorithms and employed Lagrangian-based proximal terms to tackle these challenges. See this 
+        My focus is on chance-constrained optimization models to ensure highly reliable system performance despite uncertainty in energy generation and/or demand. I am especially motivated by Lagrangian-based methods,  specialized algorithms, and machine-learning-inspired iterative methods to solve practical-scale problems. See this 
         <a href="https://link.springer.com/article/10.1007/s10287-018-0309-x">older article</a> and this 
         <a href="https://link.springer.com/article/10.1007/s10898-021-01041-y">newer article</a>.
         <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span>
@@ -80,22 +80,18 @@ My research is grounded in mathematical theory but always motivated by real-worl
 
   <div class="inline-details" style="display: none; margin-top: 1em;">
     <div class="square-bullets">
-      <ul>
-        <li>At Sandia National Labs, US (2016–19), I focused on solving large-scale energy system models, addressing critical risks faced by the US electrical grid. Many of these works are available on the <em>US Department of Energy's</em> Office of Scientific and Technical Information website. Access 
+      <p>
+        During my time at Sandia National Laboratories (2016–2019), I worked on large-scale optimization models arising in US energy systems and critical infrastructure. These projects addressed challenges relevant to the resilience and reliability of the US electrical grid under uncertainty. Many resulting reports and publications are publicly available through the US Department of Energy's Office of Scientific and Technical Information website. Access 
           <a href="https://www.osti.gov/search/semantic:bismark%20singh">here →</a>.
-        </li>
-        <li>At FAU Erlangen–Nürnberg, Germany (2019–22), I led the chair’s research contributions to the multi-institute <code>METIS</code> research collaboration with the <em>Jülich Research Center</em>. This project develops open-source tools for optimizing large-scale energy system models under the framework of Germany's <em>Energiewende</em>.
-          <div class="square-bullets">
-            <ul>
-              <li>Learn more about the METIS project <a href="https://www.fz-juelich.de/en/ice/ice-2/projects/metis?expand=translations,fzjsettings,nearest-institut">here →</a>.</li>
-              <li>Explore the technical details of the ETHOS.FINE package <a href="https://github.com/FZJ-IEK3-VSA/FINE" style="color: #0066cc; text-decoration: underline;">here →</a>.</li>
-            </ul>
-          </div>
-        </li>
-      </ul>
+      </p>
+
+      <p>
+      Then, at FAU Erlangen–Nürnberg (2019–2022), I led the chair's research contributions to the multi-institutional METIS collaboration with Forschungszentrum Jülich, one of Europe's leading energy research centres. This work focuses on developing optimization methods and open-source software for large-scale energy-system planning under Germany's <em>Energiewende</em>. Learn more about the METIS project <a href="https://www.fz-juelich.de/en/ice/ice-2/projects/metis?expand=translations,fzjsettings,nearest-institut">here →</a>. Explore the technical details of the ETHOS.FINE package <a href="https://github.com/FZJ-IEK3-VSA/FINE" style="color: #0066cc; text-decoration: underline;">here →</a>.
+      </p>
+      </div>
     </div>
     <p>
-      This research not only advances mathematical optimization but also contributes to global sustainability goals, ensuring renewable energy systems remain both efficient and reliable under uncertainty.
+      Beyond mathematical contributions, this research theme supports governmental goals of designing energy systems that remain reliable, economically viable, and environmentally sustainable in the presence of uncertainty.
     </p>
   </div>
 </div>
