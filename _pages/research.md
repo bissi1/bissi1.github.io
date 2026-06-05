@@ -60,19 +60,15 @@ My research is grounded in mathematical theory but always motivated by real-worl
   <div class="research_subsection">
     <div class="research_subsection_text">
       <p>
-        Global transition towards sustainable energy systems presents some of the most challenging optimization problems currently facing society. Renewable energy sources (e.g., wind and solar) introduce volatility, while large-scale infrastructure planning requires reliability. My research develops mathematical models and computationally scalable algorithms for planning and operating energy systems under uncertainty. The mathematical challenge here is due to both the problem's scale and structure. 
+      Global transition towards sustainable energy systems presents major optimization challenges. Renewable energy sources (e.g., wind and solar) introduce volatility, while infrastructure planning requires highly reliable operation. My research develops large-scale mathematical models and scalable algorithms for planning & operating energy systems under uncertainty. Particularly, I use chance-constrained optimization with Lagrangian-based approaches and machine-learning-inspired iterative algorithms.
+      <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span>
       </p>
-      <p>
-        My focus is on chance-constrained optimization models to ensure highly reliable system performance despite uncertainty in energy generation and/or demand. I am especially motivated by Lagrangian-based methods,  specialized algorithms, and machine-learning-inspired iterative methods to solve practical-scale problems. See this 
-        <a href="https://link.springer.com/article/10.1007/s10287-018-0309-x">older article</a> and this 
-        <a href="https://link.springer.com/article/10.1007/s10898-021-01041-y">newer article</a>.
-        <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span>
-      </p>
+
     </div>
 
     <div class="research_subsection_image">
       <div style="text-align: center; margin-bottom: 0.5em; font-weight: bold;">
-        Several European countries are investing in renewable energy sources.
+        Optimization for reliably integrating renewable energy sources.
       </div>
       <img src="/assets/images/german_energy.png" alt="Sustainability & Climate Change" />
     </div>
@@ -89,7 +85,6 @@ My research is grounded in mathematical theory but always motivated by real-worl
       Then, at FAU Erlangen–Nürnberg (2019–2022), I led the chair's research contributions to the multi-institutional METIS collaboration with Forschungszentrum Jülich, one of Europe's leading energy research centres. This work focuses on developing optimization methods and open-source software for large-scale energy-system planning under Germany's <em>Energiewende</em>. Learn more about the METIS project <a href="https://www.fz-juelich.de/en/ice/ice-2/projects/metis?expand=translations,fzjsettings,nearest-institut">here →</a>. Explore the technical details of the ETHOS.FINE package <a href="https://github.com/FZJ-IEK3-VSA/FINE" style="color: #0066cc; text-decoration: underline;">here →</a>.
       </p>
       </div>
-    </div>
     <p>
       Beyond mathematical contributions, this research theme supports governmental goals of designing energy systems that remain reliable, economically viable, and environmentally sustainable in the presence of uncertainty.
     </p>
