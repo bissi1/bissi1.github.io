@@ -71,7 +71,7 @@ Publikationen, die gemeinsam mit <strong><em>meinen Studierenden</em></strong> v
 ### 2026
 <div class="square-bullets">
 <ul>
-<li>[37] M. Jaidee<sup>(*)</sup>, Z. Sun<sup>(*)</sup>, S. Singh, T. Nguyen<sup>(*)</sup>, B. Singh "Optimizing Household Waste Recycling Centre network rationalization in Hampshire".<br>
+<li>[37] M. Jaidee<sup>(*)</sup>, Z. Sun<sup>(*)</sup>, S. Singh, T. Nguyen<sup>(*)</sup>, B. Singh "Optimizing Household Waste Recycling Centre network reorganization in Hampshire".<br>
   In: <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70056" style="color: #0066cc; text-decoration: none;"><i>Networks </i></a></li>
 <li>[36] Y. Akbulut, B. Singh "On the optimal control of initial velocity in a hyperbolic beam equation by the variational method".<br>
   In: <a href="https://link.springer.com/article/10.1007/s11590-026-02296-8" style="color: #0066cc; text-decoration: none;"><i>Optimization Letters </i></a></li>
