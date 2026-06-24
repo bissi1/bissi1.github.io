@@ -14,14 +14,14 @@ I publish in a diverse variety of journals reflecting the interdisciplinary natu
 
 <div class="square-bullets">
   <ul>
-    <li><strong><em>20 publications</em></strong> in journals indexed in the <strong><em>2024 German VHB</em></strong> Rating for Operations Research (OR):
+    <li><strong><em>21 publications</em></strong> in journals indexed in the <strong><em>2024 German VHB</em></strong> Rating for Operations Research (OR):
       <ul>
-        <li><strong><em>A-rated</em></strong>: [33], [30], [28], [25], [24], [23], [15], [9]</li>
+        <li><strong><em>A-rated</em></strong>: [37], [33], [30], [28], [25], [24], [23], [15], [9]</li>
         <li><strong><em>B-rated</em></strong>: [36], [34], [31], [29], [27], [21], [12], [11], [10], [7], [6], [5]</li>
       </ul>
     </li>
-    <li><strong><em>22 publications</em></strong> in journals indexed in the 2023 <strong><em>AMS MathSciNet list</em></strong>:  
-      <div style="margin-left: 1.5em;">[36], [35], [34], [33], [32], [28], [26], [25], [24], [23], [22], [21], [20], [17], [13], [12], [11], [10], [9], [8], [7], [6], [2]</div>
+    <li><strong><em>23 publications</em></strong> in journals indexed in the 2023 <strong><em>AMS MathSciNet list</em></strong>:  
+      <div style="margin-left: 1.5em;">[37], [36], [35], [34], [33], [32], [28], [26], [25], [24], [23], [22], [21], [20], [17], [13], [12], [11], [10], [9], [8], [7], [6], [2]</div>
     </li>
     <li><strong><em>11 publications</em></strong> in journals indexed in the <strong><em>Chartered Association of Business Schools (ABS) Academic Journal Guide (AJG 2024)</em></strong>:
       <ul>
@@ -52,13 +52,12 @@ Publications co-authored with <strong><em>my students</em></strong> are indicate
 
 <div class="square-bullets"> 
   <ul>
-    <li>[R13] Shajeeb, J. Jacob, B. Singh, A. Krishnamoorthy "Product-form queueing-inventory systems with two types of negative customers".</li>
-    <li>[R12] S. Zeller, B. Singh, S. Rebennack "Action sparsity in Markov decision processes and stochastic dynamic programming: SAA-guided policy pre-training and pumped-hydro bidding".</li>
-    <li>[R11] Y. Cheng, Z. Deng, P. Wang, B. Singh "Optimal procurement auctions in dynamic stochastic environments".</li>
-    <li>[R10] M. Hendrych, M. Kopa, B. Singh "Fairness axioms and stochastic bilevel optimization in vaccine reimbursement allocation".</li>
-    <li>[R9] B. Singh "Supermodularity, curvature, and convex relaxations in a class of quadratic binary optimization problems".</li>
-    <li>[R8] P. Bharati, V. Laha, B. Singh "Robust optimality for nonsmooth mathematical programs with equilibrium constraints under data uncertainty".</li>
-    <li>[R7] M. Jaidee<sup>(*)</sup>, Z. Sun<sup>(*)</sup>, S. Singh, T. Nguyen<sup>(*)</sup>, B. Singh "Optimizing Household Waste Recycling Centre network rationalization in Hampshire".</li>
+    <li>[R12] Shajeeb, J. Jacob, B. Singh, A. Krishnamoorthy "Product-form queueing-inventory systems with two types of negative customers".</li>
+    <li>[R11] S. Zeller, B. Singh, S. Rebennack "Action sparsity in Markov decision processes and stochastic dynamic programming: SAA-guided policy pre-training and pumped-hydro bidding".</li>
+    <li>[R10] Y. Cheng, Z. Deng, P. Wang, B. Singh "Optimal procurement auctions in dynamic stochastic environments".</li>
+    <li>[R9] M. Hendrych, M. Kopa, B. Singh "Fairness axioms and stochastic bilevel optimization in vaccine reimbursement allocation".</li>
+    <li>[R8] B. Singh "Supermodularity, curvature, and convex relaxations in a class of quadratic binary optimization problems".</li>
+    <li>[R7] P. Bharati, V. Laha, B. Singh "Robust optimality for nonsmooth mathematical programs with equilibrium constraints under data uncertainty".</li>
     <li>[R6] M. Jaidee<sup>(*)</sup>, B. Singh "Measuring the economic value of wind–solar complementarity in Europe using chance constraints".</li>
     <li>[R5] A. Thoma, E. Papadaki, B. Singh "From coding assistant to reasoning partner? GenAI in the modeling phase of operations research (OR) education".</li>
     <li>[R4] A. Saifutdinova, S. Reshetnikova<sup>(*)</sup>, B. Singh "Optimizing petroleum distribution in the Volga-Urals: The case of Bashkirnefteprodukt".</li>
@@ -74,6 +73,8 @@ Publications co-authored with <strong><em>my students</em></strong> are indicate
 ### 2026
 <div class="square-bullets">
 <ul>
+<li>[37] M. Jaidee<sup>(*)</sup>, Z. Sun<sup>(*)</sup>, S. Singh, T. Nguyen<sup>(*)</sup>, B. Singh "Optimizing Household Waste Recycling Centre network rationalization in Hampshire".<br>
+  In: <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70056" style="color: #0066cc; text-decoration: none;"><i>Networks </i></a></li>
 <li>[36] Y. Akbulut, B. Singh "On the optimal control of initial velocity in a hyperbolic beam equation by the variational method".<br>
    In: <a href="https://link.springer.com/article/10.1007/s11590-026-02296-8" style="color: #0066cc; text-decoration: none;"><i>Optimization Letters </i></a></li>
 <li>[35] B. Singh "On the resolution of ties in fair convex allocation programs".<br>
