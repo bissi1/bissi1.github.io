@@ -82,7 +82,7 @@ My research is grounded in mathematical theory but always motivated by real-worl
       </p>
 
       <p>
-      Then, at FAU Erlangen–Nürnberg (2019–2022), I led the chair's research contributions to the multi-institutional METIS collaboration with Forschungszentrum Jülich, one of Europe's leading energy research centres. This work focused on developing optimization methods and open-source software for large-scale energy-system planning under Germany's <em>Energiewende</em>. Learn more about the METIS project <a href="https://www.fz-juelich.de/en/ice/ice-2/projects/metis?expand=translations,fzjsettings,nearest-institut">here →</a>. Explore the technical details of the ETHOS.FINE package <a href="https://github.com/FZJ-IEK3-VSA/FINE" style="color: #0066cc; text-decoration: underline;">here →</a>.
+      Then, at FAU Erlangen–Nürnberg (2019–2022), I led the chair's research contributions to the multi-institutional METIS collaboration with Forschungszentrum Jülich, one of Europe's leading energy research centres. This project focused on developing optimization methods and open-source software for large-scale energy-system planning under Germany's <em>Energiewende</em>. Learn more about the METIS project <a href="https://www.fz-juelich.de/en/ice/ice-2/projects/metis?expand=translations,fzjsettings,nearest-institut">here →</a>. Explore the technical details of the ETHOS.FINE package <a href="https://github.com/FZJ-IEK3-VSA/FINE" style="color: #0066cc; text-decoration: underline;">here →</a>.
       </p>
       </div>
     <p>
@@ -139,17 +139,19 @@ My research is grounded in mathematical theory but always motivated by real-worl
   <div class="research_subsection">
     <div class="research_subsection_text">
       <p>
-        I began collaborating with the <em>Texas Department of State Health Services</em>, US, as an MSc student in 2012, helping prepare for future pandemics long before the emergence of COVID-19. Motivated by Texas's response to the 2009 H1N1 pandemic, my PhD research focused on designing web-based, optimization-backed decision-support tools for government use. These tools, accessible at <a href="https://flu.tacc.utexas.edu/" style="color: #0066cc; text-decoration: underline;">flu.tacc.utexas.edu</a>, assist the State of Texas in the fair and efficient allocation of critical resources, such as antivirals and vaccines.
+        I began collaborating with the Texas Department of State Health Services in 2012, helping develop quantitative tools for pandemic preparedness long before the emergence of COVID-19. Motivated by Texas's response to the 2009 H1N1 pandemic, my PhD research focused on designing optimization-based decision-support systems for allocating scarce medical resources such as vaccines, antiviral drugs, and testing facilities.  These efforts led to web-based planning tools, accessible through
+        <a href="https://flu.tacc.utexas.edu/" style="color: #0066cc; text-decoration: underline;">flu.tacc.utexas.edu</a>,
+        that support state-level decision-making in Texas. During the COVID-19 pandemic, the collaboration expanded to include testing accessibility, healthcare-capacity protection, and staged intervention policies. Our work informed the risk-based alert system adopted by the City of Austin and resulted in publications in <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2009033117" style="color: #0066cc; text-decoration: underline;">PNAS</a>, <a href="https://www.nature.com/articles/s41467-021-23989-x" style="color: #0066cc; text-decoration: underline;">Nature Communications</a>, and <a href="https://link.springer.com/article/10.1007/s10729-020-09538-w" style="color: #0066cc; text-decoration: underline;">other</a> leading journals.
       </p>
       <p>
-        The most significant funding here is provided by a three-year grant from the <em>Deutsche Forschungsgemeinschaft</em> (German Research Foundation), with additional funding from the <em>Bavarian Czech Academic Agency</em> and the <em>EU Horizon 2020 Program</em>. 
+        My research in this area is supported by the German Research Foundation (DFG), the Bavarian-Czech Academic Agency, and the EU Horizon 2020 program.
         <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span>
       </p>
     </div>
 
     <div class="research_subsection_image">
       <div style="text-align: center; margin-bottom: 0.5em; font-weight: bold;">
-        Our collaborative work designed the system of staged lockdowns used by Austin, Texas during COVID-19. <br>
+        Our collaborative work designed Austin's COVID-19 staged-alert system. <br>
         <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2009033117" style="color: #0066cc; text-decoration: underline;">Explore →</a>
       </div>
       <img src="/assets/images/lockdown.png" alt="Pandemic Risk Mitigation" />
@@ -157,11 +159,20 @@ My research is grounded in mathematical theory but always motivated by real-worl
   </div>
 
   <div class="inline-details" style="display: none; margin-top: 1em;">
-    <p>During the COVID-19 pandemic, I renewed this collaboration to address pressing challenges in pandemic response. Key contributions include:</p>
+    <p>
+      Other selected projects from this research include:
+    </p>
     <div class="square-bullets">
       <ul>
-        <li><em>Testing Accessibility</em>: Measuring the reach and equity of COVID-19 testing across the United States. <a href="https://link.springer.com/article/10.1007/s10729-020-09538-w" style="color: #0066cc; text-decoration: underline;">Explore →</a></li>
-        <li><em>Triggering Lockdowns</em>: Designing the staged-dashboard lockdown system employed by the City of Austin, Texas, which integrates a chance-constrained framework for informed, adaptive public health policies. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2009033117" style="color: #0066cc; text-decoration: underline;">Explore →</a></li>
+        <li>
+          <em>Testing Accessibility</em>: Quantifying and improving equitable access to COVID-19 testing facilities across the United States. <a href="https://link.springer.com/article/10.1007/s10729-020-09538-w" style="color: #0066cc; text-decoration: underline;">Explore →</a>
+        </li>
+        <li>
+          <em>Pandemic Influenza Preparedness</em>:
+          Optimization models for allocating vaccines and antiviral drugs across public-health distribution networks.
+          <a href="https://doi.org/10.1371/journal.pone.0182720"
+             style="color: #0066cc; text-decoration: underline;">Explore →</a>
+        </li>
       </ul>
     </div>
   </div>
