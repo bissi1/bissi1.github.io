@@ -41,6 +41,7 @@ My team is academically diverse, with members spanning a variety of ***interdisc
 <li>Montree Jaidee (Operations Research), University of Southampton, UK  
   <ul>
     <li>Finalist, <a href="https://www.smithinst.co.uk/takeaim/" style="text-decoration: none;">TakeAim competition 2026 by Smith Institute</a></li>
+    <li><em>Published in <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70056" style="text-decoration: none;">Networks</a></em></li>
     <li><em>Article in <a href="https://optimization-online.org/2024/09/the-prime-programming-problem-formulations-and-solution-methods/" style="text-decoration: none;">peer-review</a></em></li>
     <li><em>Article in <a href="https://www.researchgate.net/publication/395703168_Measuring_the_Economic_Value_of_Wind-Solar_Complementarity_in_Europe_Using_Chance_Constraints" style="text-decoration: none;">peer-review</a></em></li>
   </ul>
@@ -63,7 +64,7 @@ My team is academically diverse, with members spanning a variety of ***interdisc
 <li>Zheng Sun (Operations Research), University of Southampton, UK
   <ul>
   <li>2nd place Winner of the <a href="https://www.informs.org/Publications/OR-MS-Tomorrow/OR-MS-Tomorrow-Mini-Poster-Competition-2025" style="text-decoration: none;">2025 INFORMS OR/MS Tomorrow Mini-Poster Competition</a></li>
-  <li><em>Article in <a href="https://www.researchgate.net/publication/398638906_Optimizing_Household_Waste_Recycling_Centre_Network_Rationalization_in_Hampshire" style="text-decoration: none;">peer-review</a></em></li>
+  <li><em>Published in <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70056" style="text-decoration: none;">Networks</a></em></li>
   </ul></li>
 <li>Sophie Reshetnikova (Mathematics), University of Southampton, UK  
   <ul>
