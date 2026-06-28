@@ -97,24 +97,12 @@ My research is grounded in mathematical theory but always motivated by real-worl
   <div class="research_subsection">
     <div class="research_subsection_text">
      <p>
-  In 2020, I began exploring <em>undesirable facility location problems</em> (FLPs) with a unique perspective: ensuring fairness from the point of view of the facilities, rather than the users, which is the typical approach in existing literature. Motivated by applications in waste management, particularly in the context of <em>recycling centers</em> (e.g., UK <em>tips</em> or German <em>Wertstoffhöfe</em>), I lead a diverse team of researchers on this subtopic.
-</p>
-<p>
-  Supported by the <em>Bavarian State Ministry for Science & Arts</em> and the <em>University of Southampton</em>, my team develops discrete optimization models that achieve fairness in facility closures. So far this effort has led to:
-</p>
-<div class="square-bullets">
-  <ul>
-    <li>Three student theses with three published articles.</li>
-    <li>Grant funding supporting a postdoctoral researcher to quantify <em>subjective</em> opinions on recycling campaigns and incorporate human perceptions into decision models.
-      <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span>
-    </li>
-  </ul>
-</div>
-</div>
+  A central theme of my research concerns the mathematical foundations of fairness in optimization and econometrics. Rather than imposing fairness as an external design criterion, I investigate how fairness principles can be derived directly from mathematical models and their optimality conditions. This perspective has led to new fairness axioms, optimization formulations, and theoretical characterizations of equitable decision-making. These mathematical developments have found applications in undesirable facility location, sustainable waste management, public-health planning, and machine learning. Supported by the Bavarian State Ministry for Science &amp; Arts and internal grants from the University of Southampton, this research has produced several completed student theses, funded postdoctoral researchers, and several published articles. <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span> </p>
+
 
     <div class="research_subsection_image">
       <div style="text-align: center; margin-bottom: 0.5em; font-weight: bold;">
-        Both the Bavarian government and the Hampshire councils have shut down recycling centers in the past two decades. <br>
+        Declining numbers of recycling centers motivate fair infrastructure planning. <br>
         <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.22221" style="color: #0066cc; text-decoration: underline;">Explore →</a>
       </div>
       <img src="/assets/images/recycling.png" alt="Fairness & Waste Management" />
@@ -125,9 +113,9 @@ My research is grounded in mathematical theory but always motivated by real-worl
     <p>This theme is truly interdisciplinary:</p>
     <div class="square-bullets">
       <ul>
-        <li><em>Theoretical</em>: Defined new axioms of fairness, shifting the perspective to the facilities themselves. Formulated novel classes of FLPs satisfying axiomatic fairness properties, derived from their Karush–Kuhn–Tucker (KKT) optimality conditions. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0308" style="color: #0066cc; text-decoration: underline;">Explore →</a></li>
-        <li><em>Computational</em>: Addressed the intractability of solving these models naively by designing specialized algorithms, enabling efficient solutions for large-scale instances at the scale of Bavaria and all of Germany. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0693" style="color: #0066cc; text-decoration: underline;">Explore →</a></li>
-        <li><em>Societal</em>: Ensured sustainability goals are achieved without disproportionately affecting certain communities by offering governments ethically fair decision-making tools for closing recycling centers while maintaining public accessibility. <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.22221" style="color: #0066cc; text-decoration: underline;">Explore →</a></li>
+        <li><em>Theoretical</em>: Developed new fairness axioms for optimization &amp; econometrics by deriving desirable properties from Karush–Kuhn–Tucker (KKT) optimality conditions rather than prescribing them externally. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0308" style="color: #0066cc; text-decoration: underline;">Explore →</a></li>
+        <li><em>Computational</em>: Designed specialized algorithms and complexity results for large-scale fairness-aware optimization models, enabling practical solution of instances at the scale of Bavaria and Germany. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0693" style="color: #0066cc; text-decoration: underline;">Explore →</a></li>
+        <li><em>Societal</em>: Applied these methods to reform recycling-center networks while balancing accessibility and utilization for sustainability objectives. The resulting models provide both <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70056" style="color: #0066cc; text-decoration: underline;"> Hampshire </a> and <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.22221" style="color: #0066cc; text-decoration: underline;">Bavaria</a> with mathematically grounded decision-support tools for equitable infrastructure planning. Explore →</a></li>
       </ul>
     </div>
   </div>
