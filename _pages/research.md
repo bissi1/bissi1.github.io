@@ -117,8 +117,8 @@ My research is grounded in mathematical theory but always motivated by real-worl
         <li><em>Societal</em>: Applied these methods to reform recycling-center networks while balancing accessibility and utilization for sustainability objectives. The resulting models provide both <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70056" style="color: #0066cc; text-decoration: underline;"> Hampshire </a> and <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.22221" style="color: #0066cc; text-decoration: underline;">Bavaria</a> with mathematically grounded decision-support tools for equitable infrastructure planning. Explore →</a></li>
       </ul>
     </div>
-  </div>
-</div>
+  </div> 
+
 
 ## Pandemic Risk Mitigation
 
