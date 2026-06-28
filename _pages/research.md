@@ -69,6 +69,7 @@ My research is grounded in mathematical theory but always motivated by real-worl
     <div class="research_subsection_image">
       <div style="text-align: center; margin-bottom: 0.5em; font-weight: bold;">
         Optimization for reliably integrating renewable energy sources.
+        <a href="https://optimization-online.org/2025/09/measuring-the-economic-value-of-wind-solar-complementarity-in-europe-using-chance-constraints/" style="color: #0066cc; text-decoration: underline;">Explore →</a>
       </div>
       <img src="/assets/images/german_energy.png" alt="Sustainability & Climate Change" />
     </div>
