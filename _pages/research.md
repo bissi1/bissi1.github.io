@@ -93,13 +93,14 @@ My research is grounded in mathematical theory but always motivated by real-worl
 </div>
 
 
-## Fairness & Waste Management
+## Fairness & Optimization
 
 <div class="research_section_wrapper">
   <div class="research_subsection">
     <div class="research_subsection_text">
      <p>
-  A central theme of my research concerns the mathematical foundations of fairness in optimization and econometrics. Rather than imposing fairness as an external design criterion, I investigate how fairness principles can be derived directly from mathematical models and their optimality conditions. This perspective has led to new fairness axioms, optimization formulations, and theoretical characterizations of equitable decision-making. These mathematical developments have found applications in undesirable facility location, sustainable waste management, public-health planning, and machine learning. Supported by the Bavarian State Ministry for Science &amp; Arts and internal grants from the University of Southampton, this research has produced several completed student theses, funded postdoctoral researchers, and several published articles. <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span> </p> </div>
+  A central theme of my research concerns the mathematical foundations of fairness in optimization and econometrics. Rather than imposing fairness as an external design criterion, I investigate how fairness principles can be derived directly from mathematical models and their optimality conditions. This perspective has led to new fairness axioms, optimization formulations, and theoretical characterizations of equitable decision-making. </p>
+  <p> These mathematical developments have found applications in undesirable facility location, sustainable waste management, public-health planning, and machine learning. Supported by the Bavarian State Ministry for Science &amp; Arts and internal grants from the University of Southampton, this research has produced several completed student theses, funded postdoctoral researchers, and several published articles. <span class="inline-toggle" onclick="toggleDetails(this)">[Click for more →]</span> </p> </div>
 
     <div class="research_subsection_image">
       <div style="text-align: center; margin-bottom: 0.5em; font-weight: bold;">
