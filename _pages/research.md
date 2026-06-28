@@ -115,8 +115,7 @@ My research is grounded in mathematical theory but always motivated by real-worl
         <li><em>Computational</em>: Designed specialized algorithms and complexity results for large-scale fairness-aware optimization models, enabling practical solution of instances at the scale of Bavaria and Germany. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0693" style="color: #0066cc; text-decoration: underline;">Explore →</a></li>
         <li><em>Societal</em>: Applied these methods to reform recycling-center networks while balancing accessibility and utilization for sustainability objectives. The resulting models provide both <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70056" style="color: #0066cc; text-decoration: underline;"> Hampshire </a> and <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.22221" style="color: #0066cc; text-decoration: underline;">Bavaria</a> with mathematically grounded decision-support tools for equitable infrastructure planning.</li>
       </ul>
-        </div> </div> </div> </div> 
-
+        </div> </div>
 
 ## Pandemic Risk Mitigation
 
