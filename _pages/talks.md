@@ -28,6 +28,9 @@ classes: full
 
 <ol reversed class="compact-ol">
   <li>
+    <div class="row"><div class="talk-left">Department of Computer Science, University of Birmingham, UK</div><div class="talk-right">2026</div></div>
+  </li>
+  <li>
     <div class="row"><div class="talk-left">Beijing Institute of Mathematical Sciences and Applications, China</div><div class="talk-right">2026</div></div>
   </li>
   <li>
