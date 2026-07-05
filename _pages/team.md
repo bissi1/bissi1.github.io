@@ -41,7 +41,7 @@ If you are interested in pursuing a PhD in Operational Research with me at the U
 I have previously hosted and worked with postdoctoral researchers through externally funded projects, including DFG-supported research on stochastic optimization for pandemic-resource allocation. That specific funding has now ended. Future postdoctoral opportunities will depend on new grants, project fit, or external fellowship routes. Strong candidates may also consider external funding schemes such as Commonwealth Scholarships, Marie Skłodowska-Curie Postdoctoral Fellowships, or other national and international funding routes. 
 
 
-## Team &amp Alumni
+## Team & Alumni
 My team members have come from a variety of interdisciplinary scientific backgrounds.  The list below highlights recent and former team members, together with selected publications, awards, and research outcomes. You could be next!
 
 <div class="square-bullets">
@@ -110,6 +110,6 @@ My team members have come from a variety of interdisciplinary scientific backgro
 </li>
 <li>Lena Oberfichtner (Mathematics), FAU, Germany  
   <ul>
-    <li><em>Published in <a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="text-decoration: none;">Discrete Applied Mathematics</a></em></li>
+    <li><em>Published in <a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="text-decoration: none;">Annals of Operations Research</a></em></li>
   </ul>
 </li>
