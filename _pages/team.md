@@ -1,44 +1,50 @@
 ---
-title: "Be Part of a Young and Dynamic Team!"
+title: "Research Team & Opportunities"
 permalink: /team/
 layout: archive
 classes: full
 ---
 
+I supervise students and early-career researchers working on theorey-oriented mathematical optimization, data-driven decision-making, and applications in public health, sustainability, energy systems, artificial intelligence, and fairness. My supervision style is research-oriented and academically traditional: projects are designed to develop strong mathematical and computational skills and, where possible, to lead to peer-reviewed publications.
 
-I am always interested in working with motivated students and postdoctoral researchers looking for engaging research opportunities. Whether you’re looking for a BSc or MSc thesis topic (*Bachelorarbeit* or *Masterarbeit*), a semester or summer project, or a PhD/postdoc position, there are opportunities to contribute to impactful research both in person and online under my guidance.  
-
-Over the years, I have supervised exceptional BSc, MSc, PhD students, and postdocs, nearly all of whom published their work in high-quality operations research (OR) journals early in their careers. Examples of past thesis topics and corresponding publications are provided on my <a href="/publications/" style="text-decoration: none;">Publications</a> page.
-
-## Research Focus Areas
-
-I welcome topics in quantitative disciplines, especially discrete optimization, with applications in: sustainability, waste management, infectious disease outbreaks, artificial intelligence (AI), or energy management. Other topics are also possible. If you are interested in joining my team, please send me an email with your CV and transcript. 
-
-If you are highly talented and demonstrate exceptional potential, funding options may be available to support your research (e.g., the Commonwealth Scholarship or the Marie Curie Postdoctoral Fellowship).
-
-## Research Opportunities
-
-### Key Requirements
-A strong technical background is expected, as evidenced by excellent grades in relevant courses. Most importantly, you should have a willingness to work hard and a passion for research.
-
-### PhD Positions
-If you're interested in pursuing a PhD in OR with me at the University of Southampton, please apply directly through the <a href="https://www.southampton.ac.uk/study/postgraduate-research/apply"> University’s website</a>. As the Postgraduate Research Coordinator for the OR group, I will evaluate your application.
-
-### Postdoc Positions
-A short postdoc position funded by the Deutsche Forschungsgemeinschaft (German Research Foundation) is currently available with me for research on stochastic optimization models for the allocation of critical resources during pandemics. Strong experience in discrete optimization is required and informal inquiries are welcome.
-
----
-
-## My Team
-
-My team is academically diverse, with members spanning a variety of ***interdisciplinary scientific backgrounds***. Current and past members include BSc and MSc students, postdoctoral researchers, and academic visitors. You could be next!
+Over the years, I have supervised exceptional BSc, MSc, PhD students, postdoctoral researchers, and hosted academic visitors from across the UK, Germany, India, Turkey, China, and the US. Many student-led projects have resulted in publications in leading journals as well as international awards. Several students have continued into PhD study or research roles, analytics careers, and externally visible professional positions. Examples are listed on my <a href="/publications/" style="text-decoration: none;">Publications</a> page and in the alumni section below.
 
 
-### Current
+## Research Culture and Expectations
+My research projects typically involve mathematical modeling, algorithm design, computation, repeated revision, and careful writing. Students who join should expect to work exceptionally hard, take ownership of their project, and develop the discipline needed for publishable research. My supervision style is academically traditional and professional. I work closely with students on research, but I also maintain clear expectations, intellectual standards, and an appropriate professional distance between supervisor and student. This environment is best suited to students who are self-motivated and serious about developing as independent researchers.
+
+
+## Who Can Join
+I welcome inquiries from students and early-career researchers at different stages of their academic development. Both in-person and remote options are possible. Suitable backgrounds include mathematics, operations research, computer science, statistics, business analytics, public health, energy systems, and related interdisciplinary fields. The common requirement is a strong quantitative ability and a serious research attitude. For research themes of my expertise, see my <a href="/research/" style="text-decoration: none;">Research</a> page
+
+I expect a strong technical background, normally evidenced by excellent grades in relevant quantitative courses. More importantly, I look for students who are willing to work carefully, independently, and persistently on difficult problems. Good candidates usually have some combination of:
+
+<div class="square-bullets"> 
+  <ul> <li>strong foundations in mathematics, optimization, statistics, computer science, engineering, or another quantitative field;</li>
+   <li>interest in mathematical theory, modelling, computation, and publishable research;</li> 
+   <li>ability to program in any language (e.g., Python, Julia, GAMS, Pyomo, MATLAB, R, C++ or similar);</li> 
+   <li>patience for repeated revision, rewriting, and careful checking of results;</li> 
+   <li>respect for academic standards, deadlines, and professional communication.</li> 
+ </ul> </div>
+
+This is not intended as a light or casual project environment. It is best suited to students who want to be challenged and who are prepared to work seriously toward research-level outcomes.
+
+
+### PhD Students
+
+If you are interested in pursuing a PhD in Operational Research with me at the University of Southampton, please apply directly through the <a href="https://www.southampton.ac.uk/study/postgraduate-research/apply" style="text-decoration: none;">University's postgraduate research application portal</a>. Prospective applicants are welcome to contact me before applying, but must include a CV, transcript, and a short description of their interests. Before writing, please look at my <a href="/research/" style="text-decoration: none;">Research</a> and <a href="/publications/" style="text-decoration: none;">Publications</a> pages so that your message clearly explains the fit.
+
+### Postdoctoral Researchers and Visitors
+
+I have previously hosted and worked with postdoctoral researchers through externally funded projects, including DFG-supported research on stochastic optimization for pandemic-resource allocation. That specific funding has now ended. Future postdoctoral opportunities will depend on new grants, project fit, or external fellowship routes. Strong candidates may also consider external funding schemes such as Commonwealth Scholarships, Marie Skłodowska-Curie Postdoctoral Fellowships, or other national and international funding routes. 
+
+
+## Team & Alumni
+My team members have come from a variety of interdisciplinary scientific backgrounds.  The list below highlights recent and former team members, together with selected publications, awards, and research outcomes. You could be next!
 
 <div class="square-bullets">
 <ul>
-<li>Montree Jaidee (Operations Research), University of Southampton, UK  
+<li>Dr.Montree Jaidee (Operations Research), University of Southampton, UK  
   <ul>
     <li>Finalist, <a href="https://www.smithinst.co.uk/takeaim/" style="text-decoration: none;">TakeAim competition 2026 by Smith Institute</a></li>
     <li><em>Published in <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70056" style="text-decoration: none;">Networks</a></em></li>
@@ -46,17 +52,9 @@ My team is academically diverse, with members spanning a variety of ***interdisc
     <li><em>Article in <a href="https://www.researchgate.net/publication/395703168_Measuring_the_Economic_Value_of_Wind-Solar_Complementarity_in_Europe_Using_Chance_Constraints" style="text-decoration: none;">peer-review</a></em></li>
   </ul>
 </li>
+
 <li> Astha Lohia (Mathematics), IIT Delhi, India (joint with Prof. Vikas Vikram Singh) </li>
 <li> Akshat Chaudhary (Mathematics), IIT Delhi, India (joint with Prof. Vikas Vikram Singh) </li>
-</ul>
-</div>
-
----
-
-### Former Team
-
-<div class="square-bullets">
-<ul>
 <li>Simon Zeller (Operations Research), Karlsruhe Institute of Technology, Germany</li>
 <li>Dr. Hongtao Wang (Mathematics), University of Southampton, UK</li>
 <li>Thi Nguyen (Business), University of Southampton, UK</li>
@@ -113,4 +111,3 @@ My team is academically diverse, with members spanning a variety of ***interdisc
     <li><em>Published in <a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="text-decoration: none;">Discrete Applied Mathematics</a></em></li>
   </ul>
 </li>
-
