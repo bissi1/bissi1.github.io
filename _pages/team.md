@@ -1,5 +1,5 @@
 ---
-title: "Research Team & Opportunities"
+title: "Research Team &amp Opportunities"
 permalink: /team/
 layout: archive
 classes: full
@@ -39,7 +39,7 @@ If you are interested in pursuing a PhD in Operational Research with me at the U
 I have previously hosted and worked with postdoctoral researchers through externally funded projects, including DFG-supported research on stochastic optimization for pandemic-resource allocation. That specific funding has now ended. Future postdoctoral opportunities will depend on new grants, project fit, or external fellowship routes. Strong candidates may also consider external funding schemes such as Commonwealth Scholarships, Marie Skłodowska-Curie Postdoctoral Fellowships, or other national and international funding routes. 
 
 
-## Team & Alumni
+## Team &amp Alumni
 My team members have come from a variety of interdisciplinary scientific backgrounds.  The list below highlights recent and former team members, together with selected publications, awards, and research outcomes. You could be next!
 
 <div class="square-bullets">
