@@ -5,13 +5,15 @@ layout: archive
 classes: full
 ---
 
-I supervise students and early-career researchers working on theorey-oriented mathematical optimization, data-driven decision-making, and applications in public health, sustainability, energy systems, artificial intelligence, and fairness. My supervision style is research-oriented and academically traditional: projects are designed to develop strong mathematical and computational skills and, where possible, to lead to peer-reviewed publications.
+I supervise students and early-career researchers working on theory-oriented mathematical optimization, data-driven decision-making, and applications in public health, sustainability, energy systems, artificial intelligence, and fairness. My supervision style is research-oriented and academically traditional: projects are designed to develop strong mathematical and computational skills and, where possible, to lead to peer-reviewed publications.
 
 Over the years, I have supervised exceptional BSc, MSc, PhD students, postdoctoral researchers, and hosted academic visitors from across the UK, Germany, India, Turkey, China, and the US. Many student-led projects have resulted in publications in leading journals as well as international awards. Several students have continued into PhD study or research roles, analytics careers, and externally visible professional positions. Examples are listed on my <a href="/publications/" style="text-decoration: none;">Publications</a> page and in the alumni section below.
 
 
 ## Research Culture and Expectations
-My research projects typically involve mathematical modeling, algorithm design, computation, repeated revision, and careful writing. Students who join should expect to work exceptionally hard, take ownership of their project, and develop the discipline needed for publishable research. My supervision style is academically traditional and professional. I work closely with students on research, but I also maintain clear expectations, intellectual standards, and an appropriate professional distance between supervisor and student. This environment is best suited to students who are self-motivated and serious about developing as independent researchers.
+My research projects typically involve mathematical modeling, algorithm design, computation, repeated revision, and careful writing. Students who join should expect to work exceptionally hard, take ownership of their project, and develop the discipline needed for publishable research. 
+
+My supervision style is academically traditional and professional. I work closely with students on research, but I also maintain clear expectations, intellectual standards, and an appropriate professional distance between supervisor and student. This environment is best suited to students who are self-motivated and serious about developing as independent researchers.
 
 
 ## Who Can Join
