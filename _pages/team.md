@@ -62,7 +62,7 @@ My team members have come from a variety of interdisciplinary scientific backgro
 <li>Thi Nguyen (Business), University of Southampton, UK</li>
 <ul>
   <li><em>Published in <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70056" style="text-decoration: none;">Networks</a></em></li>
-  </ul></li>
+  </ul>
 <li>Dr. Sher Singh (Economics), University of Southampton, UK</li>
 <li>Zheng Sun (Operations Research), University of Southampton, UK
   <ul>
