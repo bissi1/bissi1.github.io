@@ -1,5 +1,5 @@
 ---
-title: "Research Team &amp Opportunities"
+title: "Join a Young &amp Ambitious Research Team!"
 permalink: /team/
 layout: archive
 classes: full
@@ -60,6 +60,9 @@ My team members have come from a variety of interdisciplinary scientific backgro
 <li>Simon Zeller (Operations Research), Karlsruhe Institute of Technology, Germany</li>
 <li>Dr. Hongtao Wang (Mathematics), University of Southampton, UK</li>
 <li>Thi Nguyen (Business), University of Southampton, UK</li>
+<ul>
+  <li><em>Published in <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70056" style="text-decoration: none;">Networks</a></em></li>
+  </ul></li>
 <li>Dr. Sher Singh (Economics), University of Southampton, UK</li>
 <li>Zheng Sun (Operations Research), University of Southampton, UK
   <ul>
@@ -110,6 +113,6 @@ My team members have come from a variety of interdisciplinary scientific backgro
 </li>
 <li>Lena Oberfichtner (Mathematics), FAU, Germany  
   <ul>
-    <li><em>Published in <a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="text-decoration: none;">Annals of Operations Research</a></em></li>
+    <li><em>Published in <a href="https://link.springer.com/article/10.1007/s10479-022-04883-1" style="text-decoration: none;">Annals of Operations Research</a></em></li>
   </ul>
 </li>
