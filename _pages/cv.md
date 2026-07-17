@@ -110,7 +110,7 @@ classes: cvpage
 <li class="grant-item">
   <div class="grant-left">
     <span class="year"></span>
-    "Optimal spatiotemporal antiviral release under uncertainty" (co-PI)    
+    "Optimal spatiotemporal antiviral release under uncertainty" (co-PI).  
   </div>
   <div class="grant-right"></div>
 </li>
@@ -126,7 +126,7 @@ classes: cvpage
 <li class="grant-item">
   <div class="grant-left">
     <span class="year"></span>
-    "Chance-constrained optimization for critical infrastructure protection"
+    "Chance-constrained optimization for critical infrastructure protection".
   </div>
   <div class="grant-right"></div>
 </li>
@@ -134,19 +134,15 @@ classes: cvpage
 </ul> </div>
 <p> Additional competitive grants awarded by American Public Power Association (US); Bavarian State Ministry for Science & Art; Bavarian Academic Center for Central, Eastern and Southeastern Europe (BAYHOST, Germany); European Cooperation in Science and Technology (COST); London Mathematical Society (LMS, UK); The Scientific and Technological Research Council of Turkey (TÜBİTAK, Turkey); the University of Southampton; The Alan Turing Institute (UK); and other national and international schemes.</p>
 
-### Professional Memberships & Service
+### Professional Memberships & Service (Selection)
 <div class="compact-list">
 <ul>
-  <li>Editorial Board Member, <em>Optimization Letters</em> (2026–Present)</li>
-  <li>Fellow, Institute of Mathematics and its Applications (FIMA)</li>
-  <li>Senior Member, IEEE (SMIEEE)</li>
-  <li>Associate Fellow, The OR Society (AFORS)</li>
-  <li>Member, German OR Society</li>
-  <li>Member, Institute for Operations Research and the Management Sciences (INFORMS)</li>
-  <li>Committee Member, London Mathematical Society (2022–2026)</li>
-  <li>Expert Reviewer, European Science Foundation (2025–2028)</li>
-  <li>Member, Randomised Optimisation Algorithms Research Network, European Cooperation in Science & Technology (COST)</li>
-
+  <li><span class="year">2026 – </span> Editorial Board, Optimization Letters</li>
+  <li><span class="year">2025 – 2028</span> Expert Reviewer, European Science Foundation</li>
+  <li><span class="year">2022 – 2026</span> Committee Member, London Mathematical Society</li>
+  <li><span class="year">2023</span> Fellow, Institute of Mathematics and its Applications (FIMA)</li>
+  <li><span class="year">2023</span> Senior Member, Institute of Electrical and Electronics Engineers (SMIEEE)</li>
+  <li><span class="year">2023</span> Associate Fellow, The OR Society (AFORS)</li>
 </ul>
 </div>
 
