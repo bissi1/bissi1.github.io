@@ -64,11 +64,11 @@ classes: cvpage
 
 ### Selected Affiliations & Academic Stays
 
-<div class="compact-list cvmobile">
+<div id="cvmobile" class="compact-list">
 <ul>
   <li><span class="year">2026</span> Plaksha University, India</li>
-  <li><span class="year">2026</span> Beijing Institute of Mathematical Sciences and Applications/Tsinghua University, China</li>
-  <li><span class="year">2026</span> Isaac Newton Institute for Mathematical Sciences, University of Cambridge, UK</li>
+  <li><span class="year">2026</span> Beijing Institute of Mathematical Sciences and Applications / Tsinghua University, China </li>
+  <li><span class="year">2026</span> Isaac Newton Institute for Mathematical Sciences, University of Cambridge, UK </li>
   <li><span class="year">2024 – 2025</span> TU Dresden, Germany</li>
   <li><span class="year">2024</span> University of Bayreuth, Germany</li>
   <li><span class="year">2020 – 2022</span> External Member for The University of Texas at Austin COVID-19 Modeling Consortium, US</li>
@@ -81,14 +81,12 @@ classes: cvpage
 ### Third Party Funding (selection)
 ≈ €360,000 in competitive funding as PI or co-PI, excluding negotiated institutional matching and smaller travel awards. 
 
-Selected competitive funding as PI or co-PI includes:
-
   <div id="cvmobile" class="compact-list"> <ul>
 
 <li class="grant-item">
   <div class="grant-left">
     <span class="year">2022–2027</span>
-    German Research Foundation (DFG):
+    German Research Foundation (DFG)
   </div>
   <div class="grant-right">€115,310</div>
 </li>
@@ -96,7 +94,7 @@ Selected competitive funding as PI or co-PI includes:
 <li class="grant-item">
   <div class="grant-left">
     <span class="year"></span>
-    "Optimal decision-making during pandemics" (no-cost extension to 2027).
+    "Optimal decision-making during pandemics" (funding awarded 2022–2025, no-cost extension to 2027).
   </div>
   <div class="grant-right"></div>
 </li>
@@ -112,8 +110,7 @@ Selected competitive funding as PI or co-PI includes:
 <li class="grant-item">
   <div class="grant-left">
     <span class="year"></span>
-    "Optimal spatiotemporal antiviral release under uncertainty"<br>
-    co-PI
+    "Optimal spatiotemporal antiviral release under uncertainty" (co-PI)    
   </div>
   <div class="grant-right"></div>
 </li>
@@ -121,7 +118,7 @@ Selected competitive funding as PI or co-PI includes:
 <li class="grant-item">
   <div class="grant-left">
     <span class="year">2018</span>
-    Laboratory Directed Research and Development, Sandia National Laboratories/US Department of Energy:
+    Laboratory Directed Research and Development, Sandia National Laboratories/US Department of Energy
   </div>
   <div class="grant-right">$80,000</div>
 </li>
