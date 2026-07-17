@@ -46,10 +46,9 @@ classes: cvpage
   <li><span class="year">2019 – 2022</span> Researcher, Discrete Mathematics, Friedrich-Alexander-Universität Erlangen–Nürnberg, Germany</li>
   <li><span class="year">2017 – 2019</span> Postdoctoral Appointee, Discrete Mathematics &amp; Optimization, Sandia National Laboratories, US</li>
   <li><span class="year">2016</span> Research Intern, Discrete Mathematics &amp; Optimization, Sandia National Laboratories, US</li>
-
   <li><span class="year">2017</span> Researcher, Institute of Operations Research, Karlsruhe Institute of Technology, Germany</li>
   <li><span class="year">2017</span> Senior Expert, Stockholm Environment Institute, Tallinn, Estonia</li>
-  <li><span class="year">2011 – 2016</span> Research/Teaching Assistant, Mechanical Engineering and/or Integrative Biology, The University of Texas at Austin, US</li>
+  <li><span class="year">2011 – 2016</span> Research and Teaching Assistant, Mechanical Engineering and Integrative Biology</li>
 </ul>
 </div>
 
@@ -72,9 +71,9 @@ classes: cvpage
   <li><span class="year">2026</span> Isaac Newton Institute for Mathematical Sciences, University of Cambridge, UK</li>
   <li><span class="year">2024 – 2025</span> TU Dresden, Germany</li>
   <li><span class="year">2024</span> University of Bayreuth, Germany</li>
-  <li><span class="year">2020 – 2022</span> External Member for the The University of Texas at Austin COVID-19 Modeling Consortium, US</li>
+  <li><span class="year">2020 – 2022</span> External Member for The University of Texas at Austin COVID-19 Modeling Consortium, US</li>
   <li><span class="year">2024</span> Invited academic stays at IIT Delhi, University of Bayreuth, TU Dresden, and Atatürk University</li>
-  <li><span class="year">2023</span> Invited academic stays at the University of Bergamo and Atatürk University</li>
+  <li><span class="year">2023</span> Invited academic stays at University of Bergamo and Atatürk University</li>
 </ul>
 </div>
 
@@ -86,11 +85,11 @@ Selected competitive funding as PI or co-PI includes:
 
   <div id="cvmobile" class="compact-list"> <ul>
 
-<li class="grant-item"> <div class="grant-left"><span class="year">2022 – 2027</span> German Research Foundation (DFG): <em>Optimal decision-making during pandemics</em> <br><small>Funding awarded for 2022–2025; no-cost extension to 2027.</small></div> <div class="grant-right">€115,310</div> </li>
+<li class="grant-item"> <div class="grant-left"><span class="year">2022 – 2027</span> German Research Foundation (DFG): Optimal decision-making during pandemics <br>Funding awarded for 2022–2025; no-cost extension to 2027. </div> <div class="grant-right">€115,310</div> </li>
 
-<li class="grant-item"> <div class="grant-left"><span class="year">2020</span> European Open Science Cloud Secretariat, Horizon 2020: <em>Optimal spatiotemporal antiviral release under uncertainty</em> <br><small>co-PI</small></div> <div class="grant-right">€44,160</div> </li>
+<li class="grant-item"> <div class="grant-left"><span class="year">2020</span> European Open Science Cloud Secretariat, Horizon 2020: Optimal spatiotemporal antiviral release under uncertainty<br>co-PI</div> <div class="grant-right">€44,160</div> </li>
 
-<li class="grant-item"> <div class="grant-left"><span class="year">2018</span> Laboratory Directed Research and Development, Sandia National Laboratories / US Department of Energy: <em>Chance-constrained optimization for critical infrastructure protection</em></div> <div class="grant-right">$80,000</div> </li>
+<li class="grant-item"> <div class="grant-left"><span class="year">2018</span> Laboratory Directed Research and Development, Sandia National Laboratories / US Department of Energy: Chance-constrained optimization for critical infrastructure protection </div> <div class="grant-right">$80,000</div> </li>
 
 </ul> </div>
 <p> Additional competitive grants awarded by American Public Power Association (US); Bavarian State Ministry for Science & Art; Bavarian Academic Center for Central, Eastern and Southeastern Europe (BAYHOST, Germany); European Cooperation in Science and Technology (COST); London Mathematical Society (LMS, UK); The Scientific and Technological Research Council of Turkey (TÜBİTAK, Turkey); the University of Southampton; The Alan Turing Institute (UK); and other national and international schemes.</p>
