@@ -42,22 +42,14 @@ classes: cvpage
 <div id="cvmobile" class="compact-list">
 <ul>
   <li><span class="year">2024 – Present</span> Associate Professor, School of Mathematical Sciences, University of Southampton, UK</li>
-  <li><span class="year">2022 – 2024</span> Assistant Professor, School of Mathematical Sciences, University of Southampton, UK</li>
-  <li><span class="year">2019 – 2022</span> E14 Researcher, Discrete Mathematics, University of Erlangen-Nuremberg, Germany</li>
-  <li><span class="year">2016 – 2019</span> Postdoctoral Researcher, Discrete Optimization, Sandia National Laboratories, US</li>
-  <li><span class="year">2017</span> E13 Researcher, Institute of Operations Research, Karlsruhe Institute of Technology, Germany</li>
+  <li><span class="year">2022 – 2024</span> Assistant Professor/Lecturer-B, School of Mathematical Sciences, University of Southampton, UK</li>
+  <li><span class="year">2019 – 2022</span> Researcher, Discrete Mathematics, Friedrich-Alexander-Universität Erlangen–Nürnberg, Germany</li>
+  <li><span class="year">2017 – 2019</span> Postdoctoral Appointee, Discrete Mathematics &amp; Optimization, Sandia National Laboratories, US</li>
+  <li><span class="year">2016</span> Research Intern, Discrete Mathematics &amp; Optimization, Sandia National Laboratories, US</li>
+
+  <li><span class="year">2017</span> Researcher, Institute of Operations Research, Karlsruhe Institute of Technology, Germany</li>
   <li><span class="year">2017</span> Senior Expert, Stockholm Environment Institute, Tallinn, Estonia</li>
   <li><span class="year">2011 – 2016</span> Research/Teaching Assistant, Mechanical Engineering and/or Integrative Biology, The University of Texas at Austin, US</li>
-</ul>
-</div>
-
-### External Affiliations
-
-<div id="cvmobile" class="compact-list">
-<ul>
-  <li><span class="year">2024 – 2025</span> Distinguished Research Fellow, TU Dresden, Germany</li>
-  <li><span class="year">2024 – Present</span> Member, Research Center for Modeling & Simulation, University of Bayreuth, Germany</li>
-  <li><span class="year">2022 – Present</span> External Collaborator, The University of Texas at Austin COVID-19 Modeling Consortium, US</li>
 </ul>
 </div>
 
@@ -71,90 +63,48 @@ classes: cvpage
 </ul>
 </div>
 
+### Selected Affiliations & Academic Stays
 
-
-### Invited Academic Stays (selection)
-<div id="cvmobile" class="compact-list">
+<div class="compact-list cvmobile">
 <ul>
-  <li><span class="year">2024</span> TU Dresden, Germany (5 weeks)</li>
-  <li><span class="year">2024</span> University of Bayreuth, Germany (3 weeks)</li>
-  <li><span class="year">2024</span> IIT Delhi, India (2 weeks)</li>
-  <li><span class="year">2023</span> University of Bergamo, Italy (2 weeks)</li>
-  <li><span class="year">2023</span> Ataturk University, Turkey (1 month)</li>
-  <li><span class="year">2021</span> Far Eastern Federal University, Vladivostok, Russia (2 weeks)</li>
-  <li><span class="year">2019 & 2018</span> Saint Petersburg Electrotechnical University, Russia (2 weeks each)</li>
-  <li><span class="year">2015</span> Higher School of Economics, Perm, Russia (3 months)</li>
+  <li><span class="year">2026</span> Plaksha University, India</li>
+  <li><span class="year">2026</span> Beijing Institute of Mathematical Sciences and Applications/Tsinghua University, China</li>
+  <li><span class="year">2026</span> Isaac Newton Institute for Mathematical Sciences, University of Cambridge, UK</li>
+  <li><span class="year">2024 – 2025</span> TU Dresden, Germany</li>
+  <li><span class="year">2024</span> University of Bayreuth, Germany</li>
+  <li><span class="year">2020 – 2022</span> External Member for the The University of Texas at Austin COVID-19 Modeling Consortium, US</li>
+  <li><span class="year">2024</span> Invited academic stays at IIT Delhi, University of Bayreuth, TU Dresden, and Atatürk University</li>
+  <li><span class="year">2023</span> Invited academic stays at the University of Bergamo and Atatürk University</li>
 </ul>
 </div>
+
 
 ### Third Party Funding (selection)
-≈ €360,000 of total funding as a PI or co-PI
-<div id="cvmobile" class="compact-list">
-<ul>
-  <li class="grant-item">
-    <div class="grant-left"><span class="year">2023–2025</span> Grants from the Heilbronn Institute for Mathematical Research</div>
-    <div class="grant-right">£13,155</div>
-  </li>
+≈ €360,000 in competitive funding as PI or co-PI, excluding negotiated institutional matching and smaller travel awards. 
 
-  <li class="grant-item">
-    <div class="grant-left"><span class="year">2022–2026</span> Several competitive grants from the University of Southampton on interdisciplinary data-science topics</div>
-    <div class="grant-right">£66,928</div>
-  </li>
+Selected competitive funding as PI or co-PI includes:
 
-  <li class="grant-item">
-    <div class="grant-left"><span class="year">2022–2026</span> Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)</div>
-    <div class="grant-right">€115,310</div>
-  </li>
-  <li class="grant-item">
-    <div class="grant-left"><span class="year"></span> "<em>Optimal decision-making during pandemics</em>"</div>
-  </li>
+  <div id="cvmobile" class="compact-list"> <ul>
 
-  <li class="grant-item">
-    <div class="grant-left"><span class="year">2021</span> Bavarian State Ministry for Science & Art</div>
-    <div class="grant-right">€10,000</div>
-  </li>
-  <li class="grant-item">
-    <div class="grant-left"><span class="year"></span> "<em>Greedy algorithms for fair allocations & efficient assignments within facility location problems</em>"</div>
-  </li>
+<li class="grant-item"> <div class="grant-left"><span class="year">2022 – 2027</span> German Research Foundation (DFG): <em>Optimal decision-making during pandemics</em> <br><small>Funding awarded for 2022–2025; no-cost extension to 2027.</small></div> <div class="grant-right">€115,310</div> </li>
 
-  <li class="grant-item">
-    <div class="grant-left"><span class="year">2020–2021</span> Bavarian-Czech Republic Academic Projects</div>
-    <div class="grant-right">€14,893</div>
-  </li>
-  <li class="grant-item">
-    <div class="grant-left"><span class="year"></span> "<em>Fairly allocating vaccines for COVID-19</em>" & "<em>Optimal decision making for COVID-19</em>"</div>
-  </li>
+<li class="grant-item"> <div class="grant-left"><span class="year">2020</span> European Open Science Cloud Secretariat, Horizon 2020: <em>Optimal spatiotemporal antiviral release under uncertainty</em> <br><small>co-PI</small></div> <div class="grant-right">€44,160</div> </li>
 
-  <li class="grant-item">
-    <div class="grant-left"><span class="year">2020</span> European Open Science Cloud (EOSC) Secretariat, Horizon 2020</div>
-    <div class="grant-right">€44,160</div>
-  </li>
-  <li class="grant-item">
-    <div class="grant-left"><span class="year"></span> "<em>Optimal spatiotemporal antiviral release under uncertainty</em>"</div>
-  </li>
+<li class="grant-item"> <div class="grant-left"><span class="year">2018</span> Laboratory Directed Research and Development, Sandia National Laboratories / US Department of Energy: <em>Chance-constrained optimization for critical infrastructure protection</em></div> <div class="grant-right">$80,000</div> </li>
 
-  <li class="grant-item">
-    <div class="grant-left"><span class="year">2018</span> Laboratory Directed Research & Development, US Department of Energy</div>
-    <div class="grant-right">$80,000</div>
-  </li>
-  <li class="grant-item">
-    <div class="grant-left"><span class="year"></span> "<em>Chance-constrained optimization for critical infrastructure protection</em>"</div>
-  </li>
-</ul>
-</div>
+</ul> </div>
+<p> Additional competitive grants awarded by American Public Power Association (US); Bavarian State Ministry for Science & Art; Bavarian Academic Center for Central, Eastern and Southeastern Europe (BAYHOST, Germany); European Cooperation in Science and Technology (COST); London Mathematical Society (LMS, UK); The Scientific and Technological Research Council of Turkey (TÜBİTAK, Turkey); the University of Southampton; The Alan Turing Institute (UK); and other national and international schemes.</p>
 
-
-Several other small, but competitive, grants from agencies including the American Public Power Association (US); Bavarian Academic Center for Central, Eastern and Southeastern Europe (BAYHOST, Germany); London Mathematical Society (LMS, UK); The Scientific and Technological Research Council of Turkey (TÜBİTAK, Turkey); and The Alan Turing Institute (UK).
-
-### Memberships
+### Professional Memberships & Service
 <div class="compact-list">
 <ul>
+  <li>Editorial Board Member, <em>Optimization Letters</em> (2026–Present)</li>
   <li>Fellow, Institute of Mathematics and its Applications (FIMA)</li>
   <li>Senior Member, IEEE (SMIEEE)</li>
   <li>Associate Fellow, The OR Society (AFORS)</li>
   <li>Member, German OR Society</li>
   <li>Member, Institute for Operations Research and the Management Sciences (INFORMS)</li>
-  <li>Committee Member, London Mathematical Society (2022–2028)</li>
+  <li>Committee Member, London Mathematical Society (2022–2026)</li>
   <li>Expert Reviewer, European Science Foundation (2025–2028)</li>
   <li>Member, Randomised Optimisation Algorithms Research Network, European Cooperation in Science & Technology (COST)</li>
 
@@ -164,6 +114,7 @@ Several other small, but competitive, grants from agencies including the America
 ### Honors & Awards (Selection)
 <div id="cvmobile" class="compact-list">
 <ul>
+  <li><span class="year">2025 – 2026</span> Dresden Senior Fellowship, TU Dresden, Germany</li>
   <li><span class="year">2024</span> Distinguished Research Fellowship, TU Dresden, Germany</li>
   <li><span class="year">2023</span> Mathematics Young Investigator Award (1st place)</li>
   <li><span class="year">2019</span> IISE Health Systems Best Track Paper Award (2nd place)</li>
@@ -178,13 +129,21 @@ Several other small, but competitive, grants from agencies including the America
 
 <div class="compact-list square-bullets">
 <ul>
+  <li>Jaidee, M., Sun, Z., Singh, S., Nguyen, T., &amp; Singh, B. (2026). "Optimizing Household Waste Recycling Centre network reorganization in Hampshire". <i>Networks</i>. <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70056" style="color: #0066cc; text-decoration: none;">Link</a></li>
+
+  <li>Schmidt, M. & Singh, B. (2025). "The balanced facility location problem: Complexity and heuristics". <i>INFORMS Journal on Computing</i>. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0693" style="color: #0066cc; text-decoration: none;">Link</a></li>
+  
   <li>Singh, B. & Rebennack, S. (2025). "Release immediately or sequentially? Strategies for allocating scarce therapeutic resources during disease outbreaks". <i>IISE Transactions</i>. <a href="https://www.tandfonline.com/doi/full/10.1080/24725854.2025.2525918" style="color: #0066cc; text-decoration: none;">Link</a></li>
+    
+  <li>Suresh, N. & Singh, B. (2025). "Optimizing a heritage railway provider's volunteer workforce allocation: The case of Swanage Railway". <i>INFORMS Journal on Applied Analytics</i>. <a href="https://pubsonline.informs.org/doi/10.1287/inte.2024.0160" style="color: #0066cc; text-decoration: none;">Link</a></li>
+
   <li>Schmitt, C. & Singh, B. (2024). "Quadratic optimization models for balancing preferential access and fairness: Formulations and optimality conditions". <i>INFORMS Journal on Computing</i>. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0308" style="color: #0066cc; text-decoration: none;">Link</a></li>
-  <li>Singh, B., Oberfichtner, L., & Ivliev, S. (2022). "Heuristics for a cash-collection routing problem with a cluster-first route-second approach". <i>Annals of Operations Research</i>. <a href="https://link.springer.com/article/10.1007/s10479-022-04883-1" style="color: #0066cc; text-decoration: none;">Link</a></li>
+
+  
   <li>Singh, B., & Knueven, B. (2021). "Lagrangian relaxation-based heuristics for a chance-constrained optimization model of a hybrid solar-battery storage system". <i>Journal of Global Optimization</i>. <a href="https://link.springer.com/article/10.1007/s10898-021-01041-y" style="color: #0066cc; text-decoration: none;">Link</a></li>
+
   <li>Duque, D., Morton, D. P., Singh, B., Du, Z., Pasco, R., & Meyers, L. A. (2020). "Timing social distancing to avert unmanageable COVID-19 hospital surges". <i>Proceedings of the National Academy of Sciences (PNAS)</i>. <a href="https://www.pnas.org/doi/10.1073/pnas.2009033117" style="color: #0066cc; text-decoration: none;">Link</a></li>
 </ul>
 </div>
 
 **Languages**: English & Hindi (fluent), Russian & German (basic).
-
