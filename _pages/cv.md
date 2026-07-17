@@ -85,11 +85,54 @@ Selected competitive funding as PI or co-PI includes:
 
   <div id="cvmobile" class="compact-list"> <ul>
 
-<li class="grant-item"> <div class="grant-left"><span class="year">2022 – 2027</span> German Research Foundation (DFG): Optimal decision-making during pandemics <br>Funding awarded for 2022–2025; no-cost extension to 2027. </div> <div class="grant-right">€115,310</div> </li>
+<li class="grant-item">
+  <div class="grant-left">
+    <span class="year">2022–2027</span>
+    German Research Foundation (DFG):
+  </div>
+  <div class="grant-right">€115,310</div>
+</li>
 
-<li class="grant-item"> <div class="grant-left"><span class="year">2020</span> European Open Science Cloud Secretariat, Horizon 2020: Optimal spatiotemporal antiviral release under uncertainty<br>co-PI</div> <div class="grant-right">€44,160</div> </li>
+<li class="grant-item">
+  <div class="grant-left">
+    <span class="year"></span>
+    "Optimal decision-making during pandemics" (no-cost extension to 2027).
+  </div>
+  <div class="grant-right"></div>
+</li>
 
-<li class="grant-item"> <div class="grant-left"><span class="year">2018</span> Laboratory Directed Research and Development, Sandia National Laboratories / US Department of Energy: Chance-constrained optimization for critical infrastructure protection </div> <div class="grant-right">$80,000</div> </li>
+<li class="grant-item">
+  <div class="grant-left">
+    <span class="year">2020</span>
+    European Open Science Cloud Secretariat, Horizon 2020:
+  </div>
+  <div class="grant-right">€44,160</div>
+</li>
+
+<li class="grant-item">
+  <div class="grant-left">
+    <span class="year"></span>
+    "Optimal spatiotemporal antiviral release under uncertainty"<br>
+    co-PI
+  </div>
+  <div class="grant-right"></div>
+</li>
+
+<li class="grant-item">
+  <div class="grant-left">
+    <span class="year">2018</span>
+    Laboratory Directed Research and Development, Sandia National Laboratories/US Department of Energy:
+  </div>
+  <div class="grant-right">$80,000</div>
+</li>
+
+<li class="grant-item">
+  <div class="grant-left">
+    <span class="year"></span>
+    "Chance-constrained optimization for critical infrastructure protection"
+  </div>
+  <div class="grant-right"></div>
+</li>
 
 </ul> </div>
 <p> Additional competitive grants awarded by American Public Power Association (US); Bavarian State Ministry for Science & Art; Bavarian Academic Center for Central, Eastern and Southeastern Europe (BAYHOST, Germany); European Cooperation in Science and Technology (COST); London Mathematical Society (LMS, UK); The Scientific and Technological Research Council of Turkey (TÜBİTAK, Turkey); the University of Southampton; The Alan Turing Institute (UK); and other national and international schemes.</p>
