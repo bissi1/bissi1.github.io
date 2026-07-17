@@ -118,7 +118,7 @@ classes: cvpage
 <li class="grant-item">
   <div class="grant-left">
     <span class="year">2018</span>
-    Laboratory Directed Research and Development, Sandia National Laboratories/US Department of Energy
+    Laboratory Directed Research and Development, Sandia National Laboratories / US Department of Energy
   </div>
   <div class="grant-right">$80,000</div>
 </li>
@@ -154,7 +154,7 @@ classes: cvpage
 <div id="cvmobile" class="compact-list">
 <ul>
   <li><span class="year">2025 – 2026</span> Dresden Senior Fellowship, TU Dresden, Germany</li>
-  <li><span class="year">2024</span> Distinguished Research Fellowship, TU Dresden, Germany</li>
+  <li><span class="year">2024 – 2025</span> Distinguished Research Fellowship, TU Dresden, Germany</li>
   <li><span class="year">2023</span> Mathematics Young Investigator Award (1st place)</li>
   <li><span class="year">2019</span> IISE Health Systems Best Track Paper Award (2nd place)</li>
   <li><span class="year">2016</span> Utility Variable-Generation Integration Group Academic Award</li>
