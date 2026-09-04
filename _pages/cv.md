@@ -34,7 +34,12 @@ classes: cvpage
 }
 </style>
 
-
+ <a href="/assets/files/Bismark_Singh_CV.pdf"
+     class="btn btn--primary"
+     target="_blank"
+     rel="noopener">
+    Download Full CV
+  </a>
 
 ### Appointments
 

@@ -52,6 +52,7 @@ Publications co-authored with <strong><em>my students</em></strong> are indicate
 
 <div class="square-bullets"> 
   <ul>
+    <li>[R13] Sarda, P. B. Singh "Denomination: A sequential placement puzzle for teaching integer programming".</li>
     <li>[R12] Shajeeb, J. Jacob, B. Singh, A. Krishnamoorthy "Product-form queueing-inventory systems with two types of negative customers".</li>
     <li>[R11] S. Zeller, B. Singh, S. Rebennack "Action sparsity in Markov decision processes and stochastic dynamic programming: SAA-guided policy pre-training and pumped-hydro bidding".</li>
     <li>[R10] Y. Cheng, Z. Deng, P. Wang, B. Singh "Optimal procurement auctions in dynamic stochastic environments".</li>

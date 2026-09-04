@@ -42,7 +42,7 @@ I have previously hosted and worked with postdoctoral researchers through extern
 
 
 ## Team & Alumni
-My team members have come from a variety of interdisciplinary scientific backgrounds.  The list below highlights recent and former team members, together with selected publications, awards, and research outcomes. You could be next!
+My team members have come from a variety of interdisciplinary scientific backgrounds.  The list below highlights some of my recent and former team members, together with selected publications, awards, and research outcomes. You could be next!
 
 <div class="square-bullets">
 <ul>
@@ -54,12 +54,12 @@ My team members have come from a variety of interdisciplinary scientific backgro
     <li><em>Article in <a href="https://www.researchgate.net/publication/395703168_Measuring_the_Economic_Value_of_Wind-Solar_Complementarity_in_Europe_Using_Chance_Constraints" style="text-decoration: none;">peer-review</a></em></li>
   </ul>
 </li>
-
+<li> Parth Sarda (Mathematics), Indian Institute of Science Education and Research (IISER) Pune, India </li>
 <li> Astha Lohia (Mathematics), IIT Delhi, India (joint with Prof. Vikas Vikram Singh) </li>
 <li> Akshat Chaudhary (Mathematics), IIT Delhi, India (joint with Prof. Vikas Vikram Singh) </li>
-<li>Simon Zeller (Operations Research), Karlsruhe Institute of Technology, Germany</li>
-<li>Dr. Hongtao Wang (Mathematics), University of Southampton, UK</li>
-<li>Thi Nguyen (Business), University of Southampton, UK</li>
+<li> Simon Zeller (Operations Research), Karlsruhe Institute of Technology, Germany</li>
+<li> Dr. Hongtao Wang (Mathematics), University of Southampton, UK</li>
+<li> Thi Nguyen (Business), University of Southampton, UK</li>
 <ul>
   <li><em>Published in <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70056" style="text-decoration: none;">Networks</a></em></li>
   </ul>
