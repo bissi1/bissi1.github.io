@@ -136,6 +136,28 @@ classes: honors page-honors
 
 </style>
 
+<!-- China: 2 Images -->
+<div class="full-width-container content-block">
+  <div class="image-row layout-two">
+    <div class="image-col">
+      <div class="image-wrapper">
+        <img src="/assets/images/cas.jpg" alt="cas event" style ="height: 430px; width: 800px;">
+      </div>
+      <div class="image-caption">
+        Invited lecture at <a href="https://www.cc.ac.cn/en/article/15/4460.html" target="_blank"> Chinese Academy of Sciences</a> (2026).
+      </div>
+    </div>
+    <div class="image-col">
+      <div class="image-wrapper">
+        <img src="/assets/images/jiangnan.jpg" alt="jiangnan event" style ="height: 430px; width: auto;">
+      </div>
+      <div class="image-caption">
+        At Jiangnan University (2026).
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <!-- UoS and St Johns Row: 2 Images -->
 <div class="full-width-container content-block">
