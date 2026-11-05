@@ -8,16 +8,14 @@ classes: full
 
 I publish in a diverse variety of journals reflecting the interdisciplinary nature of my research. For citation counts or other metrics, please see my <a href="https://scholar.google.com/citations?user=qA9YJYYAAAAJ&hl=en" style="color: #0066cc; text-decoration: none;">Google Scholar</a>, <a href="https://www.scopus.com/authid/detail.uri?authorId=56493626200&origin=AuthorEval" style="color: #0066cc; text-decoration: none;">Scopus</a>, or <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1092994" style="color: #0066cc; text-decoration: none;">MathSciNet</a> pages.
 
-
-
 ### Indexing and Recognition
 
 <div class="square-bullets">
   <ul>
     <li><strong><em>21 publications</em></strong> in journals indexed in the <strong><em>2024 German VHB</em></strong> Rating for Operations Research (OR):
       <ul>
-        <li><strong><em>A-rated</em></strong>: [37], [33], [30], [28], [25], [24], [23], [15], [9]</li>
-        <li><strong><em>B-rated</em></strong>: [36], [34], [31], [29], [27], [21], [12], [11], [10], [7], [6], [5]</li>
+        <li><strong><em>A-rated</em></strong>: [36], [33], [30], [28], [25], [24], [23], [15], [9]</li>
+        <li><strong><em>B-rated</em></strong>: [35], [34], [31], [29], [27], [21], [12], [11], [10], [7], [6], [5]</li>
       </ul>
     </li>
     <li><strong><em>23 publications</em></strong> in journals indexed in the 2023 <strong><em>AMS MathSciNet list</em></strong>:  
@@ -69,19 +67,27 @@ Publications co-authored with <strong><em>my students</em></strong> are indicate
 </div>
 
 
+
 ## Peer-reviewed Journal Articles:
 ---
+### 2027
+<div class="square-bullets">
+<ul>
+<li>[37] B. Singh "On the resolution of ties in fair convex allocation programs".<br>
+  In: <a href="https://journalofconvexanalysis.com/articles/jca34036/" style="color: #0066cc; text-decoration: none;"><i>Journal of Convex Analysis</i></a></li>
+</ul>
+</div>
+
 ### 2026
 <div class="square-bullets">
 <ul>
-<li>[37] M. Jaidee<sup>(*)</sup>, Z. Sun<sup>(*)</sup>, S. Singh, T. Nguyen<sup>(*)</sup>, B. Singh "Optimizing Household Waste Recycling Centre network reorganization in Hampshire".<br>
+<li>[36] M. Jaidee<sup>(*)</sup>, Z. Sun<sup>(*)</sup>, S. Singh, T. Nguyen<sup>(*)</sup>, B. Singh "Optimizing Household Waste Recycling Centre network reorganization in Hampshire".<br>
   In: <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70056" style="color: #0066cc; text-decoration: none;"><i>Networks </i></a></li>
-<li>[36] Y. Akbulut, B. Singh "On the optimal control of initial velocity in a hyperbolic beam equation by the variational method".<br>
+<li>[35] Y. Akbulut, B. Singh "On the optimal control of initial velocity in a hyperbolic beam equation by the variational method".<br>
    In: <a href="https://link.springer.com/article/10.1007/s11590-026-02296-8" style="color: #0066cc; text-decoration: none;"><i>Optimization Letters </i></a></li>
-<li>[35] B. Singh "On the resolution of ties in fair convex allocation programs".<br>
-  In: <a href="https://www.heldermann.de/JCA/jcacover.htm" style="color: #0066cc; text-decoration: none;"><i>Journal of Convex Analysis (to appear)</i></a></li>
 </ul>
 </div>
+
 
 ### 2025
 <div class="square-bullets">
