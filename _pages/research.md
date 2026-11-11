@@ -1,5 +1,5 @@
 ---
-title: "Research Portfolio"
+title: "Research Program"
 permalink: /research/
 layout: archive
 classes: full
@@ -14,7 +14,10 @@ Two themes shape much of my work:
   </ul>
 </div>
 
-My research is grounded in mathematical theory but always motivated by real-world challenges. Key application areas include public-health preparedness, infectious disease outbreaks, energy-system planning, sustainability, and resource allocation (details below). Over the past 15 years, I have collaborated with governments, public agencies, and research institutes across the US, Europe, and Asia.
+My research is grounded in mathematical theory but very often motivated by real-world challenges. Key application areas include public-health preparedness, infectious disease outbreaks, energy-system planning, sustainability, and resource allocation (details below). Over the past 15 years, I have collaborated with governments, public agencies, and research institutes across the US, Europe, and Asia.
+
+
+<strong>Selected funding agencies and partners:</strong>
 
 <strong> Selected funding agencies and partners:</strong>
 <img src="/assets/images/funding_new.png" alt="Interdisciplinary Research" 
