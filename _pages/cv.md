@@ -60,24 +60,22 @@ classes: cvpage
 </ul>
 </div>
 
-### Selected Affiliations & Academic Stays
+### Selected International Appointments & Academic Stays
 
 <div id="cvmobile" class="compact-list">
 <ul>
-  <li><span class="year">2026</span> Plaksha University, India</li>
-  <li><span class="year">2026</span> Beijing Institute of Mathematical Sciences and Applications / Tsinghua University, China </li>
-  <li><span class="year">2026</span> Isaac Newton Institute for Mathematical Sciences, University of Cambridge, UK </li>
-  <li><span class="year">2024 – 2025</span> TU Dresden, Germany</li>
-  <li><span class="year">2024</span> University of Bayreuth, Germany</li>
-  <li><span class="year">2020 – 2022</span> External Member for The University of Texas at Austin COVID-19 Modeling Consortium, US</li>
-  <li><span class="year">2024</span> Invited academic stays at IIT Delhi, University of Bayreuth, TU Dresden, and Atatürk University</li>
-  <li><span class="year">2023</span> Invited academic stays at University of Bergamo and Atatürk University</li>
+  <li><span class="year">2026</span> Visiting Professor, Beijing Institute of Mathematical Sciences and Applications (BIMSA), China</li>
+  <li><span class="year">2026</span> Guest Professor, Plaksha University, India</li>
+  <li><span class="year">2026</span> Visiting Fellow, Isaac Newton Institute for Mathematical Sciences, Cambridge, UK </li>
+  <li><span class="year">2024 – 2025</span> Distinguished Research Fellow, TU Dresden, Germany</li>
+  <li><span class="year">2024</span> Humboldt Centre Short-Term Grantee, University of Bayreuth, Germany</li>
+  <li><span class="year">2020 – 2022</span> External Member, The University of Texas at Austin COVID-19 Modeling Consortium, US</li>
 </ul>
 </div>
 
 
-### Third Party Funding (selection)
-≈ €360,000 in competitive funding as PI or co-PI, excluding negotiated institutional matching and smaller travel awards. 
+### Selected Research Funding
+≈ €370,000 in competitive funding as PI or co-PI, excluding negotiated institutional matching and smaller travel awards. 
 
   <div id="cvmobile" class="compact-list"> <ul>
 
@@ -132,6 +130,20 @@ classes: cvpage
 </ul> </div>
 <p> Additional competitive grants awarded by American Public Power Association (US); Bavarian State Ministry for Science & Art; Bavarian Academic Center for Central, Eastern and Southeastern Europe (BAYHOST, Germany); European Cooperation in Science and Technology (COST); London Mathematical Society (LMS, UK); The Scientific and Technological Research Council of Turkey (TÜBİTAK, Turkey); the University of Southampton; The Alan Turing Institute (UK); and other national and international schemes.</p>
 
+
+### Honors & Awards (Selection)
+<div id="cvmobile" class="compact-list">
+<ul>
+  <li><span class="year">2025 – 2026</span> Dresden Senior Fellowship, TU Dresden, Germany</li>
+  <li><span class="year">2024 – 2025</span> Distinguished Research Fellowship, TU Dresden, Germany</li>
+  <li><span class="year">2023</span> Mathematics Young Investigator Award </li>
+  <li><span class="year">2019</span> IISE Health Systems Best Track Paper Award (2nd place)</li>
+  <li><span class="year">2016</span> Utility Variable-Generation Integration Group Academic Award</li>
+  <li><span class="year">2015</span> Warren & Alice Meyer Endowed Scholarship, UT Austin</li>
+  <li><span class="year">2014</span> INFORMS Doing Good with Good OR Paper Award (Finalist)</li>
+</ul>
+</div>
+
 ### Professional Memberships & Service (Selection)
 <div class="compact-list">
 <ul>
@@ -144,19 +156,10 @@ classes: cvpage
 </ul>
 </div>
 
-### Honors & Awards (Selection)
-<div id="cvmobile" class="compact-list">
-<ul>
-  <li><span class="year">2025 – 2026</span> Dresden Senior Fellowship, TU Dresden, Germany</li>
-  <li><span class="year">2024 – 2025</span> Distinguished Research Fellowship, TU Dresden, Germany</li>
-  <li><span class="year">2023</span> Mathematics Young Investigator Award </li>
-  <li><span class="year">2019</span> IISE Health Systems Best Track Paper Award (2nd place)</li>
-  <li><span class="year">2016</span> Utility Variable-Generation Integration Group Academic Award</li>
-  <li><span class="year">2015</span> Warren & Alice Meyer Endowed Scholarship, UT Austin</li>
-  <li><span class="year">2014</span> INFORMS Doing Good with Good OR Paper Award (Finalist)</li>
-  <li><span class="year">2013</span> INFORMS Interactive Sessions Competition (2nd place)</li>
-</ul>
-</div>
+### Book
+
+B. Singh. <em>Optimization and Data-Driven Decision-Making: From Deterministic to Chance-Constrained Models</em>. Lecture Notes in Economics and Mathematical Systems. Springer Nature, forthcoming 2027. <a href="https://link.springer.com/book/9783032431530" style="color: #0066cc; text-decoration: none;">Springer →</a>
+
 
 ### Selected Publications
 
@@ -167,16 +170,20 @@ classes: cvpage
   <li>Schmidt, M. & Singh, B. (2025). "The balanced facility location problem: Complexity and heuristics". <i>INFORMS Journal on Computing</i>. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0693" style="color: #0066cc; text-decoration: none;">Link</a></li>
   
   <li>Singh, B. & Rebennack, S. (2025). "Release immediately or sequentially? Strategies for allocating scarce therapeutic resources during disease outbreaks". <i>IISE Transactions</i>. <a href="https://www.tandfonline.com/doi/full/10.1080/24725854.2025.2525918" style="color: #0066cc; text-decoration: none;">Link</a></li>
-    
-  <li>Suresh, N. & Singh, B. (2025). "Optimizing a heritage railway provider's volunteer workforce allocation: The case of Swanage Railway". <i>INFORMS Journal on Applied Analytics</i>. <a href="https://pubsonline.informs.org/doi/10.1287/inte.2024.0160" style="color: #0066cc; text-decoration: none;">Link</a></li>
-
+   
   <li>Schmitt, C. & Singh, B. (2024). "Quadratic optimization models for balancing preferential access and fairness: Formulations and optimality conditions". <i>INFORMS Journal on Computing</i>. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0308" style="color: #0066cc; text-decoration: none;">Link</a></li>
 
-  
-  <li>Singh, B., & Knueven, B. (2021). "Lagrangian relaxation-based heuristics for a chance-constrained optimization model of a hybrid solar-battery storage system". <i>Journal of Global Optimization</i>. <a href="https://link.springer.com/article/10.1007/s10898-021-01041-y" style="color: #0066cc; text-decoration: none;">Link</a></li>
+  <li>Singh, B. & Knueven, B. (2021). "Lagrangian relaxation-based heuristics for a chance-constrained optimization model of a hybrid solar-battery storage system". <i>Journal of Global Optimization</i>. <a href="https://link.springer.com/article/10.1007/s10898-021-01041-y" style="color: #0066cc; text-decoration: none;">Link</a></li>
+
+  <li>Yang, H., Sürer, Ö., Duque, D., Morton, D. P., Singh, B., et al. (2021). "Design of COVID-19 staged alert systems to ensure healthcare capacity with minimal closures". <i>Nature Communications</i>. <a href="https://doi.org/10.1038/s41467-021-23989-x" style="color: #0066cc; text-decoration: none;">Link</a></li>
 
   <li>Duque, D., Morton, D. P., Singh, B., Du, Z., Pasco, R., & Meyers, L. A. (2020). "Timing social distancing to avert unmanageable COVID-19 hospital surges". <i>Proceedings of the National Academy of Sciences (PNAS)</i>. <a href="https://www.pnas.org/doi/10.1073/pnas.2009033117" style="color: #0066cc; text-decoration: none;">Link</a></li>
 </ul>
 </div>
 
 **Languages**: English & Hindi (fluent), Russian & German (basic).
+
+
+<div style="margin: 1.5rem 0 0.5rem 0;">
+  <a href="/assets/files/Bismark_Singh_CV.pdf" class="btn btn--primary" target="_blank" rel="noopener">Full Academic CV (PDF)</a>
+</div>

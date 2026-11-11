@@ -152,7 +152,7 @@ classes: honors page-honors
         <img src="/assets/images/jiangnan.jpg" alt="jiangnan event" style ="height: 430px; width: auto;">
       </div>
       <div class="image-caption">
-        At Jiangnan University (2026).
+        Invited lecture at Jiangnan University (2026).
       </div>
     </div>
   </div>
