@@ -21,6 +21,7 @@ B. Singh. <em>Optimization and Data-Driven Decision-Making: From Deterministic t
 ## Peer-reviewed Journal Articles
 
 <h3 class="publication-year">2027</h3>
+
 <div class="square-bullets">
 <ul>
 
@@ -31,8 +32,6 @@ In: <a href="https://journalofconvexanalysis.com/articles/jca34036/" style="colo
 </div>
 
 <h3 class="publication-year">2026</h3>
-<div class="square-bullets">
-<ul>
 
 <div class="square-bullets">
 <ul>
@@ -49,7 +48,7 @@ In: <a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201
 </ul>
 </div>
 
-### 2025
+<h3 class="publication-year">2025</h3>
 
 <div class="square-bullets">
 <ul>
@@ -75,7 +74,7 @@ In: <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0693" style="c
 </ul>
 </div>
 
-### 2024
+<h3 class="publication-year">2024</h3>
 
 <div class="square-bullets">
 <ul>
@@ -95,7 +94,7 @@ In: <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0308" style="c
 </ul>
 </div>
 
-### 2022
+<h3 class="publication-year">2022</h3>
 
 <div class="square-bullets">
 <ul>
@@ -115,7 +114,7 @@ In: <a href="https://doi.org/10.1007/s00283-021-10138-x" style="color: #0066cc; 
 </ul>
 </div>
 
-### 2021
+<h3 class="publication-year">2021</h3>
 
 <div class="square-bullets">
 <ul>
@@ -138,7 +137,7 @@ In: <a href="https://doi.org/10.1007/s10729-020-09538-w" style="color: #0066cc; 
 </ul>
 </div>
 
-### 2020
+<h3 class="publication-year">2020</h3>
 
 <div class="square-bullets">
 <ul>
@@ -161,7 +160,7 @@ In: <a href="https://doi.org/10.1007/s11590-020-01592-1" style="color: #0066cc; 
 </ul>
 </div>
 
-### 2019
+<h3 class="publication-year">2019</h3>
 
 <div class="square-bullets">
 <ul>
@@ -178,7 +177,7 @@ In: <a href="https://doi.org/10.1007/s11590-019-01387-z" style="color: #0066cc; 
 </ul>
 </div>
 
-### 2018
+<h3 class="publication-year">2018</h3>
 
 <div class="square-bullets">
 <ul>
@@ -189,7 +188,7 @@ In: <a href="https://doi.org/10.1007/s10287-018-0309-x" style="color: #0066cc; t
 </ul>
 </div>
 
-### 2017
+<h3 class="publication-year">2017</h3>
 
 <div class="square-bullets">
 <ul>
@@ -203,7 +202,7 @@ In: <a href="https://doi.org/10.1186/s13104-017-2496-x" style="color: #0066cc; t
 </ul>
 </div>
 
-### 2016
+<h3 class="publication-year">2016</h3>
 
 <div class="square-bullets">
 <ul>
@@ -217,7 +216,7 @@ In: <a href="https://doi.org/10.1007/s00283-016-9651-4" style="color: #0066cc; t
 </ul>
 </div>
 
-### 2015
+<h3 class="publication-year">2015</h3>
 
 <div class="square-bullets">
 <ul>
@@ -268,7 +267,7 @@ In: <a href="https://wwwnc.cdc.gov/eid/article/21/2/14-1024_article" style="colo
 
 ## Peer-reviewed Conference & Book Chapters
 
-### 2025
+<h3 class="publication-year">2025</h3>
 
 <div class="square-bullets">
 <ul>
@@ -279,7 +278,7 @@ In: <a href="https://openreview.net/forum?id=aGtZzovQfZ" style="color: #0066cc; 
 </ul>
 </div>
 
-### 2023
+<h3 class="publication-year">2023</h3>
 
 <div class="square-bullets">
 <ul>
@@ -296,7 +295,7 @@ In: <a href="https://link.springer.com/rwe/10.1007/978-3-030-54621-2_785-1" styl
 </ul>
 </div>
 
-### 2019
+<h3 class="publication-year">2019</h3>
 
 <div class="square-bullets">
 <ul>
@@ -310,7 +309,7 @@ In: <a href="https://ieeexplore.ieee.org/document/8905430/" style="color: #0066c
 </ul>
 </div>
 
-### 2012
+<h3 class="publication-year">2012</h3>
 
 <div class="square-bullets">
 <ul>
