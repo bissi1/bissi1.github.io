@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Bismark Singh"
 author_profile: true
 layout: archive          
 redirect_from: 
@@ -8,59 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-I am Bismark Singh, an Associate Professor in the Operational Research group at the School of Mathematical Sciences, University of Southampton, UK. 
+I am Bismark Singh, an Associate Professor of Operational Research in the School of Mathematical Sciences at the University of Southampton, UK. My research lies at the intersection of mathematical optimization, data-driven decision-making, and quantitative modeling. A central strand develops theory, models, and algorithms for optimization under uncertainty and fairness, while my broader interdisciplinary work spans energy systems, public health and epidemiology, sustainability, logistics, and resource allocation. <a href="/research/" style="text-decoration: none;">Explore my research →</a>
 
-My academic foundation is rooted in an interdisciplinary quantitative data-science background. I have a habilitation in mathematics from the Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany.  I earned my PhD and Master's degrees in operations research from The University of Texas at Austin, US, where I worked under the guidance of <a href= "https://sites.northwestern.edu/dmorton/" style="text-decoration: none;">David Morton</a> (optimization) and <a href= "https://www.bio.utexas.edu/research/meyers/" style="text-decoration: none;">Lauren Meyers</a>  (biology). I spent almost three years at Sandia National Laboratories working on large-scale stochastic optimization models. My undergraduate journey began at the Indian Institute of Technology (IIT) Delhi, India, where I graduated in chemical engineering.  <a href="/cv/" style="text-decoration: none;">Short CV →</a>
+Before joining Southampton, I held research positions at the Friedrich-Alexander-Universität Erlangen–Nürnberg and Sandia National Laboratories. I hold a habilitation in mathematics from FAU Erlangen–Nürnberg, a PhD and MSc in Operations Research from The University of Texas at Austin, and a BTech from the Indian Institute of Technology (IIT) Delhi. Recent international appointments include a Visiting Professorship at the Beijing Institute of Mathematical Sciences and Applications, China, and a Guest Professorship at Plaksha University, India. I also held a recent research stay at the Isaac Newton Institute for Mathematical Sciences, University of Cambridge. <a href="/cv/" style="text-decoration: none;">Short CV →</a>
 
-In 2024–25, I was a <a href="https://tu-dresden.de/bu/wirtschaft/die-fakultaet/news/auszeichnung-von-associate-professor-bismark-singh-als-distinguished-research-fellow" style="text-decoration: none;">Distinguished Research Fellow</a> at TU Dresden, Germany. In 2025–26, I am awarded a <a href="https://tu-dresden.de/internationales/foerdermoeglichkeiten/individuelle-foerderungen/dresden-fellowship-programm" style="text-decoration: none;">Dresden Senior Fellowship</a>. In 2025–26, I was also invited to a <a href="https://www.csbdresden.de/join-us/as-a-visiting-faculty" style="text-decoration: none;">Senior Visiting Faculty</a> position at the Center for Systems Biology Dresden.
+I have secured approximately €370,000 in competitive research funding as PI or co-PI, from agencies including the German Research Foundation (DFG), the European Union's Horizon 2020 programme, and the US Department of Energy/Sandia National Laboratories.
 
-I am also affiliated with the <a href="https://www.modus.uni-bayreuth.de/en/members/application-team/Singh/index.php" style="text-decoration: none;">Research Center for Modeling and Simulation (MODUS)</a> at the University of Bayreuth, Germany.
-
-I am the winner of the Mathematics 2023 <a href="https://www.mdpi.com/journal/mathematics/awards/2137" style="text-decoration: none;">Young Investigator Award</a>. 
-
-My research centers on *data-driven decision-making under uncertainty*, with a particular focus on discrete stochastic optimization models. From formulating these models to developing novel algorithms and real-world applications, I advance mathematical decision-making in complex and uncertain environments. 
-
-Forthcoming book: *Optimization and Data-Driven Decision-Making: From Deterministic to Chance-Constrained Models*, Springer, Lecture Notes in Economics and Mathematical Systems, 2027. [<a href="https://link.springer.com/book/9783032431547" style="text-decoration: none;">Springer</a>]
-
-My research has been funded by, among others, the German Research Foundation (DFG), the Horizon 2020 program, and the US Department of Energy's LDRD program. <a href="/research/" style="text-decoration: none;">Explore My Research →</a>
+My forthcoming book, <em>Optimization and Data-Driven Decision-Making: From Deterministic to Chance-Constrained Models</em>, will be published by Springer in 2027. [<a href="https://link.springer.com/book/9783032431530" style="text-decoration: none;"> Springer link</a>]
 
 
-### Latest News
+
+### Recent Highlights
 
 
-🎉 **Student accomplishments**: 
-  - Congratulations to my student Montree Jaidee for passing his PhD defense. Congratulations to him also for being shortlisted for the Smith Institute's <a href="https://www.smithinst.co.uk/takeaim/" style="text-decoration: none;"> TakeAim 2026</a> competition. 
-  - Congratulations to my student Zheng Sun for winning 2nd place in the <a href="https://www.informs.org/Publications/OR-MS-Tomorrow/OR-MS-Tomorrow-Mini-Poster-Competition-2025" style="text-decoration: none;">INFORMS 2025 OR/MS Tomorrow Mini-Poster Competition</a>. Zheng's thesis on applying facility location problems for Hampshire's recycling centers was extended towards a work currently under peer review for publication.
-  -   Congratulations to my student Malena Schmidt for winning the <a href="https://www.vvsor.nl/articles/hemelrijk-award-winner-2025/" style="text-decoration: none;">2025 Hemelrijk Award</a> by the Dutch OR Society for the best MSc thesis. Malena's exceptional thesis produced two articles in the INFORMS Journal on Computing and Networks. 
+- **2026 — Research and policy impact:** Our work on reorganizing Hampshire's Household Waste Recycling Centre network is published in <em>Networks</em>. Funded by the University of Southampton's Sustainability and Resilience Institute, the project develops optimization models for balancing access, utilisation, and equity in undesirable facility-location decisions and provides quantitative evidence relevant to Hampshire's local waste-management policy.
 
-🎉 **Exciting Opportunities**:
-  - (2025--26) I have been awarded a competitive funding of £19,000 under UK's Higher Education Innovation Funding (HEIF) scheme by Southampton to collaborate with the Hampshire County Council on combinatorial undesirable facility location problems. If you're a mathematically talented student interested in contributing, please contact me. 
-  - (2025--26) I have also been awarded a competitive funding of £15,000 under a highly competitive university-wide  Global Partnership Award specifically for collaborating with India. I will be engaging with premier IITs and IIMs actively in 2026.
-  - A <a href="https://www.findaphd.com/phds/project/mathematically-modeling-systems-resilient-against-unforeseen-attacks/?p177266" style="text-decoration: none;">new PhD position</a> with me in discrete optimization is now open at the University of Southampton! If you are a talented and eligible student, please apply through the university website here.
-  - <a href="https://scholar.google.com/citations?user=M6RoyZAAAAAJ&hl=en" style="text-decoration: none;">Dr. Hongtao Wang</a> joins my group as a new postdoc. He will work on discrete optimization with healthcare applications. Welcome!
-  - *Open Invitation*: I always welcome talented and mathematically strong students or postdocs from around the world to join my research team or collaborate on exciting projects. <a href="/research/" style="text-decoration: none;">Explore →</a>
+- **Recent publications:** Recent work includes articles in <em>Networks</em> on facility-location and recycling-center reorganization, <em>Discrete Applied Mathematics</em> on analytical bounds for quadratic integer optimization, <em>IISE Transactions</em> on allocating scarce therapeutic resources under uncertainty, and <em>Annals of Operations Research</em> on mobility inequity in India. <a href="/publications/" style="text-decoration: none;">Publications →</a>
+
+- **2026 — International appointments:** During my recent sabbatical, I held a Visiting Professorship at the Beijing Institute of Mathematical Sciences and Applications, China, and a Guest Professorship at Plaksha University, India, alongside a research stay at the Isaac Newton Institute for Mathematical Sciences, University of Cambridge.
+
+- **2026 — Invited lectures:** I gave invited seminars at institutions including Tsinghua University, the Chinese Academy of Sciences, The University of Hong Kong, The Chinese University of Hong Kong, the Indian School of Business, IIM Ahmedabad, IIT Bombay, IIT Delhi, and the University of Birmingham. <a href="/talks/" style="text-decoration: none;">Invited talks →</a>
+
+- **2026 — Editorial role:** I joined the Editorial Board of <em>Optimization Letters</em>.
+
+- **2026 — Student accomplishments:** Montree Jaidee completed his PhD and was a finalist in the Smith Institute's TakeAim competition. Zheng Sun won 2nd place in the 2025 INFORMS OR/MS Tomorrow Mini-Poster Competition, while Malena Schmidt received the 2024 Jan Hemelrijk Award of the Dutch OR Society for her MSc thesis. <a href="/team/" style="text-decoration: none;">Research team →</a>
+
+- **2026 — UK–India research partnerships:** My Global Partnership Award by the the University of Southampton on developing research partnerships with institutions in India was featured in a short video. <a href="https://www.youtube.com/watch?v=sm-Qv0voraE" style="text-decoration: none;">Watch on YouTube →</a>
+
+- **2025–26 — Research recognition:** I was awarded a Dresden Senior Fellowship at TU Dresden, following my 2024–25 Distinguished Research Fellowship.
+
+
+
   
-🎉 **Recent Publications:**: 
-  - Dec. 2025: My work analyzing the first-ever Census mobility data of India is now published in <a href="https://link.springer.com/article/10.1007/s10479-025-06972-3" style="text-decoration: none;">Annals of Operations Research</a>.  
-  - Nov. 2025: My work (with my former student) is now published in <a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="text-decoration: none;">Discrete Applied Mathematics</a>. We provide a rare closed-form lower bound for a class of minimizing quadratic functions over a discrete polyhedral set. 
-  - Nov. 2025: My work (with Francesca Maggioni jointly supervising Gabriele Marchesi) is now accepted in the <a href="https://mlxor-workshop.github.io/#papers" style="text-decoration: none;">NeurIPS MLxOR Workshop</a>. This marks my first time in a NeurIPS venue!
-  - Sep. 2025: My work (with Dmitry Gromov) is now published in <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319550" style="text-decoration: none;">PLOS ONE</a>. We study a unique interdisciplinary problem: how do we model the spread of fear/worry during pandemics? Thanks to the German DFG for supporting me.
-  - Jul. 2025: My new work (with Steffen Rebennack) is now published in <a href="https://www.tandfonline.com/doi/full/10.1080/24725854.2025.2525918" style="text-decoration: none;">IISE Transactions</a>. We study optimal strategies for allocating scarce medical resources under uncertainty. Thanks to the German DFG for supporting me.
-  - Apr. 2025: Our article is now published in the <a href="https://pubsonline.informs.org/doi/10.1287/inte.2024.0160" style="text-decoration: none;">INFORMS Journal on Applied Analytics</a>. Congratulations to my student Nikila Suresh, who was also awarded Southampton's Dean's List Award for Outstanding Achievement, for this impact-based work.
-  - Feb. 2025: Our article is now published in the <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0693" style="text-decoration: none;">INFORMS Journal on Computing</a>. Congratulations to my student Malena Schmidt for an outstanding thesis work encompassing both theoretical and computational grounds of undesirable facility location problems. 
- 
-🎉 **Special Issue**:
-  - I am the Guest Editor of a <a href="https://link.springer.com/journal/11590/updates/27713526" style="text-decoration: none;">Special Issue on Stochastic Optimization for Reliability and Maintenance</a> for Optimization Letters. I invite you to consider submitting your work!
- 
-🎉 **Distinguished Lecture**:
-  - In December 2024, I delivered a Distinguished Lecture at the <a href="https://www.casus.science/?page_id=12281" style="text-decoration: none;">Centre for Advanced Systems Understanding (CASUS)</a>, Helmholtz, Görlitz, Germany.
-
-🎉 **Invited Visits and Lectures**: 
-  -   January 2026: I visited IIT Delhi, IIT Goa, and IIT Bombay engaging with students and faculty. We have several exciting joint student theses and research works in stochastic optimization coming up. Stay tuned! 
-  -   December 2025: Dr. Hamed Rahimian, assistant professor at Clemson University (US), will visit me at Southampton for a month as part of my successful Heilbronn International Visitors Scheme proposal. We will work on stochastic/robust extensions of some of my work on facility location problems.
-  -   September 2024: Organized a week-long seminar at <a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24399" style="text-decoration: none;">Schloss Dagstuhl</a> on reliable decision-making under uncertainty.
-  -   TU Dresden published an <a href="https://tu-dresden.de/bu/wirtschaft/forschung/interview-bismark-singh" style="text-decoration: none;">interview</a> from my visiting professorship.
-  -   University of Bayreuth published an <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/interview_Singh/index.html" style="text-decoration: none;">interview</a> from my Humbolt-Centre research visit.
-  - September 2024: Research visit to the Faculty of Mathematics, University of Latvia, Riga.
-  - 2024: Multiple long visits, including an honorary lecture, to TU Dresden as part of my <a href="https://tu-dresden.de/bu/wirtschaft/die-fakultaet/news/auszeichnung-von-associate-professor-bismark-singh-als-distinguished-research-fellow" style="text-decoration: none;">guest professorship</a>.
-  - June 2024: Invited to the University of Bayreuth, hosted by their <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/recently-selected-short-term-grantees/index.html" style="text-decoration: none;">Humboldt Centre</a>, for a three-week research collaboration.
