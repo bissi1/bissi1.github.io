@@ -322,7 +322,7 @@ In: <a href="https://doi.org/10.1007/978-3-642-27931-7_19" style="color: #0066cc
 
 <li>B. Singh & S. Rebennack. "When should we release scarce medical resources during an outbreak?" <em>ISE Magazine</em>, Institute of Industrial and Systems Engineers, 2026. <a href="https://www.iise.org/isemagazine/Issue.aspx?IssueMonth=03&IssueYear=2026" style="color: #0066cc; text-decoration: none;">Link</a></li>
 
-<li>B. Singh, H. Yang, L. A. Meyers & D. P. Morton. "Designing COVID-19 staged alert systems." <em>Behind the Paper</em>, <em>Nature Communications</em>, 2021. <a href="https://healthcommunity.nature.com/posts/designing-covid-19-staged-alert-systems" style="color: #0066cc; text-decoration: none;">Link</a></li>
+<li>B. Singh, H. Yang, L. A. Meyers & D. P. Morton. "Designing COVID-19 staged alert systems." <em>Behind the Paper</em>, <em>Nature Communications</em>, 2021. <a href="https://communities.springernature.com/posts/designing-covid-19-staged-alert-systems" style="color: #0066cc; text-decoration: none;">Link</a></li>
 
 <li>B. Singh. "Trade-off curves between ambition and responsibility during COVID-19." <em>OR News</em>, Gesellschaft für Operations Research, 2020. <a href="http://www.gor-ev.de/die-aktuelle-or-news-69-august-2020" style="color: #0066cc; text-decoration: none;">Link</a></li>
 
