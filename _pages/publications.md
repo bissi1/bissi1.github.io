@@ -12,7 +12,7 @@ classes: full
 }
 </style>
 
-My publications span mathematical optimization and operations research, including theoretical and computational work, as well as interdisciplinary research in public health and epidemiology, energy systems, sustainability, and other quantitative applications. For citation counts and other metrics, please see my <a href="https://scholar.google.com/citations?user=qA9YJYYAAAAJ&hl=en" style="color: #0066cc; text-decoration: none;">Google Scholar</a>, <a href="https://www.scopus.com/authid/detail.uri?authorId=56493626200&origin=AuthorEval" style="color: #0066cc; text-decoration: none;">Scopus</a>, or <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1092994" style="color: #0066cc; text-decoration: none;">MathSciNet</a> profiles. Publications co-authored with <strong><em>my students</em></strong> are indicated with an asterisk (*) next to the student's name.
+My publications span mathematical optimization and operations research, including theoretical and computational work, as well as interdisciplinary research in public health and epidemiology, energy systems, sustainability, and other quantitative applications. For citation counts and other metrics, please see my <a href="https://scholar.google.com/citations?user=qA9YJYYAAAAJ&hl=en" style="color: #0066cc; text-decoration: none;">Google Scholar</a>, <a href="https://www.scopus.com/authid/detail.uri?authorId=56493626200&origin=AuthorEval" style="color: #0066cc; text-decoration: none;">Scopus</a>, or <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1092994" style="color: #0066cc; text-decoration: none;">MathSciNet</a> profiles. Publications co-authored with <strong><em>my students</em></strong> are indicated with an asterisk (\*) next to the student's name.
 
 ## Book
 
@@ -25,7 +25,7 @@ B. Singh. <em>Optimization and Data-Driven Decision-Making: From Deterministic t
 <div class="square-bullets">
 <ul>
 
-<li>[37] B. Singh. "On the resolution of ties in fair convex allocation programs".<br>
+<li>[37] B. Singh. "On the resolution of ties in fair convex allocation problems".<br>
 In: <a href="https://journalofconvexanalysis.com/articles/jca34036/" style="color: #0066cc; text-decoration: none;"><i>Journal of Convex Analysis</i></a></li>
 
 </ul>
@@ -42,7 +42,7 @@ In: <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.70056" style="color
 <li>[35] Y. Akbulut, B. Singh. "On the optimal control of initial velocity in a hyperbolic beam equation by the variational method".<br>
 In: <a href="https://link.springer.com/article/10.1007/s11590-026-02296-8" style="color: #0066cc; text-decoration: none;"><i>Optimization Letters</i></a></li>
 
-<li>[33] C. Schmitt<sup>(*)</sup>, B. Singh. "An analytical lower bound for a class of minimizing quadratic integer optimization problems".<br>
+<li>[34] C. Schmitt<sup>(*)</sup>, B. Singh. "An analytical lower bound for a class of minimizing quadratic integer optimization problems".<br>
 In: <a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201" style="color: #0066cc; text-decoration: none;"><i>Discrete Applied Mathematics</i></a></li>
 
 </ul>
@@ -53,7 +53,7 @@ In: <a href="https://www.sciencedirect.com/science/article/pii/S0166218X25006201
 <div class="square-bullets">
 <ul>
 
-<li>[34] B. Singh. "Analyzing Census data for patterns of mobility inequity: Gender, geography, and public policy in India".<br>
+<li>[33] B. Singh. "Analyzing Census data for patterns of mobility inequity: Gender, geography, and public policy in India".<br>
 In: <a href="https://link.springer.com/article/10.1007/s10479-025-06972-3" style="color: #0066cc; text-decoration: none;"><i>Annals of Operations Research</i></a></li>
 
 <li>[32] B. Singh. "Lucas Junot: The singing mathematician of Coimbra".<br>
@@ -272,7 +272,7 @@ In: <a href="https://wwwnc.cdc.gov/eid/article/21/2/14-1024_article" style="colo
 <div class="square-bullets">
 <ul>
 
-<li>[8] G. Marchesi<sup>(*)</sup>, F. Maggioni, B. Singh. "A mixed-integer programming framework for fairness-constrained support vector machines".<br>
+<li>[7] G. Marchesi<sup>(*)</sup>, F. Maggioni, B. Singh. "A mixed-integer programming framework for fairness-constrained support vector machines".<br>
 In: <a href="https://openreview.net/forum?id=aGtZzovQfZ" style="color: #0066cc; text-decoration: none;"><i>NeurIPS 2025 Workshop: ML×OR — Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making</i></a></li>
 
 </ul>
@@ -283,13 +283,13 @@ In: <a href="https://openreview.net/forum?id=aGtZzovQfZ" style="color: #0066cc; 
 <div class="square-bullets">
 <ul>
 
-<li>[7] C. Ritter<sup>(*)</sup>, B. Singh. "Statistical performance of subgradient step-size update rules in Lagrangian relaxations of chance-constrained optimization models".<br>
+<li>[6] C. Ritter<sup>(*)</sup>, B. Singh. "Statistical performance of subgradient step-size update rules in Lagrangian relaxations of chance-constrained optimization models".<br>
 In: <a href="https://link.springer.com/chapter/10.1007/978-3-031-47859-8_26" style="color: #0066cc; text-decoration: none;"><i>Lecture Notes in Computer Science</i></a></li>
 
-<li>[6] B. Singh. "Chance-constrained programming: classical probability approximations".<br>
+<li>[5] B. Singh. "Chance-constrained programming: classical probability approximations".<br>
 In: <a href="https://link.springer.com/rwe/10.1007/978-3-030-54621-2_784-1" style="color: #0066cc; text-decoration: none;"><i>Encyclopedia of Optimization</i></a></li>
 
-<li>[5] B. Singh. "Chance-constrained programming: joint and individual constraints".<br>
+<li>[4] B. Singh. "Chance-constrained programming: joint and individual constraints".<br>
 In: <a href="https://link.springer.com/rwe/10.1007/978-3-030-54621-2_785-1" style="color: #0066cc; text-decoration: none;"><i>Encyclopedia of Optimization</i></a></li>
 
 </ul>
@@ -300,10 +300,10 @@ In: <a href="https://link.springer.com/rwe/10.1007/978-3-030-54621-2_785-1" styl
 <div class="square-bullets">
 <ul>
 
-<li>[4] B. Singh, H.-C. Huang, D. P. Morton, G. P. Johnson, B. Clements, L. A. Meyers. "Optimization-based decision-support tools for influenza pandemic preparedness".<br>
+<li>[3] B. Singh, H.-C. Huang, D. P. Morton, G. P. Johnson, B. Clements, L. A. Meyers. "Optimization-based decision-support tools for influenza pandemic preparedness".<br>
 In: <a href="https://www.researchgate.net/publication/333773698_Optimization-Based_Decision-Support_Tools_for_Influenza_Pandemic_Preparedness" style="color: #0066cc; text-decoration: none;"><i>Proceedings of the 2019 IISE Annual Conference & Expo</i></a></li>
 
-<li>[3] B. Singh, D. Pozo. "A guide to solar power forecasting using ARMA models".<br>
+<li>[2] B. Singh, D. Pozo. "A guide to solar power forecasting using ARMA models".<br>
 In: <a href="https://ieeexplore.ieee.org/document/8905430/" style="color: #0066cc; text-decoration: none;"><i>2019 IEEE PES ISGT-Europe</i></a></li>
 
 </ul>
@@ -314,7 +314,7 @@ In: <a href="https://ieeexplore.ieee.org/document/8905430/" style="color: #0066c
 <div class="square-bullets">
 <ul>
 
-<li>[2] B. Singh. "A mathematical model for market manipulations".<br>
+<li>[1] B. Singh. "A mathematical model for market manipulations".<br>
 In: <a href="https://doi.org/10.1007/978-3-642-27931-7_19" style="color: #0066cc; text-decoration: none;"><i>Market Risk and Financial Markets Modeling</i></a></li>
 
 </ul>
