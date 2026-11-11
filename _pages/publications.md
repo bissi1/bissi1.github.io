@@ -327,7 +327,7 @@ In: <a href="https://doi.org/10.1007/978-3-642-27931-7_19" style="color: #0066cc
 <li>B. Singh. "Trade-off curves between ambition and responsibility during COVID-19." <em>OR News</em>, Gesellschaft für Operations Research, 2020. <a href="http://www.gor-ev.de/die-aktuelle-or-news-69-august-2020" style="color: #0066cc; text-decoration: none;">Link</a></li>
 
 <li>
-<strong>INFORMS History and Traditions Committee.</strong> As an Editorial Board Member, I contributed to several essays documenting the history of operations research and mathematical optimization, based in part on interviews and historical material assembled by the committee:
+<strong>INFORMS History and Traditions Committee.</strong> As an Editorial Board Member, I wrote several essays documenting the history of operations research and mathematical optimization, based in part on interviews and historical material assembled by the committee:
   <div class="square-bullets">
   <ul>
     <li><a href="https://www.informs.org/Explore/History-of-O.R.-Excellence/O.R.-Methodologies/Optimization-Mathematical-Programming" style="color: #0066cc; text-decoration: none;"><em>A Brief History of Optimization and Mathematical Programming</em></a></li>
