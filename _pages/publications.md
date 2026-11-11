@@ -30,7 +30,9 @@ In: <a href="https://journalofconvexanalysis.com/articles/jca34036/" style="colo
 </ul>
 </div>
 
-### 2026
+<h3 class="publication-year">2026</h3>
+<div class="square-bullets">
+<ul>
 
 <div class="square-bullets">
 <ul>
