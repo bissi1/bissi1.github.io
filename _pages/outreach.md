@@ -1,16 +1,31 @@
 ---
-title: "Promoting Mathematics"
+title: "Outreach & Public Engagement"
 permalink: /outreach/
 layout: archive
 classes: full
 ---
 
+I enjoy undertaking public engagement and outreach on mathematical optimization, data-driven decision-making, and, in general, promoting the role of mathematics in everyday life.
 
-Beyond my primary research interests, I am passionate about introducing *mathematical optimization* and, more broadly, *STEM* disciplines to the public. I believe that employing a conversational tone, while maintaining scientific rigor, makes complex concepts more accessible and engaging. This approach allows mathematics to be appreciated not only as a field of technical inquiry but as a lens to view the world around us.
+## Public Engagement & Media
 
-I have published several *educational*, *recreational*, and *pedagogical* works, following peer review, on topics such as history of mathematicians, mathematical monuments, mathematics education, and just mathematics in daily life. These works, published in academic yet approachable journals, demonstrate the explainability of mathematics without relying heavily on jargon.
+<div class="square-bullets">
+<ul>
 
-## Selected Educational Publications
+<li>University of Southampton Global Partnership Award, 2026; feature video on building UK–India research partnerships. <a href="https://www.youtube.com/watch?v=sm-Qv0voraE" style="color: #0066cc; text-decoration: none;">Watch →</a></li>
+
+<li>St. John's High School, Chandigarh, 2026; outreach lecture on school priorities, student development, and mathematical decision-making. <a href="https://www.instagram.com/p/DVgd7PpE73V43MRsxk7MeJEmSdBjVe9cv2TdTM0/?igsh=NDc5eWpvYWs4ZGtx" style="color: #0066cc; text-decoration: none;">View →</a></li>
+
+<li>University of Southampton Delhi, 2026; outreach lecture, "From algebra to policy: Data-driven decision-making". <a href="https://www.linkedin.com/feed/update/urn:li:activity:7438456417159720960/" style="color: #0066cc; text-decoration: none;">View →</a></li>
+
+<li>Far Eastern Federal University, Vladivostok, 2021; featured in the TV program "Live with an Academic: What is integer programming?" <a href="https://www.youtube.com/watch?v=FT_M9LsqCgI" style="color: #0066cc; text-decoration: none;">Watch →</a></li>
+
+<li>INFORMS, 2015. Featured in the "What's Your StORy?" INFORMS series. <a href="https://www.informs.org/Impact/What-s-your-StORy/2015-What-s-Your-Story/Bismark-Singh" style="color: #0066cc; text-decoration: none;">Read →</a></li>
+
+</ul>
+</div>
+
+## Selected Writing on Mathematics
 
 
 <div class="square-bullets">
@@ -25,37 +40,4 @@ I have published several *educational*, *recreational*, and *pedagogical* works,
 </ul>
 </div>
 
-
-## Editorial Contributions
-
-<div class="square-bullets">
-<ul>
-<li>Faculty Advisor: <a href="https://www.informs.org/Publications/OR-MS-Tomorrow/Editorial-Staff" style="color: #0066cc; text-decoration: none;"><i>OR/MS Tomorrow</i></a> student magazine, INFORMS.<br>
-  <em>I particularly encourage students to contribute engaging articles.</em></li>
-
-<li>Editorial Board Member: INFORMS History and Traditions Committee.<br>
-  As part of this committee, we published several essays documenting the history of mathematical optimization. These essays, featuring interviews and insights from eminent personalities, are maintained by INFORMS:
-  <div class="square-bullets">
-    <ul>
-      <li><a href="https://www.informs.org/Explore/History-of-O.R.-Excellence/O.R.-Methodologies/Optimization-Mathematical-Programming" style="color: #0066cc; text-decoration: none;"><i>Brief History of Optimization and Mathematical Programming</i></a></li>
-      <li><a href="https://www.informs.org/Explore/History-of-O.R.-Excellence/Academic-Institutions/Soviet-Institutions" style="color: #0066cc; text-decoration: none;"><i>Development of Operations Research in the Soviet Union</i></a></li>
-      <li><a href="https://www.informs.org/Explore/History-of-O.R.-Excellence/Academic-Institutions/Center-for-Operations-Research-and-Economics-CORE-Universite-Catholique-de-Louvain" style="color: #0066cc; text-decoration: none;"><i>Center for Operations Research and Economics (CORE), Université catholique de Louvain</i></a></li>
-      <li><a href="https://www.informs.org/Explore/History-of-O.R.-Excellence/Academic-Institutions/University-of-Texas" style="color: #0066cc; text-decoration: none;"><i>University of Texas</i></a></li>
-      <li><a href="https://www.informs.org/Explore/History-of-O.R.-Excellence/O.R.-Application-Areas/Chemical-and-Petroleum" style="color: #0066cc; text-decoration: none;"><i>History of OR Excellence: Chemical and Petroleum</i></a></li>
-    </ul>
-  </div>
-</li>
-</ul>
-</div>
-
-
-## Poetry
-
-Occasionally, I write poetry in English, developing my creative interests. Like my academic work, these poems are also published following peer review:
-
-<div class="square-bullets">
-<ul>
-  <li>Singh, B. (2023). “Bicycle.” <a href="https://www.tandfonline.com/doi/full/10.1080/17448727.2023.2263997" style="color: #0066cc; text-decoration: none;"><i>Sikh Formations: Religion, Culture, and Theory</i></a> (Q1 ranked).</li>
-  <li>Singh, B. (2009). “I never asked them.” <a href="https://www.jstor.org/stable/23348036" style="color: #0066cc; text-decoration: none;"><i>Indian Literature</i></a> (India's oldest English-language poetry journal).</li>
-</ul>
-</div>
+Additional professional, historical, and creative writing is listed on my <a href="/publications/" style="text-decoration: none;">Publications →</a>.
