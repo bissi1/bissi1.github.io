@@ -5,6 +5,13 @@ layout: archive
 classes: full
 ---
 
+<style>
+.publication-year {
+  margin-top: 0.7em !important;
+  margin-bottom: 0.4em !important;
+}
+</style>
+
 My publications span mathematical optimization and operations research, including theoretical and computational work, as well as interdisciplinary research in public health and epidemiology, energy systems, sustainability, and other quantitative applications. For citation counts and other metrics, please see my <a href="https://scholar.google.com/citations?user=qA9YJYYAAAAJ&hl=en" style="color: #0066cc; text-decoration: none;">Google Scholar</a>, <a href="https://www.scopus.com/authid/detail.uri?authorId=56493626200&origin=AuthorEval" style="color: #0066cc; text-decoration: none;">Scopus</a>, or <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1092994" style="color: #0066cc; text-decoration: none;">MathSciNet</a> profiles. Publications co-authored with <strong><em>my students</em></strong> are indicated with an asterisk (\*) next to the student's name.
 
 ## Book
@@ -13,8 +20,7 @@ B. Singh. <em>Optimization and Data-Driven Decision-Making: From Deterministic t
 
 ## Peer-reviewed Journal Articles
 
-### 2027
-
+<h3 class="publication-year">2027</h3>
 <div class="square-bullets">
 <ul>
 
