@@ -18,7 +18,7 @@ I enjoy undertaking public engagement and outreach on mathematical optimization,
 
 <li>University of Southampton Delhi, 2026; outreach lecture, "From algebra to policy: Data-driven decision-making". <a href="https://www.linkedin.com/feed/update/urn:li:activity:7438456417159720960/" style="color: #0066cc; text-decoration: none;">View →</a></li>
 
-<li>Far Eastern Federal University, Vladivostok, 2021; featured in the TV program "Live with an Academic: What is integer programming?" with E. Nurminskii <a href="https://www.youtube.com/watch?v=FT_M9LsqCgI" style="color: #0066cc; text-decoration: none;">Watch →</a></li>
+<li>Far Eastern Federal University, Vladivostok, 2021; featured in the TV program "Live with an Academic: What is integer programming?" with E. Nurminskii. <a href="https://www.youtube.com/watch?v=FT_M9LsqCgI" style="color: #0066cc; text-decoration: none;">Watch →</a></li>
 
 <li>INFORMS, 2015. Featured in the "What's Your StORy?" INFORMS series. <a href="https://www.informs.org/Impact/What-s-your-StORy/2015-What-s-Your-Story/Bismark-Singh" style="color: #0066cc; text-decoration: none;">Read →</a></li>
 

@@ -29,7 +29,7 @@ My forthcoming book, <em>Optimization and Data-Driven Decision-Making: From Dete
 
 - **2026 — Invited lectures:** I gave invited seminars at institutions including Tsinghua University, the Chinese Academy of Sciences, The University of Hong Kong, The Chinese University of Hong Kong, the Indian School of Business, IIM Ahmedabad, IIT Bombay, IIT Delhi, and the University of Birmingham. <a href="/talks/" style="text-decoration: none;">Invited talks →</a>
 
-- **2026 — Editorial role:** I joined the Editorial Board of <em>Optimization Letters</em>.
+- **2026 — Editorial roles:** I joined the Editorial Boards of <em>Optimization Letters</em> and the <em>INFORMS Journal on Applied Analytics</em>.
 
 - **2026 — Student accomplishments:** Montree Jaidee completed his PhD and was a finalist in the Smith Institute's TakeAim competition. Zheng Sun won 2nd place in the 2025 INFORMS OR/MS Tomorrow Mini-Poster Competition, while Malena Schmidt received the 2024 Jan Hemelrijk Award of the Dutch OR Society for her MSc thesis. <a href="/team/" style="text-decoration: none;">Research team →</a>
 
