@@ -24,6 +24,11 @@ B. Singh. <em>Optimization and Data-Driven Decision-Making: From Deterministic t
 
 <div class="square-bullets">
 <ul>
+<li>[39] P. Sarda, B. Singh. "Denomination: A sequential placement puzzle for teaching integer programming".<br>
+In: <a href="https://pubsonline.informs.org/journal/ited" style="color: #0066cc; text-decoration: none;"><i>INFORMS Transactions on Education</i></a> (to appear) </li>
+
+<li>[38] B. Singh. "An analytical reading of The Asura Way".<br>
+In: <a href="https://pubsonline.informs.org/toc/ijaa/0/0/" style="color: #0066cc; text-decoration: none;"><i>INFORMS Journal on Applied Analytics</i></a> (to appear) </li>
 
 <li>[37] B. Singh. "On the resolution of ties in fair convex allocation problems".<br>
 In: <a href="https://journalofconvexanalysis.com/articles/jca34036/" style="color: #0066cc; text-decoration: none;"><i>Journal of Convex Analysis</i></a></li>
@@ -233,8 +238,6 @@ In: <a href="https://wwwnc.cdc.gov/eid/article/21/2/14-1024_article" style="colo
 
 <div class="square-bullets">
 <ul>
-
-<li>[R13] P. Sarda, B. Singh. "Denomination: A sequential placement puzzle for teaching integer programming".</li>
 
 <li>[R12] Shajeeb, J. Jacob, B. Singh, A. Krishnamoorthy. "Product-form queueing-inventory systems with two types of negative customers".</li>
 
