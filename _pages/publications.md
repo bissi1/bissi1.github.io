@@ -24,7 +24,7 @@ B. Singh. <em>Optimization and Data-Driven Decision-Making: From Deterministic t
 
 <div class="square-bullets">
 <ul>
-<li>[39] P. Sarda, B. Singh. "Denomination: A sequential placement puzzle for teaching integer programming".<br>
+<li>[39] P. Sarda<sup>(*)</sup>, B. Singh. "Denomination: A sequential placement puzzle for teaching integer programming".<br>
 In: <a href="https://pubsonline.informs.org/journal/ited" style="color: #0066cc; text-decoration: none;"><i>INFORMS Transactions on Education</i></a> (to appear) </li>
 
 <li>[38] B. Singh. "An analytical reading of The Asura Way".<br>
